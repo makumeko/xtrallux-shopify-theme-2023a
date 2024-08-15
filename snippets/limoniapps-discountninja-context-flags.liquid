@@ -1,0 +1,372 @@
+{%- comment -%}V4.6.0 - November 2022
+This file is system-genererated by Discount Ninja and should not be modified or stored in a source control system.
+Do not modify or remove this snippet, we reserve the right to overwrite it at any moment to add improvements or new features so that customizations you made might be lost.
+{%- endcomment -%}
+
+{
+    {% comment %}
+    Version
+    {% endcomment %}
+    Version: "v4.6.0",
+
+    {% comment %}
+    VariantPriceUpdateRequiresDelay
+    Default: false
+    If set the app waits before updating the variant price after a new variant is selected
+    This is useful if the shop's theme executes JavaScript immediately after a new variant is selected
+    that updates the variant price html
+    {% endcomment %}
+    VariantPriceUpdateRequiresDelay: false,
+
+    {% comment %}
+    ProductsAreLoadedAsynchronously
+    Default: false
+    If set the app waits for prices on the collection page 
+    This is useful if the shop loads products (or prices for products) asynchronously (search and filter apps)
+    {% endcomment %}
+    ProductsAreLoadedAsynchronously: false,
+    
+    {% comment %}
+    ThemeOverridesReloadPageAfterCartAdjustments
+    Default: true
+    Instructs the app to override the ReloadPageAfterCartAdjustments flags based on the default settings of the theme
+    {% endcomment %}
+    ThemeOverridesReloadPageAfterCartAdjustments: true,
+
+    {% comment %}
+    ReloadPageAfterCartAdjustmentsOnCart
+    Default: true
+    Instructs the app to reload the cart page when a gift has been added to the cart or the rows of a cart are split
+    {% endcomment %}
+    ReloadPageAfterCartAdjustmentsOnCart: true,
+
+    {% comment %}
+    ReloadPageAfterCartAdjustments
+    Default: true
+    Instructs the app to reload the page when a gift has been added to the cart or the rows of a cart are split
+    {% endcomment %}
+    ReloadPageAfterCartAdjustments: true,
+
+    {% comment %}
+    CallbackAfterReloadPageForCartAdjustments
+    Default: null
+    Instructs the app to execute a callback after reloading the page when a gift has been added to the cart or the rows of a cart are split
+    {% endcomment %}
+    CallbackAfterReloadPageForCartAdjustments: null,
+
+    {% comment %}
+    DrawerCartRefreshMethod
+    Default: null
+    Instructs the app to execute this method when a gift has been added to the cart or the rows of a cart are split
+    Example: DrawerCartRefreshMethod: "buildCart(discountNinjaContext.Cart)"
+    {% endcomment %}
+    DrawerCartRefreshMethod: null,
+
+    {% comment %}
+    EnableAddToCartHook
+    Default: false
+    Instructs the app to replace the implementation of the add to cart button on the product page with logic to capture the event
+    {% endcomment %}
+    EnableAddToCartHook: false,
+
+    {% comment %}
+    UnregisterThirdPartyCheckoutClickEvents
+    Default: false
+    Instructs the app to remove any event handlers listening to the submit event of checkout forms
+    This can help Discount Ninja to redirect to the advanced checkout when other apps are also subscribed to the submit of the checkout form
+    Note: the event handlers are removed before the app registers its own event handler
+          other apps can register other event handlers after this
+    {% endcomment %}
+    UnregisterThirdPartyCheckoutClickEvents: false,
+
+    {% comment %}
+    ReplaceDefaultCheckoutEventsOnButtons
+    Default: false
+    Instructs the app to remove any event handlers listening to the click or touch events of checkout buttons
+    Note: the event handlers are removed before the app registers its own event handler
+          other apps can register other event handlers after this
+    {% endcomment %}
+    ReplaceDefaultCheckoutEventsOnButtons: false,
+
+    {% comment %}
+    ReplaceDefaultCheckoutEventsOnLinks
+    Default: true
+    Instructs the app to remove any event handlers listening to the click or touch events of checkout links
+    Note: the event handlers are removed before the app registers its own event handler
+          other apps can register other event handlers after this
+    {% endcomment %}
+    ReplaceDefaultCheckoutEventsOnLinks: true,
+
+    {% comment %}
+    CustomCheckoutButton
+    Default: false
+    Instructs the app to hide checkout buttons marked with the limoniapps-discountninja-checkoutbutton-hide css class
+    and show those with the limoniapps-discountninja-checkoutbutton-show css class
+    This can be useful if the standard checkout button is redirecting to the standard checkout because the app
+    is unable to cancel the standard behavior of the checkout button
+    {% endcomment %}
+    CustomCheckoutButton: false,
+
+    {% comment %}
+    StickyBarShouldPushSelectors
+    Default: null
+    Instructs the app to move custom elements down when the sticky bar is positioned at the top
+    Expects a comma separated list with the jQuery selectors for those elelements.
+    Example: '#fsb_background, .privy-tab-container' 
+    StickyBarShouldPushSelectorsDesktop and StickyBarShouldPushSelectorsMobile are also supported
+    {% endcomment %}
+    StickyBarShouldPushSelectors: null,
+
+    {% comment %}
+    DelayCheckoutMilliseconds
+    Default: 0
+    The app polls Shopify services to ensure the checkout is ready before redirecting.
+    Use this setting to set a delay in milliseconds if the above mentioned system fails (e.g. 500).
+    {% endcomment %}
+    DelayCheckoutMilliseconds: 0,
+
+    {% comment %}
+    AllowCancelCheckoutByForm
+    Default: true
+    If set to true, this instructs the app to cancel submit events on forms when a Discount Ninja checkout is in progress.
+    {% endcomment %}
+    AllowCancelCheckoutByForm: true,
+
+    {% comment %}
+    WaitForProductCards
+    Default: false
+    If set to true, this instructs the app to wait for product cards in a collection to be available before changing prices.
+    This helps to show correct prices for dynamically loaded collection pages
+    {% endcomment %}
+    WaitForProductCards: false,
+
+    {% comment %}
+    SkipWaitForJQuery
+    Default: false
+    If set to false, the app will wait for the theme to load jQuery for a max. of 1000ms.
+    If set to true, this instructs the app to load jQuery if a compatible version is not immediately available.
+    {% endcomment %}
+    SkipWaitForJQuery: false,
+
+    {% comment %}
+    MandatoryCheckboxes
+    Default: null
+    Add a css selector to select the input element that contains the checkbox
+	If set, this instructs the app to check if those checkboxes are checked before proceeding to checkout
+    Example: MandatoryCheckboxes: "input[name='tos-checkbox'] input.tos-checkbox #tos-checkbox-input"
+    {% endcomment %}
+	MandatoryCheckboxes: null,
+
+    {% comment %}
+    StickyBarRenderingDelay
+    Default: 0
+    Defines the delay (in ms) to render the sticky bar.
+    This flag can help to avoid conflicts with themes where the header height is calculated dynamically.
+    {% endcomment %}
+    StickyBarRenderingDelay: 0,
+
+    {% comment %}
+    HideCollectionBadgeForSoldOutProducts
+    Default: true
+    Set this flag to false to render collection badges for products that are sold out.
+    {% endcomment %}
+    HideCollectionBadgeForSoldOutProducts: true,
+
+    {% comment %}
+    RedirectToCheckoutOnFallBack
+    Default: true
+    If set to true, this instructs the app to redirect to checkout by clicking the checkout button, which triggers a submit of the checkout form
+    This is the recommended approach.
+    {% endcomment %}
+	RedirectToCheckoutOnFallBackUsingSubmit: true,
+
+    {% comment %}
+    RedirectToCheckoutOnFallBack
+    Default: true
+    If set to true, this instructs the app to redirect to checkout using a hard redirect (window.location) rather than by replaying the submit event
+    If RedirectToCheckoutOnFallBackUsingSubmit is set to true, that approach will be used first.
+    We recommend setting RedirectToCheckoutOnFallBackUsingSubmit to true.
+    This mechanism should only be used as a fallback.
+    {% endcomment %}
+	RedirectToCheckoutOnFallBack: true,
+
+    {% comment %}
+    VerifyVariantUsingQuery
+    Default: false
+    If set to false, this instructs the app to rely on the selected option in the form first and the variant query parameter second
+	to detect the selected variant on the product page.
+    If set to true the order is inversed.
+    {% endcomment %}
+	VerifyVariantUsingQuery: false,
+
+    {% comment %}
+    VerifyVariantUsingSelectedOption
+    Default: false
+    If set to true the app uses the selected option (if different) rather than the option with the selected index.
+    {% endcomment %}
+	VerifyVariantUsingSelectedOption: false,
+
+    {% comment %}
+	DrawerCartRedrawnEvents
+	Default: null
+    Comma separated list of events (must be published on the document object) that signal that the drawer cart HTML has been re-rendered
+	Discount Ninja will apply Dynamic Pricing after this event
+    {% endcomment %}
+	DrawerCartRedrawnEvents: null,
+
+    {% comment %}
+    RepairLinksAtCheckout (Shopify Plus only)
+    Default: true
+    If set to true, Discount Ninja will repair the links to the cart and home page when on the checkout page
+    This feature is only available for Shopify Plus customers since it relies on a script that needs to be deployed on the checkout page
+    {% endcomment %}
+    RepairLinksAtCheckout: true,
+
+    {% comment %}
+    RedirectLoginFromCheckoutToCart
+    Default: true
+    If set to true, Discount Ninja will apply promotions when customers log in at checkout
+    {% endcomment %}
+    ApplyPromotionsOnRedirectLoginFromCheckout: true,
+
+    {% comment %}
+    RedirectLoginFromCheckoutToCart
+    Default: 'cart'
+    Note: this setting only takes effect if ApplyPromotionsOnRedirectLoginFromCheckout is set to true
+    If set to 'cart', Discount Ninja will redirect to the cart after the customer has logged in (when logging in from the checkout)
+    If set to 'checkout', Discount Ninja will redirect to the checkout after the customer has logged in (when logging in from the checkout)
+    It is recommended to select 'cart' if promotions of the type 'free gift' or 'BOGO' are used. 
+    When using 'checkout' the app will not be able to make the necessary changes to the cart if a 'free gift' or 'BOGO' promotion 
+    is unlocked by logging in.
+    {% endcomment %}
+    ActionAfterRedirectLoginFromCheckout: 'cart',
+
+    {% comment %}
+    UseCartJSApi
+    Default: false
+    If set to true, the CartJS methods will be used to manipulate the content of the cart rather than the standard Cart API 
+    This setting has no effect if CartJS is not used by the theme
+    {% endcomment %}
+    UseCartJSApi: false,
+
+    {% comment %}
+    AllowCurrencyConversionUsingCurrencyConvertAll
+    Default: true
+    If set to false, the app will not use the window.Currency.convertAll function to convert money amounts
+	to the selected currency. Use this setting only if using window.Currency.convertAll does not show
+	correctly formatted money amounts.
+    {% endcomment %}
+    AllowCurrencyConversionUsingCurrencyConvertAll: true,
+
+    {% comment %}
+    CopyAllPropertiesWhenSplitting
+    Default: true
+    If set to false, the app will not copy properties of the original line when splitting lines (for example in BOGO scenarios)
+    {% endcomment %}
+    CopyAllPropertiesWhenSplitting: true,
+
+    {% comment %}
+    CopyAllPropertiesWhenSplitting
+    Default: 'round'
+    Can be set to:
+     'ceil': rounds up (1.25 becomes 2)
+     'floor': rounds down (1.9 becomes 1)
+     'round': rounds down below .5 and up above (1.25 becomes 1, 1.5 becomes 2, 1.9 becomes 2)
+    {% endcomment %}
+    CurrencyConversionRoundingAlgorithm: 'round',
+
+    {% comment %}
+    Selector3Installments
+    Default: null
+    Discount Ninja supports a number of apps that allow customers to pay in 3 installments (e.g. Hoolah).
+    If your app is not supported, add a CSS selector that allows the app to identify where the price of each installment is displayed on the product (or cart) page.
+    Example: '.mywidget .myinstallment-price'
+    {% endcomment %}
+    Selector3Installments: null,
+
+    {% comment %}
+    Selector4Installments
+    Default: null
+    Discount Ninja supports a number of apps that allow customers to pay in 4 installments (e.g. QuadPay, AfterPay, Sezzle, ShopPay).
+    If your app is not supported, add a CSS selector that allows the app to identify where the price of each installment is displayed on the product (or cart) page.
+    Example: '.mywidget .myinstallment-price'
+    {% endcomment %}
+    Selector4Installments: null,
+
+    {% comment %}
+    SkipProcessQuantityChangesBeforeCheckout
+    Default: false
+    If set to false, skips the logic aimed at reading the quantities of products from fields with the name updates[]
+    {% endcomment %}
+    SkipProcessQuantityChangesBeforeCheckout: false,
+
+    {% comment %}
+    QuickViewPriceAttribute and QuickViewCompareAtPriceAttribute
+    Default: null
+    Provides support for variant prices in QuickView popups on collection pages.
+    Point the attributes to the price and compare at price (dollars, not cents) in the selected variant option element
+    Example (Boost Commerce Product & Filter): "data-current-price-without-currency" and "data-was-price-without-currency"
+    {% endcomment %}
+    QuickViewPriceAttribute: null,
+    QuickViewCompareAtPriceAttribute: null,
+
+    {% comment %}
+    ShortCodeVersion
+    Default: "1"
+    Use 2 to enable a mode where the number of PRODUCTS_LEFT_BEFORE_DISCOUNT, ENTITLED_QUANTITY and MINIMUM_CART_PRODUCTS are not adjusted for BOGO
+    {% endcomment %}
+    ShortCodeVersion: "1",
+
+    {% comment %}
+    HideProductBannerIfOverallocated
+    Default: false
+    If set to true, the product banner is not displayed when the maximum number of entitled items for an offer
+    has been added to the cart
+    {% endcomment %}
+    HideProductBannerIfOverallocated: false,
+
+    {% comment %}
+    ShowCollectionBadgeIfOverallocated
+    Default: false
+    If set to false, the collection badge is not displayed when the maximum number of entitled items for an offer
+    has been added to the cart
+    {% endcomment %}
+    ShowCollectionBadgeIfOverallocated: false,
+
+    {% comment %}
+    UseFetch
+    Default: false
+    If set to true, the app will use the fetch instead of the XmlHttpRequest object to handle network requests
+    {% endcomment %}
+    UseFetch: false,
+
+    {% comment %}
+    AvoidHandlingNonDiscountedCheckout
+    Default: false
+    If set to true, the app will avoid handling the checkout if the cart is not discounted
+    This implies that the theme has to handle the redirection to the checkout
+    {% endcomment %}
+    AvoidHandlingNonDiscountedCheckout: false,
+
+    {% comment %}
+    RefetchCartBeforeCheckout
+    Default: false
+    If set to true, the app will fetch the content of the cart before redirecting to the checkout
+    {% endcomment %}
+    RefetchCartBeforeCheckout: false,
+
+    {% comment %}
+    UseProxy
+    Default: true
+    If set to true, the app will send all communication with DN endpoints via the app proxy
+    This requires the proxy to be named 'discountninja' (the default setting since 2023) in the Shopify settings of the app
+    {% endcomment %}
+    UseProxy: false,
+
+    {% comment %}
+    UseCDN
+    Default: true
+    If set to true, the app will use the CDN to load promotions when appropriate
+    {% endcomment %}
+    UseCDN: true
+}

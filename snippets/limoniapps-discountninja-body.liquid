@@ -1,0 +1,28 @@
+{%- comment -%}V4.6.0 - November 2022
+This file is system-genererated by Discount Ninja and should not be modified or stored in a source control system.
+Do not modify or remove this snippet, we reserve the right to overwrite it at any moment to add improvements or new features so that customizations you made might be lost.
+{%- endcomment -%}
+
+{%- comment -%}
+Add noscript css to the body to disable block animation if JavaScript is unavailable
+Add a warning for users that disable JavaScript
+{%- endcomment -%}
+<noscript>
+    <style>
+        .limoniapps-discountninja-block { animation: unset !important; }
+            .limoniapps-discountninja-block:after { animation: unset !important; }
+            .limoniapps-discountninja-block .limoniapps-discountninja-button-spinner:before { animation: unset !important; }
+    </style>
+	<div class="limoniapps-discountninja-warning-nojs">This website uses JavaScript to apply discounts. To be eligible for discounts, please enable JavaScript for your browser.</div>
+</noscript>
+
+{%- comment -%}
+Add context JSON to the body
+Note: this block cannot use render, it requires an include
+{%- endcomment -%}
+{%- include 'limoniapps-discountninja-context' -%}
+
+{%- comment -%}
+Add templates of building blocks to the body
+{%- endcomment -%}
+{%- render 'limoniapps-discountninja-cartdiscountfield' -%}

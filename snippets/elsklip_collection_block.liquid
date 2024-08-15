@@ -1,0 +1,22 @@
+{% if product %}
+  <div
+    class="elsklip-coupon-box"
+    data-product-id="{{ product.id }}"
+    {% if short %}
+      data-short
+    {% endif %}
+  ></div>
+  <script>
+      if(window.KLIP_APP_DATA && window.KLIP_APP_DATA.products){
+      window.KLIP_APP_DATA.products = {
+        ...window.KLIP_APP_DATA.products,
+        "{{ product.id }}": {
+          id: {{ product.id }},
+      collectionIds: [{% for c in product.collections %}{{ c.id }}{% unless forloop.last %},{% endunless %}{% endfor %}],
+      tags: {{ product.tags | json }},
+      variants: {{ product.variants | json }}
+    }
+    }
+    }
+  </script>
+{% endif %}

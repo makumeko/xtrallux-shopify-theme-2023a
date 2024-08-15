@@ -1,0 +1,58 @@
+{%- comment -%}V4.6.0 - November 2022
+This file is system-genererated by Discount Ninja and should not be modified or stored in a source control system.
+Do not modify or remove this snippet, we reserve the right to overwrite it at any moment to add improvements or new features so that customizations you made might be lost.
+{%- endcomment -%}
+
+{%- layout none -%}
+
+{%- comment -%}Return Json payload{%- endcomment -%}
+{%- if product and discountninjaproduct == nil -%}{%- assign discountninjaproduct = product -%}{%- endif -%}
+{
+  "Currency": "{{cart.currency.iso_code}}",
+  "Id": "{{discountninjaproduct.id}}",
+  "Handle": "{{discountninjaproduct.handle}}",
+  "Price": {{discountninjaproduct.first_available_variant.price | default: discountninjaproduct.variants[0].price | default: 0}},
+  "CompareAtPrice": {{discountninjaproduct.first_available_variant.compare_at_price | default: discountninjaproduct.variants[0].compare_at_price | default: 0}},
+  "Collections": {{discountninjaproduct.collections | map: 'handle' | default: '[[--NONE--]]' | join: ',' | json }},
+  "CollectionIds": "{{discountninjaproduct.collections | map: 'id' | default: '[[--NONE--]]' | join: ','}}",
+  "Tags": {{discountninjaproduct.tags | default: '[[--NONE--]]' | join: ',' | json }},
+  "Available": {{discountninjaproduct.available}},
+  "Variants": [
+      {%- comment -%}Loop through each variant of the product (maximum 200) {%- endcomment -%}
+      {%- for discountninjaProductVariant in discountninjaproduct.variants limit: 200 -%}
+          {%- comment -%}Add inventory quantity if it is tracked{%- endcomment -%}
+          {%- assign inventory_quantity = discountninjaProductVariant.inventory_quantity -%}
+          {%- if inventory_quantity == nil or inventory_quantity <= 0 -%}
+              {%- assign inventory_quantity_below_zero = 1 -%}
+          {%- else -%}
+              {%- assign inventory_quantity_below_zero = 0 -%}
+          {%- endif -%}
+          {%- if discountninjaProductVariant.inventory_management and discountninjaProductVariant.inventory_policy == 'deny' -%}
+              {%- assign inventory_quantity_apply = 1 -%}
+          {%- else -%}
+              {%- assign inventory_quantity_apply = 0 -%}
+          {%- endif -%}
+          {%- if inventory_quantity_below_zero == 1 and inventory_quantity_apply == 0 -%}
+              {%- assign inventory_quantity = 'null' -%}
+          {%- endif -%}      
+       
+          {%- comment -%}Get price and compare at price of the variant{%- endcomment -%}
+          {%- assign discountninja_variant_price = discountninjaProductVariant.price -%}
+          {%- assign discountninja_compare_at_or_product_price = discountninjaProductVariant.compare_at_price -%}   
+      
+          {%- comment -%}If compare at price if not available, default to price{%- endcomment -%}
+          {%- if discountninja_compare_at_or_product_price == nil or discountninja_compare_at_or_product_price < discountninja_variant_price -%}
+              {%- assign discountninja_compare_at_or_product_price = discountninja_variant_price -%}
+          {%- endif -%}
+      
+          {%- comment -%}Add to array{%- endcomment -%}
+          { 
+			"VariantId": {{ discountninjaProductVariant.id | default: 0 }}, 
+			"Price": {{ discountninja_variant_price | default: 0 }}, 
+			"CompareAtPrice": {{ discountninja_compare_at_or_product_price | default: 0 }}, 
+			"Inventory": {{ inventory_quantity | default: 0 }}, 
+			"IsSubscriptionProduct":  {%- if discountninjaProductVariant.selling_plan_allocations.size > 0 -%}true{%- else -%}false{%- endif -%}
+		  }{%- if forloop.last == false -%},{%- endif -%}                                                  
+      {%- endfor -%}
+   ]
+}

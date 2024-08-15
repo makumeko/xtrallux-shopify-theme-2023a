@@ -1,0 +1,255 @@
+{{- 'modal.css' | asset_url | stylesheet_tag -}}
+{%- liquid
+	assign modalbt_id = section.settings.modalbt_id
+-%}
+
+<!-- modal -->
+<div id="modal_aw" class="modal_aw_class">
+
+  <!-- modal content -->
+  <div class="modal-content">
+	
+	<div class="close_wrapper">
+		<span class="close"><span class="close-txt"></span> <i class="fa-regular fa-circle-xmark"></i></span>
+	</div>
+	
+	<div class="modal-content-blocks">
+		{% for block in section.blocks %}
+			{%- case block.type -%}
+				{%- when 'image' -%}
+					{%- if block.settings.image != blank -%}
+						{%- liquid
+							assign image = block.settings.image
+							assign master_width = image.src.width | append: 'x' | append: image.src.height
+							render 'responsive-image', image: image, sizes: master_width, retina: true
+						-%}
+					{%- else -%}
+						<div class="thb-placeholder">
+							{{ 'image' | placeholder_svg_tag: 'placeholder_svg_tag' }}
+						</div>
+					{%- endif -%}
+				{%- when 'subheading' -%}
+					<p class="subheading" {{ block.shopify_attributes }}>{{ block.settings.text }}</p>
+				{%- when 'heading' -%}
+					{%- liquid
+						assign marker_style = block.settings.marker_style
+						assign marker_color = block.settings.marker_color
+						assign text = block.settings.text | newline_to_br
+					-%}
+					<h3 class="{{ block.settings.size }} {{ heading_class }}" {{ block.shopify_attributes }}>{% render 'animated-marker-heading', heading: text, style: marker_style, color: marker_color %}</h3>
+				{%- when 'text' -%}
+					<div class="rte {{ block.settings.size }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
+				{%- when 'custom_liquid' -%}
+					<div class="custom_liquid">{{ block.settings.custom_liquid }}</div>
+			{%- endcase -%}
+		{% endfor %}
+    </div>
+	
+	<div style="text-align: center;">
+		<span class="close close-txt">Close</span>
+	</div>
+	
+  </div>
+
+</div>
+
+<script>
+var modal = document.getElementById("modal_aw");
+var btn = document.getElementById("{{ modalbt_id }}");
+var spans = document.getElementsByClassName("close");
+btn.onclick = function() {
+	modal.style.display = "block";
+	setTimeout(function() {
+		document.querySelector('.modal-content').style.transform = 'translateY(0)';
+		document.querySelector('.modal-content').style.opacity = 1;
+	}, 10);
+}
+for (var i = 0; i < spans.length; i++) {
+	spans[i].onclick = function() {
+		document.querySelector('.modal-content').style.transform = 'translateY(-50%)';
+		document.querySelector('.modal-content').style.opacity = 0;
+		setTimeout(function() {
+			modal.style.display = "none";
+		}, 300);
+	};
+}
+window.onclick = function(event) {
+  if (event.target == modal) {
+	document.querySelector('.modal-content').style.transform = 'translateY(-50%)';
+	document.querySelector('.modal-content').style.opacity = 0;
+	setTimeout(function() {
+	  modal.style.display = "none";
+	}, 300); // Match this timeout to the CSS transition duration
+  }
+}
+</script>
+
+{% schema %}
+  {
+	  "name": "Modal Dialog",
+	  "settings": [
+		  {
+			  "type": "text",
+			  "id": "modalbt_id",
+			  "label": "Modal Button ID",
+			  "default": "yourUniqueID",
+			  "info": "Use this ID on your links to invoque the modal"
+		  }
+	  ],
+	  "blocks": [
+		  {
+			  "type": "image",
+			  "name": "Image",
+			  "settings": [
+				  {
+					  "type": "image_picker",
+					  "id": "image",
+					  "label": "Image"
+				  }
+			  ]
+		  },
+		  {
+			  "type": "subheading",
+			  "name": "Subheading",
+			  "settings": [
+				  {
+					  "type": "text",
+					  "id": "text",
+					  "label": "Text",
+					  "default": "Subheading for this section"
+				  }
+			  ]
+		  },
+		  {
+			  "type": "heading",
+			  "name": "Heading",
+			  "settings": [
+				  {
+					  "type": "html",
+					  "id": "text",
+					  "label": "Text",
+					  "default": "Talk about your brand",
+					  "info": "Wrap your text between | to add animated markers. For example: Animated |marker| will underline marker text."
+				  },
+				  {
+					  "type": "select",
+					  "id": "marker_style",
+					  "options": [
+						  {
+							  "value": "style1",
+							  "label": "Basic"
+						  },
+						  {
+							  "value": "style2",
+							  "label": "Double"
+						  },
+						  {
+							  "value": "style3",
+							  "label": "Squiggle"
+						  },
+						  {
+							  "value": "style4",
+							  "label": "Zigzag"
+						  }
+					  ],
+					  "default": "style1",
+					  "label": "Marker"
+				  },
+				  {
+					  "type": "select",
+					  "id": "size",
+					  "label": "Size",
+					  "options": [
+						  {
+							  "value": "h1",
+							  "label": "Extra Large"
+						  },
+						  {
+							  "value": "h2",
+							  "label": "Large"
+						  },
+						  {
+							  "value": "h3",
+							  "label": "Medium"
+						  },
+						  {
+							  "value": "h4",
+							  "label": "Small"
+						  }
+					  ],
+					  "default": "h3"
+				  },
+				  {
+					  "type": "header",
+					  "content": "Colors"
+				  },
+				  {
+					  "type": "color",
+					  "id": "marker_color",
+					  "label": "Marker",
+					  "default": "#FD6262"
+				  }
+			  ]
+		  },
+		  {	
+			  "type": "custom_liquid",
+				"name": "Custom Liquid",
+				"settings": [
+					{
+					"type": "liquid",
+					"id": "custom_liquid",
+					"label": "Custom Liquid"
+					}
+				]
+			},
+		  {
+			  "type": "text",
+			  "name": "Text",
+			  "settings": [
+				  {
+					  "type": "richtext",
+					  "id": "text",
+					  "label": "Content",
+					  "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+				  },
+				  {
+					  "type": "select",
+					  "id": "size",
+					  "label": "Size",
+					  "options": [
+						  {
+							  "value": "text-size-large",
+							  "label": "Large"
+						  },
+						  {
+							  "value": "text-size-regular",
+							  "label": "Medium"
+						  },
+						  {
+							  "value": "text-size-small",
+							  "label": "Small"
+						  }
+					  ],
+					  "default": "text-size-regular"
+				  }
+			  ]
+		  }
+	  ],
+	  "presets": [
+		  {
+			  "name": "Modal Dialog",
+			  "blocks": [
+				  {
+					  "type": "subheading"
+				  },
+				  {
+					  "type": "heading"
+				  },
+				  {
+					  "type": "text"
+				  }
+			  ]
+		  }
+	  ]
+  }
+{% endschema %}

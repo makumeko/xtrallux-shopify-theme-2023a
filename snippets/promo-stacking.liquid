@@ -1,0 +1,24 @@
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+	var elements = document.querySelectorAll('.klaviyo_form_trigger');
+	elements.forEach(function(element) {
+		element.addEventListener('click', function() {
+			window._klOnsite = window._klOnsite || []; 
+			window._klOnsite.push(['openForm', 'VUcLmq']);
+		});
+	});
+});
+</script>
+
+<style>
+	.promotion-stacking {
+		padding: 7px;
+		border: 1px dashed #424242;
+		font-size: 1em;
+		margin-bottom: 10px;
+	}
+</style>
+
+{% if product.compare_at_price > product.price %}
+  <div class="promotion-stacking"><b>Presidents' Day Sale! Limited Time Only. </b><br>Save an <span style="color:red">extra 10%</span> when you <a href="#" class="klaviyo_form_trigger">subscribe to our promotions</a>.</div>
+{% endif %}

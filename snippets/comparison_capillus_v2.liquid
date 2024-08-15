@@ -1,0 +1,105 @@
+<style>
+	.comparison {
+		position: relative;
+	}
+	.features li {
+	  margin-bottom: 15px;
+	  padding: 10px 10px 10px 30px;
+	  list-style: none;
+	  margin: 0;
+	  vertical-align: middle;
+	  font-size: 1rem;
+	}
+	.features ul {
+		margin-left: 0px;
+		width:80%;
+	}
+	.features li {
+		border-bottom: 1px solid;
+	}
+	.features li.last {
+		border-bottom: none;
+	}
+	.features .xtrallux-features-li {
+		border-color: #FFC5C5;
+	}
+	.features .others-features-li {
+		border-color: #B4B4B4;
+	}
+	.xtrallux-features ul li {
+	  background: url("https://cdn.shopify.com/s/files/1/0611/9410/9168/files/circle-check-small.svg?v=1705365639")
+		no-repeat left center;
+	}
+	.others-features ul li {
+		background: url("https://cdn.shopify.com/s/files/1/0611/9410/9168/files/circle-xmark.svg?v=1705365564")
+			no-repeat left center;
+		color: #424242;
+	}
+	.features {
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  padding: 25px !important;
+	  border: 1px solid #DADCE0;	  
+	  background: linear-gradient(180deg, #FFECEC 0%, #FFFFFF 100%);
+	}
+	.others-features {
+	  background: linear-gradient(180deg, #C5C5C5 0%, rgba(255, 255, 255, 0) 100%);
+	  border-left: none;
+	}
+	.vs_comparison {
+		position: absolute;
+		top: 50px;
+		left: 47%;
+		background: red;
+		z-index: 50;
+		padding: 10px;
+		width: 50px;
+		border-radius: 100px;
+		text-align: center;
+		color: #fff;
+		font-weight: 900;
+		font-size: 20px;
+		font-style: italic;
+	}
+	.others-header {
+		padding-top: 28px;
+		font-weight: 500;
+	}
+	@media only screen and (max-width: 768px) {
+		.others-header {
+			padding-top:9px;
+			margin-bottom: 4px;
+		}
+		.features li {
+			height: 70px;
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+		.vs_comparison {
+			display:none;
+		}
+		.features {
+			border: none; 
+		}
+	}
+</style>
+<div class="row comparison">
+	<div class="small-12 medium-12 columns xtrallux-features features">
+		<div class="xtrallux-comparison-img">
+			<img src="https://cdn.shopify.com/s/files/1/0611/9410/9168/files/XtralluxLogo.svg?v=1705954420" width="100%"/>
+		</div>
+		<ul class="xtrallux-features-ul">
+			<li class="xtrallux-features-li">Excellent Cost Per Laser</li>
+			<li class="xtrallux-features-li">More lasers</li>
+			<li class="xtrallux-features-li">Accessories Included</li>
+			<li class="xtrallux-features-li">Private and Secure</li>
+			<li class="xtrallux-features-li">One battery model across devices</li>
+			<li class="xtrallux-features-li">Always in Stock</li>
+		</ul>
+		<div class="xtrallux-comparison-img">
+			<img src="https://cdn.shopify.com/s/files/1/0611/9410/9168/files/xtrallux_quality_device_8c9302c6-b66f-4adb-b1a9-fb505d5a14c2.png?v=1706794205" />
+		</div>
+	</div>
+</div>

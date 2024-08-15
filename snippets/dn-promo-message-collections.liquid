@@ -1,0 +1,26 @@
+{% comment %}
+  Show the following block if a discount ninja promotion is not present. (Using the class "limoniapps-discountninja-whenproductdiscounted-hide").
+  Source: https://support.discountninja.io/en/articles/3579852-client-side-api#h_46648c7982
+{% endcomment %}
+
+<style>
+	.promo-message-ai {
+		border-radius: 15px;
+		color: #424242;
+		text-align: center;
+		padding-top:15px;
+		padding-bottom: 15px;
+		background: #FAFAFA;
+	}
+	.promo-row {
+		padding-top:25px;
+		padding-bottom: 25px;
+		justify-content: center;
+	}
+</style>
+
+<div class="row promo-row">
+	<div class="column limoniapps-discountninja-whenactivepromotions-show promo-message-ai">
+		{{ collection.metafields.custom.promotion_message }}
+	</div>
+</div>
