@@ -141,8 +141,8 @@
     
     <!-- Custom CSS -->
     {{ 'xlaw.css' | asset_url | stylesheet_tag }}
-    {% include 'pagefly-app-header' %}
-  </head>
+    
+  {% include 'pagefly-app-header' %}</head>
   <body class="animations-{{ settings.animations }} button-uppercase-{{ settings.button_uppercase }} navigation-uppercase-{{ settings.navigation_uppercase }} product-card-spacing-{{ settings.product_card_spacing }} article-card-spacing-{{ settings.article_card_spacing }} {% if customer %} customer-logged-in{% endif %} template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} template-{{ template | replace: '.', '-' | handle }}">
     <!-- Hotjar Tracking Code for https://www.xtrallux.com -->
     <script>
