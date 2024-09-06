@@ -583,7 +583,7 @@
         "p {color: #2a2a2a;}",
         ".image-with-text-overlay--content-inner {background: rgba(244, 244, 244, 0.68); border-radius: 15px; padding: 45px;}",
         ".white {color: #d02030; background-color: transparent; font-weight: bold;}",
-        "@media only screen and (max-width: 768px) {p, .h2, .white {color: #424242 !important; } .white {padding: 0 10px; } .image-with-text-overlay {padding-top: 0px; } .image-with-text-overlay--content-inner {background-color: transparent; padding: 0px; text-align: center; }}"
+        "@media only screen and (max-width: 768px) {p, .h2, .white {color: #424242 !important; } .white {padding: 0 10px; } .image-with-text-overlay {padding-top: 0px; } .image-with-text-overlay--content-inner {background-color: transparent; padding: 10px; text-align: center; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/carlos_pina_xtrallux_and_capillus_founder_holding_an_xtrallux_device_desktop_home_brand_v2.1.jpg",
