@@ -50,6 +50,10 @@
         "a5e9b1ca-3b6f-4bcd-b458-4958a59eaffa"
       ],
       "custom_css": [
+        ".h2 {font-size: 30px; color: #2a2a2a;}",
+        "p {color: #2a2a2a;}",
+        ".image-with-text-overlay--content-inner {background: rgba(244, 244, 244, 0.68); border-radius: 15px; padding: 45px;}",
+        ".white {color: #d02030; background-color: transparent; font-weight: bold;}",
         "@media only screen and (max-width: 768px) {p, .h2 {color: #424242; } .white {color: #424242; padding: 0 10px; }}"
       ],
       "settings": {
