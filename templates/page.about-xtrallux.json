@@ -33,7 +33,7 @@
       ],
       "custom_css": [
         ".h2 p {color: #424242;}",
-        "@media only screen and (max-width: 768px) {p {font-size: 0.9rem; } .h2 p {color: #424242; }}"
+        "@media only screen and (max-width: 768px) {p {font-size: 0.9rem; } .h2 p {color: #424242; } .image-with-text-overlay--content {padding-top: 0px; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/carlos_pina_xtrallux_and_capillus_founder_holding_an_xtrallux_device_desktop_home_brand_v2.1.jpg",
