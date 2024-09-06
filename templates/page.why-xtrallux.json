@@ -1,1 +1,1389 @@
-{"sections":{"da411b86-5183-4a96-87a1-7afd28694af0":{"type":"image-with-text-overlay","blocks":{"template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-heading-1":{"type":"heading","settings":{"text":"<span class=\"xl-accent\">Xtrallux<\/span> Gives You More","heading_size":"h2"}},"template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-text-1":{"type":"text","settings":{"text":"<p>Regrow your hair with the most powerful laser caps in the market. Discover Why Xtrallux is the Smart Choice<\/p>","description_size":"medium"}},"template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-button-1":{"type":"button","settings":{"button_text":"Learn More","button_link":"#reasons-to-use-xtrallux","button_color":"accent"}}},"block_order":["template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-heading-1","template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-text-1","template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-button-1"],"custom_css":["@media only screen and (max-width: 768px) {.image-with-text-overlay--content {align-items: flex-start; text-align: center; } .h2, p {margin-bottom: 10px; } .button {height: 40px; }}"],"settings":{"image":"shopify:\/\/shop_images\/xtrallux_compare_to_cheap_devices_hero.jpg","mobile_image":"shopify:\/\/shop_images\/why_xtrallux_is_the_best_option_mobile_v1.5.jpg","image_parallax":false,"desktop_height":"desktop-height-550","mobile_height":"mobile-height-500","full_width":true,"content_width":"medium","content_position":"middle-left","text_alignment":"left","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0,"disable_top_spacing":true,"disable_bottom_spacing":true}},"cab8d31e-2599-485c-a8a9-ea923f0805dd":{"type":"custom-liquid","custom_css":[".lllt-featured {padding: 25px; text-align: center; background-color: #f5f5f5; font-weight: 500; color: #424242;}","@media only screen and (max-width: 768px) {.lllt-featured {font-size: 0.9rem; padding-bottom: 0px; }}"],"settings":{"custom_liquid":"<div class=\"lllt-featured\">LLLT technology has been featured in:<\/div>"}},"00879213-f356-4732-823d-a7ef2962b784":{"type":"scrolling-text","blocks":{"template--17287251984624__00879213-f356-4732-823d-a7ef2962b784-text-1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-10_grande_ab381910-0172-4858-9a14-d70d9539d63d.svg","text":"","link":"","outline_text":false}},"ffb978d6-9acc-4e7e-b58d-97870395c588":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-05_grande_7245a278-ba14-473d-ba8d-b46d97e78128.svg","text":"","link":"","outline_text":false}},"145bfc61-43bb-4d94-b16f-ec7902df4d59":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-01_grande_0c8c4c5c-e473-4149-9bfc-4cc60c234ad3.svg","text":"","link":"","outline_text":false}},"0ab1aac0-0193-43fa-8f01-45041bc0ca79":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-12_grande_8dcb0326-ce47-4bba-84ce-7b30f70c16fc.svg","text":"","link":"","outline_text":false}},"0530a8e9-7f80-4843-9b1f-78457a1a8a14":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-02_grande_b34897da-933a-4242-abe1-9d86c0324cfc.svg","text":"","link":"","outline_text":false}},"7a7ecd95-8a18-41d8-abb7-93b7ed5e7eb9":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-13_grande_6ca217cf-7c75-47dc-a1e3-e2969678be60.svg","text":"","link":"","outline_text":false}},"2ea4fab7-eaf6-4081-9a21-355512473534":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-08_grande_8e86e735-0845-4a58-9c12-68c84936d997.svg","text":"","link":"","outline_text":false}},"157e3724-fe4c-483b-9a96-ed9266ae4486":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-11_grande_c2284ace-a319-41b9-8d93-a94d6fcf8ea7.svg","text":"","link":"","outline_text":false}},"758f18cc-474c-4bea-bc8a-8fbcd0343e6d":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-09_grande_e4eb64e6-f329-4d1b-9a64-787e2d041e7b.svg","text":"","link":"","outline_text":false}},"0cb76702-b02f-44a0-bef9-2b9f14739fc1":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-04_grande_c2e5f70d-d58c-4e4c-a811-02854aa97fa6.svg","text":"","link":"","outline_text":false}},"0a43ec3d-c06c-40b1-9c01-3890de0f43f3":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-03_grande_cbb43d01-4ce8-461a-85bf-ccea2cd5b6ea.svg","text":"","link":"","outline_text":false}},"88cff0f7-cb0d-4ac3-8881-a9d506478e37":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-07_grande_c57cbdd1-86d8-4afa-9bda-19d4930eee88.svg","text":"","link":"","outline_text":false}},"8d1d213a-a4eb-4ee3-8b64-b0463649a5ee":{"type":"text","settings":{"image":"shopify:\/\/shop_images\/featured-06_grande_eda362f2-b695-4017-ac4e-085686a608cf.svg","text":"","link":"","outline_text":false}}},"block_order":["template--17287251984624__00879213-f356-4732-823d-a7ef2962b784-text-1","ffb978d6-9acc-4e7e-b58d-97870395c588","145bfc61-43bb-4d94-b16f-ec7902df4d59","0ab1aac0-0193-43fa-8f01-45041bc0ca79","0530a8e9-7f80-4843-9b1f-78457a1a8a14","7a7ecd95-8a18-41d8-abb7-93b7ed5e7eb9","2ea4fab7-eaf6-4081-9a21-355512473534","157e3724-fe4c-483b-9a96-ed9266ae4486","758f18cc-474c-4bea-bc8a-8fbcd0343e6d","0cb76702-b02f-44a0-bef9-2b9f14739fc1","0a43ec3d-c06c-40b1-9c01-3890de0f43f3","88cff0f7-cb0d-4ac3-8881-a9d506478e37","8d1d213a-a4eb-4ee3-8b64-b0463649a5ee"],"custom_css":["@media only screen and (max-width: 768px) {.scrolling-text--image--medium {height: 45px; }}"],"settings":{"height":"height-auto","full_width":true,"direction":"left","speed":"50s","rotation":0,"negative_rotation":false,"font_family":"heading","text_size":24,"text_uppercase":false,"image_size":"medium","color_bg":"#f5f5f5","color_text":"#1a1c1d","overlay_color":"#000000","overlay_opacity":0,"disable_top_spacing":true,"disable_bottom_spacing":true}},"f81c3cb4-fd46-4c49-af26-3e0b02d143ca":{"type":"image-with-text","blocks":{"0fea06b6-b8e8-4dd5-9e01-7ee6df7a8814":{"type":"heading","settings":{"text":"<span id=\"how-it-works\">How Laser Therapy Helps Hair Regrowth<\/span>","marker_style":"style1","heading_size":"h3","marker_color":"#fd6262"}},"e8e5395d-72fb-4351-b26d-d44a4d0bba05":{"type":"text","settings":{"text":"<p><strong>Low-Level Laser Therapy (LLLT) utilizes specific wavelengths of light to stimulate hair follicles. <\/strong><\/p><p>This light energy enhances cellular activity in the scalp, promoting hair growth. Xtrallux targets weakened follicles, increasing blood circulation and nutrient flow, which strengthens hair, reduces hair loss, and encourages new growth.In just 6 minutes a day, Xtrallux harnesses FDA-cleared, clinically-proven technology to nurture the growth of new, healthier hair.<\/p>"}},"9de63e32-fcbf-465e-9e7a-ebb1f1f25b6d":{"type":"button","settings":{"button_text":"Learn More","button_link":"#reasons-to-use-xtrallux"}}},"block_order":["0fea06b6-b8e8-4dd5-9e01-7ee6df7a8814","e8e5395d-72fb-4351-b26d-d44a4d0bba05","9de63e32-fcbf-465e-9e7a-ebb1f1f25b6d"],"disabled":true,"custom_css":["@media only screen and (max-width: 768px) {.image-with-text--content {padding-left: 5px; padding-right: 5px; } .image-with-text--content p {font-size: 0.9rem; }}"],"settings":{"image":"shopify:\/\/shop_images\/video_thumbnail.jpg","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":false,"height":"adapt","desktop_image_width":"medium","full_width":false,"layout":"image_first","content_position":"text-left","column_spacing":"medium","color_bg":"#ffffff","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":true}},"eb037b3e-47b8-495b-876b-8cab846bfd12_aw":{"type":"rich-text","blocks":{"c6ded546-903a-4a0e-89ef-f7330de6c6d1":{"type":"heading","settings":{"text":"<div id=\"learn-more\">Xtra Lasers. Xtra Features. Xtra Value.<\/div>","marker_style":"style1","size":"h3","marker_color":"#fd6262"}},"04eb502a-df29-4af7-bb46-1783570e82ce":{"type":"text","settings":{"text":"<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Regrow your hair with the most powerful laser caps in the market.<\/p>","size":"text-size-regular"}}},"block_order":["c6ded546-903a-4a0e-89ef-f7330de6c6d1","04eb502a-df29-4af7-bb46-1783570e82ce"],"custom_css":["@media only screen and (max-width: 768px) {.h3 {width: 100%; margin: 0 auto 15px auto; font-size: 20px; } .rich-text {padding-top: 0px; } .text-size-regular {margin-bottom: 25px; } .subheading {padding-top: 15px; }}"],"settings":{"text_width":"grid","text_position":"center","text_alignment":"center","color_bg":"rgba(0,0,0,0)","color_heading":"#1a1c1d","color_text":"#2c2d2e","color_links":"#d02030","disable_top_spacing":false,"disable_bottom_spacing":true}},"image_with_text_bQzanF":{"type":"image-with-text","blocks":{"subheading_qraVzF":{"type":"subheading","settings":{"text":"For Hereditary Hair Loss"}},"heading_7fGQkU":{"type":"heading","settings":{"text":"Effective Treatment","marker_style":"style1","heading_size":"h3","marker_color":"#fd6262"}},"text_976NiM":{"type":"text","settings":{"text":"<p><strong>If hair loss runs in your family, don't wait until it's too late. Treatment can help.<\/strong><\/p><p>Unfortunately, pattern hair loss in men and women is irreversible without surgery. Fortunately, early intervention can help prevent progression of thinning and restore vellus hairs to thicker, more visible hair.<\/p><p>While results vary, laser therapy has been shown to increase hair density <strong>by as much as 35-51% in published clinical studies.<\/strong><\/p><p><\/p>"}}},"block_order":["subheading_qraVzF","heading_7fGQkU","text_976NiM"],"custom_css":[".section-image-with-text {background-color: #fafafa;}"],"settings":{"image":"shopify:\/\/shop_images\/son_and_father_xtrallux_users_reasons_to_buy.jpg","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"height":"small","desktop_image_width":"small","full_width":false,"layout":"text_first","content_position":"text-left","column_spacing":"medium","color_bg":"#fafafa","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":false}},"image_with_text_TPJWd8":{"type":"image-with-text","blocks":{"subheading_qDzrjW":{"type":"subheading","settings":{"text":"Wear 6 Minutes DAily"}},"heading_HiexBM":{"type":"heading","settings":{"text":"Xtra Easy and Convenient","marker_style":"style1","heading_size":"h3","marker_color":"#fd6262"}},"text_KFbWWe":{"type":"text","settings":{"text":"<p>Any medically-indicated treatment is only effective if there is user compliance. Daily minoxidil application, pill-drinking or injections make compliance complicated. Xtrallux laser therapy is convenient, requiring wearing our hat for only 6 minutes daily. And since our technology is wearable and battery-powered, you don't have to stop what you're doing to use it.<\/p><p><em>If you do use other treatment methods, there is no contraindication for using laser therapy in combination with minoxidil or finasteride. In fact, many hair restoration physicians recommend laser therapy in conjunction to these aforementioned methods as well as hair restoration surgery.<\/em><\/p><p><\/p>"}}},"block_order":["subheading_qDzrjW","heading_HiexBM","text_KFbWWe"],"settings":{"image":"shopify:\/\/shop_images\/xtrallux_is_convenient_reasons.jpg","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"height":"small","desktop_image_width":"small","full_width":false,"layout":"image_first","content_position":"text-left","column_spacing":"medium","color_bg":"#ffffff","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":false}},"image_with_text_epREJL":{"type":"image-with-text","blocks":{"subheading_xNb7bt":{"type":"subheading","settings":{"text":"More Lasers and Density"}},"heading_xwNaik":{"type":"heading","settings":{"text":"Xtra Hair Density","marker_style":"style1","heading_size":"h3","marker_color":"#fd6262"}},"text_zEdXXR":{"type":"text","settings":{"text":"<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Get more lasers reaching where they need to stimulate more follicle growth on your scalp. Xtrallux provides xtra density for your hair at an excellent value.<\/p><p>Our hair growth caps target the follicle by using only laser light - no LEDs which lose light energy from the source to the target.<\/p><p><\/p>"}}},"block_order":["subheading_xNb7bt","heading_xwNaik","text_zEdXXR"],"custom_css":[".section-image-with-text {background-color: #fafafa;}"],"settings":{"image":"shopify:\/\/shop_images\/xtrallux_gives_hair_density_reasons.jpg","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"height":"small","desktop_image_width":"small","full_width":false,"layout":"text_first","content_position":"text-left","column_spacing":"medium","color_bg":"#fafafa","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":false}},"image_with_text_slideshow_VTFdff":{"type":"image-with-text-slideshow","blocks":{"slide_Vj9WHk":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_travel_accesories.png","subheading":"Travel and Storage","heading":"Xtra Features","heading_size":"h3","content":"<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.","button_text":"","wistia_id":"","button_link":"","color_bg":"#ffffff","color_text":"#2c2d2e","color_button":"#2c2d2e"}},"slide_KHbqjj":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_travel_accesories_2.png","subheading":"Travel and Storage","heading":"Xtra Features","heading_size":"h3","content":"<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.","button_text":"","wistia_id":"n2nftcw37x","button_link":"","color_bg":"#ffffff","color_text":"#2c2d2e","color_button":"#2c2d2e"}},"slide_EChXpe":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_whats_in_the_box.png","subheading":"Travel and Storage","heading":"Xtra Features","heading_size":"h3","content":"<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.","button_text":"","wistia_id":"n2nftcw37x","button_link":"","color_bg":"#ffffff","color_text":"#2c2d2e","color_button":"#2c2d2e"}}},"block_order":["slide_Vj9WHk","slide_KHbqjj","slide_EChXpe"],"custom_css":[],"settings":{"mobile_height":"mobile-height-350","desktop_height":"desktop-height-550","desktop_image_width":"small","layout":"image_first","content_position":"text-left","autoplay":true,"autoplay_length":5,"disable_top_spacing":true,"disable_bottom_spacing":false}},"image_with_text_eYqbCd":{"type":"image-with-text","blocks":{"subheading_eJUt6n":{"type":"subheading","settings":{"text":"Drug Free Solution"}},"heading_B6F8Dm":{"type":"heading","settings":{"text":"Xtra Safe","marker_style":"style1","heading_size":"h3","marker_color":"#fd6262"}},"text_PhxwQ9":{"type":"text","settings":{"text":"<p>Xtrallux laser caps use light energy to regrow hair; similar to how plants use energy from the sun to grow. Both processes produce biological effects in nature. Lasers were invented in the 1960s and have since been used in medical applications in many disciplines of medicine - from wound healing to skin conditions.<\/p><p>Unlike finasteride pills, laser therapy doesn't have impotence and infertility as reported side-effects. Xtrallux devices are safe & effective for treatment for mild to moderate cases of androgenetic alopecia. See full indications for use and contraindications on product details.<\/p><p><\/p>"}}},"block_order":["subheading_eJUt6n","heading_B6F8Dm","text_PhxwQ9"],"custom_css":[".section-image-with-text {background-color: #fafafa;}"],"settings":{"image":"shopify:\/\/shop_images\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"height":"small","desktop_image_width":"small","full_width":false,"layout":"image_first","content_position":"text-left","column_spacing":"medium","color_bg":"#fafafa","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":false}},"spacer_PPWYpz":{"type":"spacer","settings":{"spacer_mobile":0,"spacer_desktop":0,"border_separator":true,"border_separator_full":false}},"d166c0da-e113-4d58-bf20-604f68579b6f":{"type":"slideshow","blocks":{"template--17287251984624__d166c0da-e113-4d58-bf20-604f68579b6f-slide-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/son_and_father_xtrallux_users_reasons_to_buy.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"FOR HEREDITARY HAIR LOSS","heading":"<span id=\"reasons-to-use-xtrallux\">Effective Treatment<\/span>","heading_size":"h3","content":"<p><b>If hair loss runs in your family, don't wait until it's too late. Treatment can help.<\/b><\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/son_and_father_xtrallux_users_reasons_to_buy.jpg?v=1704914234\" class=\"mobile-only img-rounded\">\n<p>Unfortunately, pattern hair loss in men and women is irreversible without surgery. Fortunately, early intervention can help prevent progression of thinning and restore vellus hairs to thicker, more visible hair.<\/p>\n\n<p>While results vary, laser therapy has been shown to increase hair density <strong>by as much as 35-51% in published clinical studies.<\/strong><\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}},"slide_eUqRJK":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_is_convenient_reasons.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"WEAR 6 MINUTES DAILY","heading":"Easy & Convenient","heading_size":"h3","content":"<p>Any medically-indicated treatment is only effective if there is user compliance. Daily minoxidil application, pill-drinking or injections make compliance complicated. Xtrallux laser therapy is convenient, requiring wearing our hat for only 6 minutes daily. And since our technology is wearable and battery-powered, you don't have to stop what you're doing to use it.<\/p>\n\n<p><i>If you do use other treatment methods, there is no contraindication for using laser therapy in combination with minoxidil or finasteride. In fact, many hair restoration physicians recommend laser therapy in conjunction to these aforementioned methods as well as hair restoration surgery.<\/i><\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}},"slide_A8NMVT":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_gives_hair_density_reasons.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"MORE LASERS & DENSITY","heading":"Xtra Hair Density","heading_size":"h3","content":"<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Get more lasers reaching where they need to stimulate more follicle growth on your scalp. Xtrallux provides xtra density for your hair at an excellent value.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_gives_hair_density_reasons.jpg?v=1704919256\" class=\"mobile-only img-rounded\">\n<p>Our hair growth caps target the follicle by using only laser light - no LEDs which lose light energy from the source to the target.<\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}},"slide_83rajk":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"DRUG-FREE SOLUTION","heading":"Safe Treatment","heading_size":"h3","content":"<p>Xtrallux laser caps use light energy to regrow hair; similar to how plants use energy from the sun to grow. Both processes produce biological effects in nature. Lasers were invented in the 1960s and have since been used in medical applications in many disciplines of medicine - from wound healing to skin conditions.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg?v=1704919426\" class=\"mobile-only img-rounded\">\n<p>Unlike finasteride pills, laser therapy doesn't have impotence and infertility as reported side-effects. Xtrallux devices are safe & effective for treatment for mild to moderate cases of androgenetic alopecia. See full indications for use and contraindications on product details.<\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}},"slide_XwYpjM":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/xtrallux_gives_you_more_accesories_reasons.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"TRAVEL & STORAGE","heading":"Xtra Features","heading_size":"h3","content":"<p>We don't skimp on the extras. Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_gives_you_more_accesories_reasons.jpg?v=1704919683\" class=\"mobile-only img-rounded\">\n<p>Plus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.<\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}},"slide_4gRygG":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/doctor_holding_xtrallux_device_reasons.jpg","mobile_image":"shopify:\/\/shop_images\/fafafa.jpg","slide_link":"","video_background":false,"video_background_mobile":false,"badge_text":"","subheading":"PHYSICIAN PRESCRIBED","heading":"Available Direct","heading_size":"h3","content":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/doctor_holding_xtrallux_device_reasons.jpg?v=1704919784\" class=\"mobile-only img-rounded\">\n<p>Cleared for both physician and over-the-counter sale. Our physician providers trust Xtrallux laser caps for their practices because of their laser density, efficacy and convenience.<\/p>","description_size":"medium","content_position":"middle-left","text_alignment":"left","content_size":"medium","color_slidebg":"#ffffff","color_slidebg_opacity":0,"color_slidebg_blur":0,"color_text":"#424242","color_subheading":"#2c2d2e","color_badge_bg":"#eb4f45","color_badge_text":"#ffffff","overlay_color":"#424242","overlay_opacity":0,"overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)","button_1_text":"","button_1_color":"accent","wistia_id":"","button_1_link":"","use_text_button_1":false,"button_2_text":"","button_2_color":"white","button_2_link":"","use_text_button_2":false}}},"block_order":["template--17287251984624__d166c0da-e113-4d58-bf20-604f68579b6f-slide-1","slide_eUqRJK","slide_A8NMVT","slide_83rajk","slide_XwYpjM","slide_4gRygG"],"disabled":true,"custom_css":[".columns {padding-left: 0px; padding-right: 0px;}",".slideshow__slide-bg {background-color: #fafafa;}",".flickity-custom-navigation-wrapper {text-align: left; margin-left: 95px;}","br {display: none;}","img {margin-bottom: 25px;}",".slideshow-image--desktop {width: 450px; height: 428px; float: right; margin-right: 80px; margin-top: 60px; border-radius: 15px;}","@media only screen and (max-width: 768px) {.mobile-height-500 {height: 850px; } .flickity-custom-navigation-wrapper {text-align: center; } p {font-size: 0.9rem; }}"],"settings":{"desktop_height":"desktop-height-550","mobile_height":"mobile-height-500","full_width":false,"autoplay":false,"autoplay_length":5,"transition":"slide","controls":"arrows-with-numbers","disable_top_spacing":false,"disable_bottom_spacing":false}},"eb037b3e-47b8-495b-876b-8cab846bfd12":{"type":"rich-text","blocks":{"c6ded546-903a-4a0e-89ef-f7330de6c6d1":{"type":"heading","settings":{"text":"Xtrallux is Backed by Hair Loss Experts","marker_style":"style1","size":"h3","marker_color":"#fd6262"}},"04eb502a-df29-4af7-bb46-1783570e82ce":{"type":"text","settings":{"text":"<p>Physicians recommend Xtrallux for its clinically proven effectiveness and advanced technology in promoting hair regrowth and scalp health.<\/p>","size":"text-size-regular"}},"button_ffkpi4":{"type":"button","settings":{"link_label":"Shop Now","wistia_id":"","tf_data":"","link":"shopify:\/\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct"}},"50aa6b31-6b7d-4445-8954-efe5e982b2bf":{"type":"text-button","settings":{"link_label":"Watch Testimonials","link":"shopify:\/\/blogs\/xtrallux-physicians"}}},"block_order":["c6ded546-903a-4a0e-89ef-f7330de6c6d1","04eb502a-df29-4af7-bb46-1783570e82ce","button_ffkpi4","50aa6b31-6b7d-4445-8954-efe5e982b2bf"],"custom_css":[".text-button {margin-left: 15px;}","@media only screen and (max-width: 768px) {.h3 {width: 70%; margin: 0 auto 15px auto; font-size: 22px; }}"],"settings":{"text_width":"grid","text_position":"center","text_alignment":"center","color_bg":"rgba(0,0,0,0)","color_heading":"#1a1c1d","color_text":"#2c2d2e","color_links":"#d02030","disable_top_spacing":false,"disable_bottom_spacing":true}},"50ac9c66-6a05-4ba1-96a8-218cd6ae464c":{"type":"customer-reviews","blocks":{"template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-2":{"type":"review","settings":{"product_handle":"","stars":"5","heading":"","text":"\"This is by far and away the most powerful laser on the market today. The Xtrallux has been our device of choice because of the additional diodes.\"","author":"Dr. Mark Bishara","author_image":"shopify:\/\/shop_images\/Mark-Bishara-Headshot.jpg","author_title":"Hair Transplant Surgeon"}},"template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-1":{"type":"review","settings":{"product_handle":"","stars":"5","heading":"","text":"\"The best type of cap is based on how many diodes the cap actually has. The more diodes, the more energy; the more energy, the more chances that you're going to be able to stop your hair loss.\"","author":"Dr. Shelly Friedman","author_image":"shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg","author_title":"Founding President, American Board of Hair Restoration Surgery"}},"template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-3":{"type":"review","settings":{"product_handle":"","stars":"5","heading":"","text":"\"The Xtrallux laser hat is very easy to wear. It's only 6 minutes every day. It's very flexible. It's very light. And you don't feel any heat or cold when your're wearing it.\"","author":"Dr. Ramona Kelemen","author_image":"shopify:\/\/shop_images\/Ramona_Kelemen_Headshot_crop.jpg","author_title":"Anti-Aging Physician"}}},"block_order":["template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-2","template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-1","template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-3"],"custom_css":[".customer-reviews--author span {opacity: 0.8;}"],"settings":{"heading":"","description":"","columns":3,"autoplay":true,"autoplay_length":5,"color_bg":"#fafafa","color_heading":"#1a1c1d","color_text":"#2c2d2e","disable_top_spacing":false,"disable_bottom_spacing":false}},"multicolumn_CxgWT9":{"type":"multicolumn","blocks":{"column_cATDeH":{"type":"column","settings":{"image_full_width":false,"image_link":"","wistia_id":"","title":"","text":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0005_Icon---FDA-Cleared_Safe_and_Effective.png?v=1705596275\" width=\"60px\">\n<h6>FDA-Cleared<\/h6>","custom_liquid":"","link_label":"","link":""}},"column_4gwdNy":{"type":"column","settings":{"image_full_width":false,"image_link":"","wistia_id":"","title":"","text":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0001_Icon---USA_Assembly_and_Support.png?v=1705596275\" width=\"60px\">\n<h6>USA-Based Company<\/h6>","custom_liquid":"","link_label":"","link":""}},"column_DWMdQ8":{"type":"column","settings":{"image_full_width":false,"image_link":"","wistia_id":"","title":"","text":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0000_Icon---Targeted_Laser-Only_Therapy_No_LEDs.png?v=1705596275\" width=\"60px\">\n<h6>All Laser Treatment<\/h6>","custom_liquid":"","link_label":"","link":""}},"column_4Akgzy":{"type":"column","settings":{"image_full_width":false,"image_link":"","wistia_id":"","title":"","text":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0006_Icon---Easy_Convenient_2_4x_1cbc521a-1a05-4796-a57b-6c0fb0c7252e.png?v=1705596275\" width=\"60px\">\n<h6>Easy & Convenient<\/h6>","custom_liquid":"","link_label":"","link":""}},"column_d8nDW7":{"type":"column","settings":{"image_full_width":false,"image_link":"","wistia_id":"","title":"","text":"","custom_html":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0007_Icon---Available_thru_Doctors_Direct.png?v=1705596520\" width=\"60px\">\n<h6>Physician Approved<\/h6>","custom_liquid":"","link_label":"","link":""}}},"block_order":["column_cATDeH","column_4gwdNy","column_DWMdQ8","column_4Akgzy","column_d8nDW7"],"custom_css":[".small-12-xlaw {padding: 0px;}",".multicolumn__inner {background-color: #fafafa; border-radius: 15px;}","img {padding-top: 15px;}","h6 {font-size: 0.9rem; padding-top: 10px;}",".columns {margin-bottom: 0px;}","@media only screen and (max-width: 768px) {.multicolumn__column {width: 315px; }}"],"settings":{"heading":"","marker_style":"style1","description":"","columns_desktop":5,"mobile_swipe":false,"mobile_slideshow":true,"image_ratio":"adapt","text_alignment":"center","heading_size":"h5","color_heading":"#1a1c1d","marker_color":"#fd6262","color_text":"#2c2d2e","color_links":"#2c2d2e","disable_top_spacing":true,"disable_bottom_spacing":true}},"c765bc6e-e5f3-44ec-80ec-d53d85a3bb26":{"type":"video","settings":{"heading":"","marker_style":"style1","description":"","full_width":false,"video":"","video_hosted":"shopify:\/\/files\/videos\/XtralluxPhysicianTestimonialDr.ShellyFriedman.mp4","video_autoplay":true,"aspect_ratio":"16-9","marker_color":"#fd6262","disable_top_spacing":false,"disable_bottom_spacing":true}},"55ca32a3-3b3e-414a-92b2-cbc04ad5838f":{"type":"featured-collection","custom_css":[".section-header--content {text-align: center; margin-bottom: 25px;}",".featured-collection {background-color: #fafafa; padding-top: 25px; padding-bottom: 25px;}"],"settings":{"heading":"<span class=\"xl-accent\">Discover Xtrallux's Power<\/span><br><span class=\"h-regular\">Now available without a prescription.<\/span>","marker_style":"style1","description":"<p>Xtrallux offers a competitively priced, comprehensive range of laser devices, each featuring the highest number of lasers in the market, tailored to meet the unique hair health needs of every customer and ensuring personalized, effective hair regrowth solutions.<\/p>","collection":"buy-xtrallux-laser-caps-for-hair-growth-direct","display_type":"grid","product_limit":4,"columns_desktop":4,"show_view_all":false,"mobile_swipe":false,"show_progress_bar":true,"marker_color":"#fd6262","disable_top_spacing":false,"disable_bottom_spacing":false}},"8eac0c67-aae9-473f-8ef3-ee9428b60ebe":{"type":"image-with-text","blocks":{"template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-heading-1":{"type":"heading","settings":{"text":"<span class=\"xl-accent\">Xtrallux Extreme RX<\/span>","marker_style":"style2","heading_size":"h3","marker_color":"#fd6262"}},"daf13d43-db08-4b7f-9d01-cd2b6768e1fa":{"type":"heading","settings":{"text":"<span class=\"h-regular\">| Xtra Power |, Ultimate Regrowth.<\/span>","marker_style":"style3","heading_size":"h4","marker_color":"#fd6262"}},"template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-text-1":{"type":"text","settings":{"text":"<ul><li><strong>Maximum Laser Count:<\/strong> Equipped with 352 laser diodes for extensive scalp coverage.<\/li><li><strong>Clinically Proven Technology:<\/strong> Utilizes FDA-cleared technology proven effective in hair regrowth.<\/li><li><strong>High Energy Output:<\/strong> Delivers 1760 mW of laser power for intensive treatment, providing laser density previously only available in clinics.<\/li><li><strong>Non-Invasive Therapy:<\/strong> Offers a pain-free alternative to surgical hair restoration methods.<\/li><\/ul>"}},"bf40e0f7-6832-4116-a59a-15056b15c7ec":{"type":"text","settings":{"text":"<p>Available only through select providers<\/p>"}},"377ab59c-5243-4e8c-8772-ab26b6bafd68":{"type":"button","settings":{"button_text":"Find A Provider","button_link":"shopify:\/\/pages\/store-locator"}},"space_8CJkHX":{"type":"space","settings":{"height":24}},"text_KBifCY":{"type":"text","settings":{"text":"<p>For Industry Professionals: <a href=\"\/pages\/become-a-provider\" title=\"Become a Provider\">Become a Provider »<\/a><\/p>"}}},"block_order":["template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-heading-1","daf13d43-db08-4b7f-9d01-cd2b6768e1fa","template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-text-1","bf40e0f7-6832-4116-a59a-15056b15c7ec","377ab59c-5243-4e8c-8772-ab26b6bafd68","space_8CJkHX","text_KBifCY"],"custom_css":["ul li {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/0374\/5736\/files\/circle-check.svg?v=1704812856\") no-repeat left top; padding: 0px 10px 10px 30px; list-style: none; margin: 0; vertical-align: middle;}",".h3 {margin-bottom: 0px;}",".image-with-text--image-media {box-shadow: none;}",".image-with-text--content {padding: 10px;}",".text-button {margin-left: 25px; color: #d02030;}",".rte {font-size: 0.9rem;}","@media only screen and (max-width: 768px) {.text-button {margin-left: 0px; }}"],"settings":{"image":"shopify:\/\/shop_images\/Xtrallux_Extreme_RX_Hair_Growth_Laser_Cap_Physician_Only_11d5b8d5-b59f-4220-a5a7-4c7dc1730d0c.png","wistia_id":"","use_video":false,"video":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_autoplay":true,"height":"adapt","desktop_image_width":"medium","full_width":false,"layout":"image_first","content_position":"text-left","column_spacing":"medium","color_bg":"#ffffff","color_text":"#2c2d2e","color_border":"#e2e2e2","disable_top_spacing":false,"disable_bottom_spacing":false}},"customer_reviews_7TEpyX":{"type":"customer-reviews","blocks":{"review_JxkyJW":{"type":"review","settings":{"product_handle":"","stars":"","heading":"","text":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\nEach device goes through stringent testing ensuring excellence in quality with each delivery","author":"Maria Piña","author_title":"Xtrallux Co-Founder"}},"review_KLwfdz":{"type":"review","settings":{"product_handle":"","stars":"","heading":"","text":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\n\"We’ve created the best laser product on the market to treat hair loss at home","author":"Carlos Piña","author_title":"Xtrallux Founder and CEO"}},"review_RqrUhL":{"type":"review","settings":{"product_handle":"","stars":"","heading":"","text":"<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\nWe’re a family owned company, so we take our reputation very seriously. We want to ensure we have happy customers.","author":"Frances Piña-Brea","author_title":"Xtrallux Co-Founder"}}},"block_order":["review_JxkyJW","review_KLwfdz","review_RqrUhL"],"custom_css":[".section-header {text-align: center; justify-content: center;}"],"settings":{"heading":"Xtrallux Quality and Service","description":"<p>The Xtrallux team prioritizes top-quality products and outstanding service, demonstrating their commitment to customer satisfaction.<\/p>","columns":3,"autoplay":true,"autoplay_length":5,"color_bg":"#fafafa","color_heading":"#2c2d2e","color_text":"#2c2d2e","disable_top_spacing":false,"disable_bottom_spacing":false}},"e0aa5fb0-65b6-402d-8fe8-075832b1cf26":{"type":"collapsible-content","blocks":{"template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-1":{"type":"collapsible_tab","settings":{"heading":"Is Laser Therapy Right for Your Hair Loss?","open":true,"content":"<p>Xtrallux Hair Regrowth caps are recommended for adults (men or women) who are experiencing mild to moderate hair loss due to androgenic alopecia with Fitzpatrick Skin Types I to IV as per indications for use. If your hair loss is advanced or due to scarring alopecias, this device is not right for you. Please consult with your healthcare provider for other types of hair loss (ie. medically-induced, areata, universalis, or totalis alopecias, effluvium, etc) and skin types.<\/p>","page":""}},"template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-2":{"type":"collapsible_tab","settings":{"heading":"Will laser therapy work for me if I'm bald?","open":false,"content":"<p>Xtrallux is indicated for mild to moderate hair loss cases. If you're hair loss is advanced, you are not a candidate for laser therapy. Please read the indications for use on the product pages for detail.<\/p>","page":""}},"template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-3":{"type":"collapsible_tab","settings":{"heading":"Is laser therapy dangerous for dark skin tones?","open":false,"content":"<p>Laser therapy at 650 nm and &lt;5mW has never had any reported adverse effects for ANY skin tone, including the darkest of skin tones but due to limitations in testing protocols has only been clinically tested for treatment of AGA on skin types 1-4. Xtrallux devices are not cleared for dark skin tones due to the substantial equivalence process of FDA clearances.<\/p>","page":""}},"template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-4":{"type":"collapsible_tab","settings":{"heading":"Does laser therapy really work to treat hair loss?","open":false,"content":"<p><strong>Yes.<\/strong> The United States Food & Drug Administration has cleared Xtrallux hair regrowth devices as effective for treating androgenetic alopecia (see full indication for use). The clearance is based on substantiation by earlier submissions to the FDA providing clinical data to verify that this type of medical device emitting red laser energy results in an increase in terminal hair counts over the course of time with continued use. <em>Terminal hair<\/em> is defined as long, coarse, well-pigmented hair which differs from vellus hair. <\/p><p>Xtrallux manufactures devices use this technology which has been proven to increase counts of terminal hair in clinical trials accepted as substantiation by the FDA for prior clearances for this device classification.<\/p><p><em>Keep in mind that results will vary from person to person. Each case is different.<\/em><\/p>","page":""}}},"block_order":["template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-1","template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-2","template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-3","template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-4"],"custom_css":[".columns {background-color: #fafafa; padding: 50px; border-radius: 15px;}","@media only screen and (max-width: 768px) {.columns {padding-top: 0px; }}"],"settings":{"heading":"Xtrallux FAQs","full_width":false,"marker_style":"style1","description":"<p><a href=\"\/apps\/frequently-asked-questions\" title=\"\/apps\/frequently-asked-questions\">Read All »<\/a><\/p><p><a href=\"\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct\" title=\"Shop Laser Caps\">Buy Laser Devices »<\/a><\/p>","color_bg":"rgba(0,0,0,0)","color_heading":"#424242","marker_color":"#fd6262","color_text":"#2c2d2e","color_links":"#d02030","color_border":"#424242","section_width":"100%","disable_top_spacing":false,"disable_bottom_spacing":false}},"cad346e5-9475-4eb5-9cb7-4e9249a37929":{"type":"spacer","settings":{"spacer_mobile":50,"spacer_desktop":100,"border_separator":false,"border_separator_full":false}},"1687293377f3bfcf71":{"type":"apps","settings":{}}},"order":["da411b86-5183-4a96-87a1-7afd28694af0","cab8d31e-2599-485c-a8a9-ea923f0805dd","00879213-f356-4732-823d-a7ef2962b784","f81c3cb4-fd46-4c49-af26-3e0b02d143ca","eb037b3e-47b8-495b-876b-8cab846bfd12_aw","image_with_text_bQzanF","image_with_text_TPJWd8","image_with_text_epREJL","image_with_text_slideshow_VTFdff","image_with_text_eYqbCd","spacer_PPWYpz","d166c0da-e113-4d58-bf20-604f68579b6f","eb037b3e-47b8-495b-876b-8cab846bfd12","50ac9c66-6a05-4ba1-96a8-218cd6ae464c","multicolumn_CxgWT9","c765bc6e-e5f3-44ec-80ec-d53d85a3bb26","55ca32a3-3b3e-414a-92b2-cbc04ad5838f","8eac0c67-aae9-473f-8ef3-ee9428b60ebe","customer_reviews_7TEpyX","e0aa5fb0-65b6-402d-8fe8-075832b1cf26","cad346e5-9475-4eb5-9cb7-4e9249a37929","1687293377f3bfcf71"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "da411b86-5183-4a96-87a1-7afd28694af0": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"xl-accent\">Xtrallux<\/span> Gives You More",
+            "heading_size": "h2"
+          }
+        },
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Regrow your hair with the most powerful laser caps in the market. Discover Why Xtrallux is the Smart Choice<\/p>",
+            "description_size": "medium"
+          }
+        },
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "Learn More",
+            "button_link": "#reasons-to-use-xtrallux",
+            "button_color": "accent"
+          }
+        }
+      },
+      "block_order": [
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-heading-1",
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-text-1",
+        "template--16395351589064__da411b86-5183-4a96-87a1-7afd28694af0-button-1"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 768px) {.image-with-text-overlay--content {align-items: flex-start; text-align: center; } .h2, p {margin-bottom: 10px; } .button {height: 40px; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/xtrallux_compare_to_cheap_devices_hero.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/why_xtrallux_is_the_best_option_mobile_v1.5.jpg",
+        "image_parallax": false,
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_width": "medium",
+        "content_position": "middle-left",
+        "text_alignment": "left",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "cab8d31e-2599-485c-a8a9-ea923f0805dd": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".lllt-featured {padding: 25px; text-align: center; background-color: #f5f5f5; font-weight: 500; color: #424242;}",
+        "@media only screen and (max-width: 768px) {.lllt-featured {font-size: 0.9rem; padding-bottom: 0px; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"lllt-featured\">LLLT technology has been featured in:<\/div>"
+      }
+    },
+    "00879213-f356-4732-823d-a7ef2962b784": {
+      "type": "scrolling-text",
+      "blocks": {
+        "template--17287251984624__00879213-f356-4732-823d-a7ef2962b784-text-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-10_grande_ab381910-0172-4858-9a14-d70d9539d63d.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "ffb978d6-9acc-4e7e-b58d-97870395c588": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-05_grande_7245a278-ba14-473d-ba8d-b46d97e78128.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "145bfc61-43bb-4d94-b16f-ec7902df4d59": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-01_grande_0c8c4c5c-e473-4149-9bfc-4cc60c234ad3.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "0ab1aac0-0193-43fa-8f01-45041bc0ca79": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-12_grande_8dcb0326-ce47-4bba-84ce-7b30f70c16fc.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "0530a8e9-7f80-4843-9b1f-78457a1a8a14": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-02_grande_b34897da-933a-4242-abe1-9d86c0324cfc.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "7a7ecd95-8a18-41d8-abb7-93b7ed5e7eb9": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-13_grande_6ca217cf-7c75-47dc-a1e3-e2969678be60.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "2ea4fab7-eaf6-4081-9a21-355512473534": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-08_grande_8e86e735-0845-4a58-9c12-68c84936d997.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "157e3724-fe4c-483b-9a96-ed9266ae4486": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-11_grande_c2284ace-a319-41b9-8d93-a94d6fcf8ea7.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "758f18cc-474c-4bea-bc8a-8fbcd0343e6d": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-09_grande_e4eb64e6-f329-4d1b-9a64-787e2d041e7b.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "0cb76702-b02f-44a0-bef9-2b9f14739fc1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-04_grande_c2e5f70d-d58c-4e4c-a811-02854aa97fa6.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "0a43ec3d-c06c-40b1-9c01-3890de0f43f3": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-03_grande_cbb43d01-4ce8-461a-85bf-ccea2cd5b6ea.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "88cff0f7-cb0d-4ac3-8881-a9d506478e37": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-07_grande_c57cbdd1-86d8-4afa-9bda-19d4930eee88.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        },
+        "8d1d213a-a4eb-4ee3-8b64-b0463649a5ee": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/featured-06_grande_eda362f2-b695-4017-ac4e-085686a608cf.svg",
+            "text": "",
+            "link": "",
+            "outline_text": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17287251984624__00879213-f356-4732-823d-a7ef2962b784-text-1",
+        "ffb978d6-9acc-4e7e-b58d-97870395c588",
+        "145bfc61-43bb-4d94-b16f-ec7902df4d59",
+        "0ab1aac0-0193-43fa-8f01-45041bc0ca79",
+        "0530a8e9-7f80-4843-9b1f-78457a1a8a14",
+        "7a7ecd95-8a18-41d8-abb7-93b7ed5e7eb9",
+        "2ea4fab7-eaf6-4081-9a21-355512473534",
+        "157e3724-fe4c-483b-9a96-ed9266ae4486",
+        "758f18cc-474c-4bea-bc8a-8fbcd0343e6d",
+        "0cb76702-b02f-44a0-bef9-2b9f14739fc1",
+        "0a43ec3d-c06c-40b1-9c01-3890de0f43f3",
+        "88cff0f7-cb0d-4ac3-8881-a9d506478e37",
+        "8d1d213a-a4eb-4ee3-8b64-b0463649a5ee"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 768px) {.scrolling-text--image--medium {height: 45px; }}"
+      ],
+      "settings": {
+        "height": "height-auto",
+        "full_width": true,
+        "direction": "left",
+        "speed": "50s",
+        "rotation": 0,
+        "negative_rotation": false,
+        "font_family": "heading",
+        "text_size": 24,
+        "text_uppercase": false,
+        "image_size": "medium",
+        "color_bg": "#f5f5f5",
+        "color_text": "#1a1c1d",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "f81c3cb4-fd46-4c49-af26-3e0b02d143ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "0fea06b6-b8e8-4dd5-9e01-7ee6df7a8814": {
+          "type": "heading",
+          "settings": {
+            "text": "<span id=\"how-it-works\">How Laser Therapy Helps Hair Regrowth<\/span>",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "e8e5395d-72fb-4351-b26d-d44a4d0bba05": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Low-Level Laser Therapy (LLLT) utilizes specific wavelengths of light to stimulate hair follicles. <\/strong><\/p><p>This light energy enhances cellular activity in the scalp, promoting hair growth. Xtrallux targets weakened follicles, increasing blood circulation and nutrient flow, which strengthens hair, reduces hair loss, and encourages new growth.In just 6 minutes a day, Xtrallux harnesses FDA-cleared, clinically-proven technology to nurture the growth of new, healthier hair.<\/p>"
+          }
+        },
+        "9de63e32-fcbf-465e-9e7a-ebb1f1f25b6d": {
+          "type": "button",
+          "settings": {
+            "button_text": "Learn More",
+            "button_link": "#reasons-to-use-xtrallux"
+          }
+        }
+      },
+      "block_order": [
+        "0fea06b6-b8e8-4dd5-9e01-7ee6df7a8814",
+        "e8e5395d-72fb-4351-b26d-d44a4d0bba05",
+        "9de63e32-fcbf-465e-9e7a-ebb1f1f25b6d"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (max-width: 768px) {.image-with-text--content {padding-left: 5px; padding-right: 5px; } .image-with-text--content p {font-size: 0.9rem; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/video_thumbnail.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": false,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "full_width": false,
+        "layout": "image_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#ffffff",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "eb037b3e-47b8-495b-876b-8cab846bfd12_aw": {
+      "type": "rich-text",
+      "blocks": {
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1": {
+          "type": "heading",
+          "settings": {
+            "text": "<div id=\"learn-more\">Xtra Lasers. Xtra Features. Xtra Value.<\/div>",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "04eb502a-df29-4af7-bb46-1783570e82ce": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Regrow your hair with the most powerful laser caps in the market.<\/p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1",
+        "04eb502a-df29-4af7-bb46-1783570e82ce"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 768px) {.h3 {width: 100%; margin: 0 auto 15px auto; font-size: 20px; } .rich-text {padding-top: 0px; } .text-size-regular {margin-bottom: 25px; } .subheading {padding-top: 15px; }}"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_bQzanF": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_qraVzF": {
+          "type": "subheading",
+          "settings": {
+            "text": "For Hereditary Hair Loss"
+          }
+        },
+        "heading_7fGQkU": {
+          "type": "heading",
+          "settings": {
+            "text": "Effective Treatment",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_976NiM": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>If hair loss runs in your family, don't wait until it's too late. Treatment can help.<\/strong><\/p><p>Unfortunately, pattern hair loss in men and women is irreversible without surgery. Fortunately, early intervention can help prevent progression of thinning and restore vellus hairs to thicker, more visible hair.<\/p><p>While results vary, laser therapy has been shown to increase hair density <strong>by as much as 35-51% in published clinical studies.<\/strong><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qraVzF",
+        "heading_7fGQkU",
+        "text_976NiM"
+      ],
+      "custom_css": [
+        ".section-image-with-text {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/son_and_father_xtrallux_users_reasons_to_buy.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "small",
+        "desktop_image_width": "small",
+        "full_width": false,
+        "layout": "text_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#fafafa",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_TPJWd8": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_qDzrjW": {
+          "type": "subheading",
+          "settings": {
+            "text": "Wear 6 Minutes DAily"
+          }
+        },
+        "heading_HiexBM": {
+          "type": "heading",
+          "settings": {
+            "text": "Xtra Easy and Convenient",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_KFbWWe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Any medically-indicated treatment is only effective if there is user compliance. Daily minoxidil application, pill-drinking or injections make compliance complicated. Xtrallux laser therapy is convenient, requiring wearing our hat for only 6 minutes daily. And since our technology is wearable and battery-powered, you don't have to stop what you're doing to use it.<\/p><p><em>If you do use other treatment methods, there is no contraindication for using laser therapy in combination with minoxidil or finasteride. In fact, many hair restoration physicians recommend laser therapy in conjunction to these aforementioned methods as well as hair restoration surgery.<\/em><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qDzrjW",
+        "heading_HiexBM",
+        "text_KFbWWe"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/xtrallux_is_convenient_reasons.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "small",
+        "desktop_image_width": "small",
+        "full_width": false,
+        "layout": "image_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#ffffff",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_epREJL": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_xNb7bt": {
+          "type": "subheading",
+          "settings": {
+            "text": "More Lasers and Density"
+          }
+        },
+        "heading_xwNaik": {
+          "type": "heading",
+          "settings": {
+            "text": "Xtra Hair Density",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_zEdXXR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Get more lasers reaching where they need to stimulate more follicle growth on your scalp. Xtrallux provides xtra density for your hair at an excellent value.<\/p><p>Our hair growth caps target the follicle by using only laser light - no LEDs which lose light energy from the source to the target.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xNb7bt",
+        "heading_xwNaik",
+        "text_zEdXXR"
+      ],
+      "custom_css": [
+        ".section-image-with-text {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/xtrallux_gives_hair_density_reasons.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "small",
+        "desktop_image_width": "small",
+        "full_width": false,
+        "layout": "text_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#fafafa",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_slideshow_VTFdff": {
+      "type": "image-with-text-slideshow",
+      "blocks": {
+        "slide_Vj9WHk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_travel_accesories.png",
+            "subheading": "Travel and Storage",
+            "heading": "Xtra Features",
+            "heading_size": "h3",
+            "content": "<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.",
+            "button_text": "",
+            "wistia_id": "",
+            "button_link": "",
+            "color_bg": "#ffffff",
+            "color_text": "#2c2d2e",
+            "color_button": "#2c2d2e"
+          }
+        },
+        "slide_KHbqjj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_travel_accesories_2.png",
+            "subheading": "Travel and Storage",
+            "heading": "Xtra Features",
+            "heading_size": "h3",
+            "content": "<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.",
+            "button_text": "",
+            "wistia_id": "n2nftcw37x",
+            "button_link": "",
+            "color_bg": "#ffffff",
+            "color_text": "#2c2d2e",
+            "color_button": "#2c2d2e"
+          }
+        },
+        "slide_EChXpe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_whats_in_the_box.png",
+            "subheading": "Travel and Storage",
+            "heading": "Xtra Features",
+            "heading_size": "h3",
+            "content": "<b>We don't skimp on the extras.<\/b>Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.\n\nPlus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.",
+            "button_text": "",
+            "wistia_id": "n2nftcw37x",
+            "button_link": "",
+            "color_bg": "#ffffff",
+            "color_text": "#2c2d2e",
+            "color_button": "#2c2d2e"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Vj9WHk",
+        "slide_KHbqjj",
+        "slide_EChXpe"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "mobile_height": "mobile-height-350",
+        "desktop_height": "desktop-height-550",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "autoplay": true,
+        "autoplay_length": 5,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_eYqbCd": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_eJUt6n": {
+          "type": "subheading",
+          "settings": {
+            "text": "Drug Free Solution"
+          }
+        },
+        "heading_B6F8Dm": {
+          "type": "heading",
+          "settings": {
+            "text": "Xtra Safe",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_PhxwQ9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xtrallux laser caps use light energy to regrow hair; similar to how plants use energy from the sun to grow. Both processes produce biological effects in nature. Lasers were invented in the 1960s and have since been used in medical applications in many disciplines of medicine - from wound healing to skin conditions.<\/p><p>Unlike finasteride pills, laser therapy doesn't have impotence and infertility as reported side-effects. Xtrallux devices are safe & effective for treatment for mild to moderate cases of androgenetic alopecia. See full indications for use and contraindications on product details.<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eJUt6n",
+        "heading_B6F8Dm",
+        "text_PhxwQ9"
+      ],
+      "custom_css": [
+        ".section-image-with-text {background-color: #fafafa;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "small",
+        "desktop_image_width": "small",
+        "full_width": false,
+        "layout": "image_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#fafafa",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "spacer_PPWYpz": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
+    "d166c0da-e113-4d58-bf20-604f68579b6f": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17287251984624__d166c0da-e113-4d58-bf20-604f68579b6f-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/son_and_father_xtrallux_users_reasons_to_buy.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "FOR HEREDITARY HAIR LOSS",
+            "heading": "<span id=\"reasons-to-use-xtrallux\">Effective Treatment<\/span>",
+            "heading_size": "h3",
+            "content": "<p><b>If hair loss runs in your family, don't wait until it's too late. Treatment can help.<\/b><\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/son_and_father_xtrallux_users_reasons_to_buy.jpg?v=1704914234\" class=\"mobile-only img-rounded\">\n<p>Unfortunately, pattern hair loss in men and women is irreversible without surgery. Fortunately, early intervention can help prevent progression of thinning and restore vellus hairs to thicker, more visible hair.<\/p>\n\n<p>While results vary, laser therapy has been shown to increase hair density <strong>by as much as 35-51% in published clinical studies.<\/strong><\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        },
+        "slide_eUqRJK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_is_convenient_reasons.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "WEAR 6 MINUTES DAILY",
+            "heading": "Easy & Convenient",
+            "heading_size": "h3",
+            "content": "<p>Any medically-indicated treatment is only effective if there is user compliance. Daily minoxidil application, pill-drinking or injections make compliance complicated. Xtrallux laser therapy is convenient, requiring wearing our hat for only 6 minutes daily. And since our technology is wearable and battery-powered, you don't have to stop what you're doing to use it.<\/p>\n\n<p><i>If you do use other treatment methods, there is no contraindication for using laser therapy in combination with minoxidil or finasteride. In fact, many hair restoration physicians recommend laser therapy in conjunction to these aforementioned methods as well as hair restoration surgery.<\/i><\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        },
+        "slide_A8NMVT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_gives_hair_density_reasons.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "MORE LASERS & DENSITY",
+            "heading": "Xtra Hair Density",
+            "heading_size": "h3",
+            "content": "<p>Why settle for less? Xtrallux laser caps are the most powerful wearable laser device on the market for hair growth with more lasers in each price category. Get more lasers reaching where they need to stimulate more follicle growth on your scalp. Xtrallux provides xtra density for your hair at an excellent value.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_gives_hair_density_reasons.jpg?v=1704919256\" class=\"mobile-only img-rounded\">\n<p>Our hair growth caps target the follicle by using only laser light - no LEDs which lose light energy from the source to the target.<\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        },
+        "slide_83rajk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "DRUG-FREE SOLUTION",
+            "heading": "Safe Treatment",
+            "heading_size": "h3",
+            "content": "<p>Xtrallux laser caps use light energy to regrow hair; similar to how plants use energy from the sun to grow. Both processes produce biological effects in nature. Lasers were invented in the 1960s and have since been used in medical applications in many disciplines of medicine - from wound healing to skin conditions.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_acts_like_the_sun_in_plants_reasons.jpg?v=1704919426\" class=\"mobile-only img-rounded\">\n<p>Unlike finasteride pills, laser therapy doesn't have impotence and infertility as reported side-effects. Xtrallux devices are safe & effective for treatment for mild to moderate cases of androgenetic alopecia. See full indications for use and contraindications on product details.<\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        },
+        "slide_XwYpjM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xtrallux_gives_you_more_accesories_reasons.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "TRAVEL & STORAGE",
+            "heading": "Xtra Features",
+            "heading_size": "h3",
+            "content": "<p>We don't skimp on the extras. Each Xtrallux laser cap includes a high-end travel and storage case to store and protect your device - making travel with your cap easy & convenient for extra compliance. We also include 4 interchangeable international blades so you can charge your Power Pack around the world.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/xtrallux_gives_you_more_accesories_reasons.jpg?v=1704919683\" class=\"mobile-only img-rounded\">\n<p>Plus, we don't add cumbersome technology! Our devices are private & secure. No need to worry about pairing with an app or sharing your usage data with anyone.<\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        },
+        "slide_4gRygG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/doctor_holding_xtrallux_device_reasons.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/fafafa.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video_background_mobile": false,
+            "badge_text": "",
+            "subheading": "PHYSICIAN PRESCRIBED",
+            "heading": "Available Direct",
+            "heading_size": "h3",
+            "content": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/doctor_holding_xtrallux_device_reasons.jpg?v=1704919784\" class=\"mobile-only img-rounded\">\n<p>Cleared for both physician and over-the-counter sale. Our physician providers trust Xtrallux laser caps for their practices because of their laser density, efficacy and convenience.<\/p>",
+            "description_size": "medium",
+            "content_position": "middle-left",
+            "text_alignment": "left",
+            "content_size": "medium",
+            "color_slidebg": "#ffffff",
+            "color_slidebg_opacity": 0,
+            "color_slidebg_blur": 0,
+            "color_text": "#424242",
+            "color_subheading": "#2c2d2e",
+            "color_badge_bg": "#eb4f45",
+            "color_badge_text": "#ffffff",
+            "overlay_color": "#424242",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 100%)",
+            "button_1_text": "",
+            "button_1_color": "accent",
+            "wistia_id": "",
+            "button_1_link": "",
+            "use_text_button_1": false,
+            "button_2_text": "",
+            "button_2_color": "white",
+            "button_2_link": "",
+            "use_text_button_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17287251984624__d166c0da-e113-4d58-bf20-604f68579b6f-slide-1",
+        "slide_eUqRJK",
+        "slide_A8NMVT",
+        "slide_83rajk",
+        "slide_XwYpjM",
+        "slide_4gRygG"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".columns {padding-left: 0px; padding-right: 0px;}",
+        ".slideshow__slide-bg {background-color: #fafafa;}",
+        ".flickity-custom-navigation-wrapper {text-align: left; margin-left: 95px;}",
+        "br {display: none;}",
+        "img {margin-bottom: 25px;}",
+        ".slideshow-image--desktop {width: 450px; height: 428px; float: right; margin-right: 80px; margin-top: 60px; border-radius: 15px;}",
+        "@media only screen and (max-width: 768px) {.mobile-height-500 {height: 850px; } .flickity-custom-navigation-wrapper {text-align: center; } p {font-size: 0.9rem; }}"
+      ],
+      "settings": {
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": false,
+        "autoplay": false,
+        "autoplay_length": 5,
+        "transition": "slide",
+        "controls": "arrows-with-numbers",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "eb037b3e-47b8-495b-876b-8cab846bfd12": {
+      "type": "rich-text",
+      "blocks": {
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1": {
+          "type": "heading",
+          "settings": {
+            "text": "Xtrallux is Backed by Hair Loss Experts",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "04eb502a-df29-4af7-bb46-1783570e82ce": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Physicians recommend Xtrallux for its clinically proven effectiveness and advanced technology in promoting hair regrowth and scalp health.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "button_ffkpi4": {
+          "type": "button",
+          "settings": {
+            "link_label": "Shop Now",
+            "wistia_id": "",
+            "tf_data": "",
+            "link": "shopify:\/\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct"
+          }
+        },
+        "50aa6b31-6b7d-4445-8954-efe5e982b2bf": {
+          "type": "text-button",
+          "settings": {
+            "link_label": "Watch Testimonials",
+            "link": "shopify:\/\/blogs\/xtrallux-physicians"
+          }
+        }
+      },
+      "block_order": [
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1",
+        "04eb502a-df29-4af7-bb46-1783570e82ce",
+        "button_ffkpi4",
+        "50aa6b31-6b7d-4445-8954-efe5e982b2bf"
+      ],
+      "custom_css": [
+        ".text-button {margin-left: 15px;}",
+        "@media only screen and (max-width: 768px) {.h3 {width: 70%; margin: 0 auto 15px auto; font-size: 22px; }}"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "50ac9c66-6a05-4ba1-96a8-218cd6ae464c": {
+      "type": "customer-reviews",
+      "blocks": {
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-2": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"This is by far and away the most powerful laser on the market today. The Xtrallux has been our device of choice because of the additional diodes.\"",
+            "author": "Dr. Mark Bishara",
+            "author_image": "shopify:\/\/shop_images\/Mark-Bishara-Headshot.jpg",
+            "author_title": "Hair Transplant Surgeon"
+          }
+        },
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-1": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"The best type of cap is based on how many diodes the cap actually has. The more diodes, the more energy; the more energy, the more chances that you're going to be able to stop your hair loss.\"",
+            "author": "Dr. Shelly Friedman",
+            "author_image": "shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg",
+            "author_title": "Founding President, American Board of Hair Restoration Surgery"
+          }
+        },
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-3": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"The Xtrallux laser hat is very easy to wear. It's only 6 minutes every day. It's very flexible. It's very light. And you don't feel any heat or cold when your're wearing it.\"",
+            "author": "Dr. Ramona Kelemen",
+            "author_image": "shopify:\/\/shop_images\/Ramona_Kelemen_Headshot_crop.jpg",
+            "author_title": "Anti-Aging Physician"
+          }
+        }
+      },
+      "block_order": [
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-2",
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-1",
+        "template--16395351589064__50ac9c66-6a05-4ba1-96a8-218cd6ae464c-review-3"
+      ],
+      "custom_css": [
+        ".customer-reviews--author span {opacity: 0.8;}"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "columns": 3,
+        "autoplay": true,
+        "autoplay_length": 5,
+        "color_bg": "#fafafa",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_CxgWT9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cATDeH": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0005_Icon---FDA-Cleared_Safe_and_Effective.png?v=1705596275\" width=\"60px\">\n<h6>FDA-Cleared<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4gwdNy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0001_Icon---USA_Assembly_and_Support.png?v=1705596275\" width=\"60px\">\n<h6>USA-Based Company<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DWMdQ8": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0000_Icon---Targeted_Laser-Only_Therapy_No_LEDs.png?v=1705596275\" width=\"60px\">\n<h6>All Laser Treatment<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4Akgzy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0006_Icon---Easy_Convenient_2_4x_1cbc521a-1a05-4796-a57b-6c0fb0c7252e.png?v=1705596275\" width=\"60px\">\n<h6>Easy & Convenient<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_d8nDW7": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0007_Icon---Available_thru_Doctors_Direct.png?v=1705596520\" width=\"60px\">\n<h6>Physician Approved<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cATDeH",
+        "column_4gwdNy",
+        "column_DWMdQ8",
+        "column_4Akgzy",
+        "column_d8nDW7"
+      ],
+      "custom_css": [
+        ".small-12-xlaw {padding: 0px;}",
+        ".multicolumn__inner {background-color: #fafafa; border-radius: 15px;}",
+        "img {padding-top: 15px;}",
+        "h6 {font-size: 0.9rem; padding-top: 10px;}",
+        ".columns {margin-bottom: 0px;}",
+        "@media only screen and (max-width: 768px) {.multicolumn__column {width: 315px; }}"
+      ],
+      "settings": {
+        "heading": "",
+        "marker_style": "style1",
+        "description": "",
+        "columns_desktop": 5,
+        "mobile_swipe": false,
+        "mobile_slideshow": true,
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "color_heading": "#1a1c1d",
+        "marker_color": "#fd6262",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "c765bc6e-e5f3-44ec-80ec-d53d85a3bb26": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "marker_style": "style1",
+        "description": "",
+        "full_width": false,
+        "video": "",
+        "video_hosted": "shopify:\/\/files\/videos\/XtralluxPhysicianTestimonialDr.ShellyFriedman.mp4",
+        "video_autoplay": true,
+        "aspect_ratio": "16-9",
+        "marker_color": "#fd6262",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "55ca32a3-3b3e-414a-92b2-cbc04ad5838f": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".section-header--content {text-align: center; margin-bottom: 25px;}",
+        ".featured-collection {background-color: #fafafa; padding-top: 25px; padding-bottom: 25px;}"
+      ],
+      "settings": {
+        "heading": "<span class=\"xl-accent\">Discover Xtrallux's Power<\/span><br><span class=\"h-regular\">Now available without a prescription.<\/span>",
+        "marker_style": "style1",
+        "description": "<p>Xtrallux offers a competitively priced, comprehensive range of laser devices, each featuring the highest number of lasers in the market, tailored to meet the unique hair health needs of every customer and ensuring personalized, effective hair regrowth solutions.<\/p>",
+        "collection": "buy-xtrallux-laser-caps-for-hair-growth-direct",
+        "display_type": "grid",
+        "product_limit": 4,
+        "columns_desktop": 4,
+        "show_view_all": false,
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "marker_color": "#fd6262",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "8eac0c67-aae9-473f-8ef3-ee9428b60ebe": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"xl-accent\">Xtrallux Extreme RX<\/span>",
+            "marker_style": "style2",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "daf13d43-db08-4b7f-9d01-cd2b6768e1fa": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"h-regular\">| Xtra Power |, Ultimate Regrowth.<\/span>",
+            "marker_style": "style3",
+            "heading_size": "h4",
+            "marker_color": "#fd6262"
+          }
+        },
+        "template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Maximum Laser Count:<\/strong> Equipped with 352 laser diodes for extensive scalp coverage.<\/li><li><strong>Clinically Proven Technology:<\/strong> Utilizes FDA-cleared technology proven effective in hair regrowth.<\/li><li><strong>High Energy Output:<\/strong> Delivers 1760 mW of laser power for intensive treatment, providing laser density previously only available in clinics.<\/li><li><strong>Non-Invasive Therapy:<\/strong> Offers a pain-free alternative to surgical hair restoration methods.<\/li><\/ul>"
+          }
+        },
+        "bf40e0f7-6832-4116-a59a-15056b15c7ec": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Available only through select providers<\/p>"
+          }
+        },
+        "377ab59c-5243-4e8c-8772-ab26b6bafd68": {
+          "type": "button",
+          "settings": {
+            "button_text": "Find A Provider",
+            "button_link": "shopify:\/\/pages\/store-locator"
+          }
+        },
+        "space_8CJkHX": {
+          "type": "space",
+          "settings": {
+            "height": 24
+          }
+        },
+        "text_KBifCY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For Industry Professionals: <a href=\"\/pages\/become-a-provider\" title=\"Become a Provider\">Become a Provider »<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-heading-1",
+        "daf13d43-db08-4b7f-9d01-cd2b6768e1fa",
+        "template--16395351589064__8eac0c67-aae9-473f-8ef3-ee9428b60ebe-text-1",
+        "bf40e0f7-6832-4116-a59a-15056b15c7ec",
+        "377ab59c-5243-4e8c-8772-ab26b6bafd68",
+        "space_8CJkHX",
+        "text_KBifCY"
+      ],
+      "custom_css": [
+        "ul li {background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/0374\/5736\/files\/circle-check.svg?v=1704812856\") no-repeat left top; padding: 0px 10px 10px 30px; list-style: none; margin: 0; vertical-align: middle;}",
+        ".h3 {margin-bottom: 0px;}",
+        ".image-with-text--image-media {box-shadow: none;}",
+        ".image-with-text--content {padding: 10px;}",
+        ".text-button {margin-left: 25px; color: #d02030;}",
+        ".rte {font-size: 0.9rem;}",
+        "@media only screen and (max-width: 768px) {.text-button {margin-left: 0px; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Xtrallux_Extreme_RX_Hair_Growth_Laser_Cap_Physician_Only_11d5b8d5-b59f-4220-a5a7-4c7dc1730d0c.png",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "full_width": false,
+        "layout": "image_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#ffffff",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "customer_reviews_7TEpyX": {
+      "type": "customer-reviews",
+      "blocks": {
+        "review_JxkyJW": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "",
+            "heading": "",
+            "text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\nEach device goes through stringent testing ensuring excellence in quality with each delivery",
+            "author": "Maria Piña",
+            "author_title": "Xtrallux Co-Founder"
+          }
+        },
+        "review_KLwfdz": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "",
+            "heading": "",
+            "text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\n\"We’ve created the best laser product on the market to treat hair loss at home",
+            "author": "Carlos Piña",
+            "author_title": "Xtrallux Founder and CEO"
+          }
+        },
+        "review_RqrUhL": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "",
+            "heading": "",
+            "text": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/quote-left.svg?v=1704920689\">\n\nWe’re a family owned company, so we take our reputation very seriously. We want to ensure we have happy customers.",
+            "author": "Frances Piña-Brea",
+            "author_title": "Xtrallux Co-Founder"
+          }
+        }
+      },
+      "block_order": [
+        "review_JxkyJW",
+        "review_KLwfdz",
+        "review_RqrUhL"
+      ],
+      "custom_css": [
+        ".section-header {text-align: center; justify-content: center;}"
+      ],
+      "settings": {
+        "heading": "Xtrallux Quality and Service",
+        "description": "<p>The Xtrallux team prioritizes top-quality products and outstanding service, demonstrating their commitment to customer satisfaction.<\/p>",
+        "columns": 3,
+        "autoplay": true,
+        "autoplay_length": 5,
+        "color_bg": "#fafafa",
+        "color_heading": "#2c2d2e",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "e0aa5fb0-65b6-402d-8fe8-075832b1cf26": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is Laser Therapy Right for Your Hair Loss?",
+            "open": true,
+            "content": "<p>Xtrallux Hair Regrowth caps are recommended for adults (men or women) who are experiencing mild to moderate hair loss due to androgenic alopecia with Fitzpatrick Skin Types I to IV as per indications for use. If your hair loss is advanced or due to scarring alopecias, this device is not right for you. Please consult with your healthcare provider for other types of hair loss (ie. medically-induced, areata, universalis, or totalis alopecias, effluvium, etc) and skin types.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Will laser therapy work for me if I'm bald?",
+            "open": false,
+            "content": "<p>Xtrallux is indicated for mild to moderate hair loss cases. If you're hair loss is advanced, you are not a candidate for laser therapy. Please read the indications for use on the product pages for detail.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Is laser therapy dangerous for dark skin tones?",
+            "open": false,
+            "content": "<p>Laser therapy at 650 nm and &lt;5mW has never had any reported adverse effects for ANY skin tone, including the darkest of skin tones but due to limitations in testing protocols has only been clinically tested for treatment of AGA on skin types 1-4. Xtrallux devices are not cleared for dark skin tones due to the substantial equivalence process of FDA clearances.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Does laser therapy really work to treat hair loss?",
+            "open": false,
+            "content": "<p><strong>Yes.<\/strong> The United States Food & Drug Administration has cleared Xtrallux hair regrowth devices as effective for treating androgenetic alopecia (see full indication for use). The clearance is based on substantiation by earlier submissions to the FDA providing clinical data to verify that this type of medical device emitting red laser energy results in an increase in terminal hair counts over the course of time with continued use. <em>Terminal hair<\/em> is defined as long, coarse, well-pigmented hair which differs from vellus hair. <\/p><p>Xtrallux manufactures devices use this technology which has been proven to increase counts of terminal hair in clinical trials accepted as substantiation by the FDA for prior clearances for this device classification.<\/p><p><em>Keep in mind that results will vary from person to person. Each case is different.<\/em><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-1",
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-2",
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-3",
+        "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-4"
+      ],
+      "custom_css": [
+        ".columns {background-color: #fafafa; padding: 50px; border-radius: 15px;}",
+        "@media only screen and (max-width: 768px) {.columns {padding-top: 0px; }}"
+      ],
+      "settings": {
+        "heading": "Xtrallux FAQs",
+        "full_width": false,
+        "marker_style": "style1",
+        "description": "<p><a href=\"\/apps\/frequently-asked-questions\" title=\"\/apps\/frequently-asked-questions\">Read All »<\/a><\/p><p><a href=\"\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct\" title=\"Shop Laser Caps\">Buy Laser Devices »<\/a><\/p>",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#424242",
+        "marker_color": "#fd6262",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "color_border": "#424242",
+        "section_width": "100%",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "cad346e5-9475-4eb5-9cb7-4e9249a37929": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 100,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "1687293377f3bfcf71": {
+      "type": "apps",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "da411b86-5183-4a96-87a1-7afd28694af0",
+    "cab8d31e-2599-485c-a8a9-ea923f0805dd",
+    "00879213-f356-4732-823d-a7ef2962b784",
+    "f81c3cb4-fd46-4c49-af26-3e0b02d143ca",
+    "eb037b3e-47b8-495b-876b-8cab846bfd12_aw",
+    "image_with_text_bQzanF",
+    "image_with_text_TPJWd8",
+    "image_with_text_epREJL",
+    "image_with_text_slideshow_VTFdff",
+    "image_with_text_eYqbCd",
+    "spacer_PPWYpz",
+    "d166c0da-e113-4d58-bf20-604f68579b6f",
+    "eb037b3e-47b8-495b-876b-8cab846bfd12",
+    "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
+    "multicolumn_CxgWT9",
+    "c765bc6e-e5f3-44ec-80ec-d53d85a3bb26",
+    "55ca32a3-3b3e-414a-92b2-cbc04ad5838f",
+    "8eac0c67-aae9-473f-8ef3-ee9428b60ebe",
+    "customer_reviews_7TEpyX",
+    "e0aa5fb0-65b6-402d-8fe8-075832b1cf26",
+    "cad346e5-9475-4eb5-9cb7-4e9249a37929",
+    "1687293377f3bfcf71"
+  ]
+}
