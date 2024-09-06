@@ -2,6 +2,10 @@
 
 /* General  */
 
+.row {
+  max-width: 1600px;
+}
+
 .shop-pay-offer-fc .shopify-installments__content {
   display: inline-block !important;
   margin: 5px 0 !important;
