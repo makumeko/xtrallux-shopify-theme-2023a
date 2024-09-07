@@ -63,11 +63,13 @@
 	  {{ product.selected_or_first_available_variant.unit_price_measurement.reference_unit }}
 	</span>
 	</small>
+	{% comment %}
 	<div class="shop-pay-offer-fc" style="font-size: 0.9rem; margin-top:15px;">
 		{% form 'product', target %}
 		  {{ form | payment_terms }}
 		{% endform %}
 	</div>
+	{% endcomment %}
 	{%- if show_badges -%}
 		<span class="badges">
 			{%- if compare_at_price > price %}
