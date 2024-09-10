@@ -199,5 +199,29 @@
     {% include 'smile-initializer' %}
     {% include 'limoniapps-discountninja-body' %}
   {{'tiny-img-link-preloader.js' | asset_url | script_tag }}
+  <!-- Hide Chat Widget when the cart drawer is open -->
+  <script>
+    function checkForClassChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+        if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+          const targetElement = mutation.target;
+          if (targetElement.classList.contains('open-cc')) {
+            const chatWidget = document.getElementById('chat-widget-container');
+            chatWidget.style.display = 'none';
+            console.log("Yo!");
+          }
+          if (!targetElement.classList.contains('open-cc')){ 
+            const chatWidget = document.getElementById('chat-widget-container');
+            chatWidget.style.display = 'block';
+            console.log('Yo!');
+          }
+        }
+      }
+    }
+    const targetElement = document.body;
+    const observer = new MutationObserver(checkForClassChange);
+    const config = { attributes: true, attributeFilter: ['class'] };
+    observer.observe(targetElement, config);
+  </script>
 </body>
 </html>
