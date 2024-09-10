@@ -208,11 +208,13 @@
           if (targetElement.classList.contains('open-cc')) {
             const chatWidget = document.getElementById('chat-widget-container');
             chatWidget.style.display = 'none';
+            chatWidget.style.visibility = 'hidden';
             console.log("Yo!");
           }
           if (!targetElement.classList.contains('open-cc')){ 
             const chatWidget = document.getElementById('chat-widget-container');
             chatWidget.style.display = 'block';
+            chatWidget.style.visibility = 'visible';
             console.log('Yo!');
           }
         }
