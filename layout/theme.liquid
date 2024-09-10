@@ -205,7 +205,7 @@
           const chatWidget = document.getElementById('chat-widget-container');
           if (!chatWidget) {
               console.error("Chat widget container not found!");
-              return;  // Exit if the element is not found
+              return;  
           }
   
           for (const mutation of mutationsList) {
@@ -214,10 +214,10 @@
                   
                   // Check if 'open-cc' class is present
                   if (targetElement.classList.contains('open-cc')) {
-                      chatWidget.style.display = 'none';  // Hide the chat widget
+                      chatWidget.style.display = 'none';  
                       console.log("Chat widget hidden.");
                   } else {
-                      chatWidget.style.display = 'block';  // Show the chat widget
+                      chatWidget.style.display = 'block';  
                       console.log("Chat widget visible.");
                   }
               }
@@ -231,24 +231,24 @@
               return;
           }
   
-          // Select the element where 'open-cc' class is applied (body, or specific element)
-          const targetElement = document.body; // Adjust if 'open-cc' is applied elsewhere
+          
+          const targetElement = document.body; 
           const observer = new MutationObserver(checkForClassChange);
   
-          // Observe changes to attributes, particularly the 'class' attribute
+          
           const config = { attributes: true, attributeFilter: ['class'] };
           observer.observe(targetElement, config);
   
-          // Initial state check to set the correct visibility when the script loads
+          
           if (targetElement.classList.contains('open-cc')) {
-              chatWidget.style.display = 'none';  // Hide if 'open-cc' is present at load time
+              chatWidget.style.display = 'none';  
           } else {
-              chatWidget.style.display = 'block';  // Show if 'open-cc' is not present
+              chatWidget.style.display = 'block';  
           }
           console.log("Observer initialized and widget visibility set.");
       }
   
-      // Retry every 500ms until chat-widget-container is found or max retries are reached
+      
       let retryCount = 0;
       const maxRetries = 10;
       const checkInterval = setInterval(() => {
@@ -257,7 +257,7 @@
               initializeObserver();  // Initialize observer if the chat widget exists
           }
           retryCount++;
-      }, 500);  // Check every 500ms
+      }, 500);  
   </script>
   <!-- End hide Chat Widget when the cart drawer is open -->
 </body>
