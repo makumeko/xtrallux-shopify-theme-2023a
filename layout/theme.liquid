@@ -201,35 +201,28 @@
   {{'tiny-img-link-preloader.js' | asset_url | script_tag }}
   <!-- Hide Chat Widget when the cart drawer is open -->
   <script>
-      function checkForClassChange(mutationsList, observer) {
-          const chatWidget = document.getElementById('chat-widget-container');
-          if (!chatWidget) return;  // Check if element exists
-          for (const mutation of mutationsList) {
-              if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
-                  const targetElement = mutation.target;
-                  if (targetElement.classList.contains('open-cc')) {
-                      chatWidget.style.display = 'none';
-                      console.log("Widget Hidden");
-                  } else {
-                      chatWidget.style.display = 'block';
-                      console.log("Widget Visible");
-                  }
-              }
+    function checkForClassChange(mutationsList, observer) {
+      for (const mutation of mutationsList) {
+        if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+          const targetElement = mutation.target;
+          if (targetElement.classList.contains('open-cc')) {
+            const chatWidget = document.getElementById('chat-widget-container');
+            chatWidget.style.display = 'none';
+            console.log("Yo!");
           }
+          if (!targetElement.classList.contains('open-cc')){ 
+            const chatWidget = document.getElementById('chat-widget-container');
+            chatWidget.style.display = 'block';
+            console.log('Yo!');
+          }
+        }
       }
-  
-      // Select the element where 'open-cc' class is applied (body, or specific element)
-      const targetElement = document.getElementById('cart-drawer'); 
-      const observer = new MutationObserver(checkForClassChange);
-  
-      // Observe only attribute changes related to class
-      const config = { attributes: true, attributeFilter: ['class'] };
-      observer.observe(targetElement, config);
-  
-      // Initial check (in case 'open-cc' is already applied)
-      if (targetElement.classList.contains('open-cc')) {
-          document.getElementById('chat-widget-container').style.display = 'none';
-      }
+    }
+    const targetElement = document.body;
+    const observer = new MutationObserver(checkForClassChange);
+    const config = { attributes: true, attributeFilter: ['class'] };
+    observer.observe(targetElement, config);
   </script>
+  <!-- End hide Chat Widget when the cart drawer is open -->
 </body>
 </html>
