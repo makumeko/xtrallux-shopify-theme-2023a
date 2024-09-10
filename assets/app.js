@@ -314,6 +314,7 @@ if (!customElements.get('product-card')) {
       if (document.getElementById('Cart-Drawer')) {
         document.body.classList.add('open-cc');
         document.getElementById('Cart-Drawer').classList.add('active');
+        document.getElementById('chat-widget-container').classList.add('chat-hidden');
 
         dispatchCustomEvent('cart-drawer:open');
       }
