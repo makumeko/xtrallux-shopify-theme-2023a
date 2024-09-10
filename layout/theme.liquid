@@ -201,27 +201,63 @@
   {{'tiny-img-link-preloader.js' | asset_url | script_tag }}
   <!-- Hide Chat Widget when the cart drawer is open -->
   <script>
-    function checkForClassChange(mutationsList, observer) {
-      for (const mutation of mutationsList) {
-        if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
-          const targetElement = mutation.target;
-          if (targetElement.classList.contains('open-cc')) {
-            const chatWidget = document.getElementById('chat-widget-container');
-            chatWidget.style.display = 'none';
-            console.log("Yo!");
+      function checkForClassChange(mutationsList, observer) {
+          const chatWidget = document.getElementById('chat-widget-container');
+          if (!chatWidget) {
+              console.error("Chat widget container not found!");
+              return;  // Exit if the element is not found
           }
-          if (!targetElement.classList.contains('open-cc')){ 
-            const chatWidget = document.getElementById('chat-widget-container');
-            chatWidget.style.display = 'block';
-            console.log('Yo!');
+  
+          for (const mutation of mutationsList) {
+              if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+                  const targetElement = mutation.target;
+                  
+                  // Check if 'open-cc' class is present
+                  if (targetElement.classList.contains('open-cc')) {
+                      chatWidget.style.display = 'none';  // Hide the chat widget
+                      console.log("Chat widget hidden.");
+                  } else {
+                      chatWidget.style.display = 'block';  // Show the chat widget
+                      console.log("Chat widget visible.");
+                  }
+              }
           }
-        }
       }
-    }
-    const targetElement = document.body;
-    const observer = new MutationObserver(checkForClassChange);
-    const config = { attributes: true, attributeFilter: ['class'] };
-    observer.observe(targetElement, config);
+  
+      function initializeObserver() {
+          const chatWidget = document.getElementById('chat-widget-container');
+          if (!chatWidget) {
+              console.log("Chat widget not yet available, retrying...");
+              return;
+          }
+  
+          // Select the element where 'open-cc' class is applied (body, or specific element)
+          const targetElement = document.body; // Adjust if 'open-cc' is applied elsewhere
+          const observer = new MutationObserver(checkForClassChange);
+  
+          // Observe changes to attributes, particularly the 'class' attribute
+          const config = { attributes: true, attributeFilter: ['class'] };
+          observer.observe(targetElement, config);
+  
+          // Initial state check to set the correct visibility when the script loads
+          if (targetElement.classList.contains('open-cc')) {
+              chatWidget.style.display = 'none';  // Hide if 'open-cc' is present at load time
+          } else {
+              chatWidget.style.display = 'block';  // Show if 'open-cc' is not present
+          }
+          console.log("Observer initialized and widget visibility set.");
+      }
+  
+      // Retry every 500ms until chat-widget-container is found or max retries are reached
+      let retryCount = 0;
+      const maxRetries = 10;
+      const checkInterval = setInterval(() => {
+          if (document.getElementById('chat-widget-container') || retryCount >= maxRetries) {
+              clearInterval(checkInterval);  // Stop checking when found or max retries reached
+              initializeObserver();  // Initialize observer if the chat widget exists
+          }
+          retryCount++;
+      }, 500);  // Check every 500ms
   </script>
   <!-- End hide Chat Widget when the cart drawer is open -->
 </body>
