@@ -206,12 +206,12 @@
         if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
           const targetElement = mutation.target;
           if (targetElement.classList.contains('open-cc')) {
-            const chatWidget = document.getElementById('chat-widget-container');
+            const chatWidget = document.getElementById('wistia-rh289v5b82-1_popover_container');
             chatWidget.style.display = 'none';
             console.log("Yo!");
           }
           if (!targetElement.classList.contains('open-cc')){ 
-            const chatWidget = document.getElementById('chat-widget-container');
+            const chatWidget = document.getElementById('wistia-rh289v5b82-1_popover_container');
             chatWidget.style.display = 'block';
             console.log('Yo!');
           }
