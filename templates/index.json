@@ -248,6 +248,7 @@
         "column_BYG679",
         "column_ejjFka"
       ],
+      "disabled": true,
       "custom_css": [
         ".multicolumn__inner_xlaw .multiparent {align-items: center;}",
         ".multicolumn__inner_xlaw .multicolumn__column {padding: 25px; align-items: center; background-color: #f5f5f5;}",
@@ -337,6 +338,7 @@
     },
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".section-header--content {text-align: center; margin-bottom: 25px; justify-content: center !important;}",
         ".featured-collection {background-color: #fafafa; padding-top: 25px; padding-bottom: 25px;}",
