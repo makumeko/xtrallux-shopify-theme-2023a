@@ -273,6 +273,16 @@
         "disable_bottom_spacing": true
       }
     },
+    "custom_liquid_kazVeM": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".comparison {max-width: 900px; margin: 0 auto;}",
+        "@media only screen and (max-width: 768px) {.multicolumn-text-content, .comparison {padding: 5px; } .features {padding: 15px !important; } .features li {font-size: 0.8rem; } .others-header {font-size: 1.3rem; }}"
+      ],
+      "settings": {
+        "custom_liquid": "<style>\n\t.features li {\n\t  margin-bottom: 15px;\n\t  padding: 10px 10px 10px 30px;\n\t  list-style: none;\n\t  margin: 0;\n\t  vertical-align: middle;\n\t  font-size: 1rem;\n\t}\n\t.features ul {\n\t\tmargin-left: 0px;\n\t}\n\t.xtrallux-features ul li {\n\t  background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/circle-check-small.svg?v=1705365639\")\n\t\tno-repeat left center;\n\t}\n\t.others-features ul li {\n\t  background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/circle-xmark.svg?v=1705365564\")\n\t\tno-repeat left center;\n\t\tfont-size: 0.9rem;\n\t\tcolor: #424242;\n\t}\n\t.features {\n\t  padding: 25px !important;\n\t  border-radius: 15px;\n\t  border: 1px solid #e1e1e1;\n\t}\n\t.others-features {\n\t  margin-top: 15px;\n\t  margin-bottom: 15px;\n\t  border-top-left-radius: 0px;\n\t  border-bottom-left-radius: 0px;\n\t  border-left: none;\n\t  background-color: #fafafa;\n\t}\n<\/style>\n<div class=\"row comparison\">\n\t<div class=\"small-6 medium-6 columns xtrallux-features features\">\n\t\t<div class=\"h2 xtrallux-header xl-accent\">Xtrallux<\/div>\n\t\t<ul class=\"xtrallux-features-ul\">\n\t\t\t<li class=\"xtrallux-features-li\">All Laser Technology<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Excellent Cost Per Laser<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Most lasers<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Accessories Included<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">USA-Based Company<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Private and Secure<\/li>\n<li class=\"xtrallux-features-li\">Free Shipping<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Always in Stock<\/li>\n\t\t<\/ul>\n\t<\/div>\n\t<div class=\"small-6 medium-6 columns others-features features\">\n\t\t<div class=\"h3 others-header\">Other Brands<\/div>\n\t\t<ul class=\"others-features-ul\">\n\t\t\t<li class=\"others-features-li\">Laser + LEDs<\/li>\n\t\t\t<li class=\"others-features-li\">Expensive<\/li>\n\t\t\t<li class=\"others-features-li\">Low Laser Count<\/li>\n\t\t\t<li class=\"others-features-li\">Accessories Cost Extra<\/li>\n\t\t\t<li class=\"others-features-li\">Made in China<\/li>\n\t\t\t<li class=\"others-features-li\">Privacy Concerns<\/li>\n<li class=\"others-features-li\">Shipping Cost Extra<\/li>\n\t\t\t<li class=\"others-features-li\">Extended Shipping Times<\/li>\n\t\t<\/ul>\n\t<\/div>\n<\/div>"
+      }
+    },
     "testimonials_JPU9FB": {
       "type": "testimonials",
       "blocks": {
@@ -612,16 +622,6 @@
         "color_border": "#e2e2e2",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
-      }
-    },
-    "custom_liquid_kazVeM": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".comparison {max-width: 900px; margin: 0 auto;}",
-        "@media only screen and (max-width: 768px) {.multicolumn-text-content, .comparison {padding: 5px; } .features {padding: 15px !important; } .features li {font-size: 0.8rem; } .others-header {font-size: 1.3rem; }}"
-      ],
-      "settings": {
-        "custom_liquid": "<style>\n\t.features li {\n\t  margin-bottom: 15px;\n\t  padding: 10px 10px 10px 30px;\n\t  list-style: none;\n\t  margin: 0;\n\t  vertical-align: middle;\n\t  font-size: 1rem;\n\t}\n\t.features ul {\n\t\tmargin-left: 0px;\n\t}\n\t.xtrallux-features ul li {\n\t  background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/circle-check-small.svg?v=1705365639\")\n\t\tno-repeat left center;\n\t}\n\t.others-features ul li {\n\t  background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/circle-xmark.svg?v=1705365564\")\n\t\tno-repeat left center;\n\t\tfont-size: 0.9rem;\n\t\tcolor: #424242;\n\t}\n\t.features {\n\t  padding: 25px !important;\n\t  border-radius: 15px;\n\t  border: 1px solid #e1e1e1;\n\t}\n\t.others-features {\n\t  margin-top: 15px;\n\t  margin-bottom: 15px;\n\t  border-top-left-radius: 0px;\n\t  border-bottom-left-radius: 0px;\n\t  border-left: none;\n\t  background-color: #fafafa;\n\t}\n<\/style>\n<div class=\"row comparison\">\n\t<div class=\"small-6 medium-6 columns xtrallux-features features\">\n\t\t<div class=\"h2 xtrallux-header xl-accent\">Xtrallux<\/div>\n\t\t<ul class=\"xtrallux-features-ul\">\n\t\t\t<li class=\"xtrallux-features-li\">All Laser Technology<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Excellent Cost Per Laser<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Most lasers<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Accessories Included<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">USA-Based Company<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Private and Secure<\/li>\n<li class=\"xtrallux-features-li\">Free Shipping<\/li>\n\t\t\t<li class=\"xtrallux-features-li\">Always in Stock<\/li>\n\t\t<\/ul>\n\t<\/div>\n\t<div class=\"small-6 medium-6 columns others-features features\">\n\t\t<div class=\"h3 others-header\">Other Brands<\/div>\n\t\t<ul class=\"others-features-ul\">\n\t\t\t<li class=\"others-features-li\">Laser + LEDs<\/li>\n\t\t\t<li class=\"others-features-li\">Expensive<\/li>\n\t\t\t<li class=\"others-features-li\">Low Laser Count<\/li>\n\t\t\t<li class=\"others-features-li\">Accessories Cost Extra<\/li>\n\t\t\t<li class=\"others-features-li\">Made in China<\/li>\n\t\t\t<li class=\"others-features-li\">Privacy Concerns<\/li>\n<li class=\"others-features-li\">Shipping Cost Extra<\/li>\n\t\t\t<li class=\"others-features-li\">Extended Shipping Times<\/li>\n\t\t<\/ul>\n\t<\/div>\n<\/div>"
       }
     },
     "rich_text_NPjk3p": {
@@ -972,6 +972,7 @@
     "custom_liquid_RGDt37",
     "multicolumn_W4eYGk",
     "rich_text_BXLGnX",
+    "custom_liquid_kazVeM",
     "testimonials_JPU9FB",
     "eb037b3e-47b8-495b-876b-8cab846bfd12",
     "single_image_jnbqHP",
@@ -980,7 +981,6 @@
     "image_with_text_TPJWd8",
     "image_with_text_epREJL",
     "image_with_text_eYqbCd",
-    "custom_liquid_kazVeM",
     "rich_text_NPjk3p",
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
     "c765bc6e-e5f3-44ec-80ec-d53d85a3bb26",
