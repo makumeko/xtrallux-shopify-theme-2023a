@@ -248,6 +248,9 @@
         "column_BYG679",
         "column_ejjFka"
       ],
+      "custom_css": [
+        ".multicolumn__inner_xlaw {align-items: center;}"
+      ],
       "settings": {
         "heading": "",
         "marker_style": "style1",
