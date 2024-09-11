@@ -249,7 +249,9 @@
         "column_ejjFka"
       ],
       "custom_css": [
-        ".multicolumn__inner_xlaw .multiparent {align-items: center;}"
+        ".multicolumn__inner_xlaw .multiparent {align-items: center;}",
+        ".multicolumn__inner_xlaw .multicolumn__column {padding: 25px; align-items: center; background-color: #f5f5f5;}",
+        ".multicolumn__inner_xlaw .multicolumn__column:nth-child(1) {background-color: transparent;}"
       ],
       "settings": {
         "heading": "",
