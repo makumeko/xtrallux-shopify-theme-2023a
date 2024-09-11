@@ -249,7 +249,7 @@
         "column_ejjFka"
       ],
       "custom_css": [
-        ".multicolumn__inner_xlaw {align-items: center;}"
+        ".multicolumn__inner_xlaw .multiparent {align-items: center;}"
       ],
       "settings": {
         "heading": "",
