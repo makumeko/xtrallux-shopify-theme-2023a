@@ -252,7 +252,8 @@
         ".multicolumn__inner_xlaw .multiparent {align-items: center;}",
         ".multicolumn__inner_xlaw .multicolumn__column {padding: 25px; align-items: center; background-color: #f5f5f5;}",
         ".multicolumn__inner_xlaw .multicolumn__column:nth-child(1) {background-color: transparent;}",
-        ".multicolumn-text-content {display: none;}"
+        ".multicolumn-text-content {display: none;}",
+        ".multicolumn__image {margin-bottom: 0px;}"
       ],
       "settings": {
         "heading": "",
