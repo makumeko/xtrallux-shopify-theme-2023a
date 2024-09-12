@@ -36,6 +36,7 @@
 						{% render 'svg-icons' with 'thb-loading' %}
 					</span>
 				</button>
+				<input type="hidden" name="return_to" value="/checkout/" />
 				{%- if show_dynamic_checkout -%}
 		      {{ form | payment_button }}
 		    {%- endif -%}
