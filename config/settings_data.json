@@ -139,7 +139,7 @@
       },
       "4450774348159742141": {
         "type": "shopify:\/\/apps\/klip-coupons\/blocks\/klip-app\/df38e221-ede4-4ad4-b47d-56524361a5be",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
