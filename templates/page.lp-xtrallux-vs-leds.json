@@ -413,7 +413,7 @@
         "column_AVXrdd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_03.png",
+            "image": "shopify:\/\/shop_images\/before_and_after_01_device.jpg",
             "image_full_width": false,
             "image_link": "",
             "wistia_id": "",
@@ -421,14 +421,14 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Turbo Pro",
+            "link": "shopify:\/\/products\/xtrallux-turbo-pro-hair-regrowth-laser-cap"
           }
         },
         "column_LhwwrB": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_01.png",
+            "image": "shopify:\/\/shop_images\/before_and_after_02_device.jpg",
             "image_full_width": false,
             "image_link": "",
             "wistia_id": "",
@@ -436,8 +436,8 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Super Plus",
+            "link": "shopify:\/\/products\/xtrallux-super-plus-hair-regrowth-laser-cap"
           }
         },
         "column_mqDhip": {
@@ -451,8 +451,8 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Alpha",
+            "link": "shopify:\/\/products\/xtrallux-alpha-hair-regrowth-laser-cap"
           }
         }
       },
@@ -475,7 +475,7 @@
         "text_alignment": "center",
         "heading_size": "h5",
         "color_heading": "#1a1c1d",
-        "marker_color": "#FD6262",
+        "marker_color": "#fd6262",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
         "disable_top_spacing": false,
