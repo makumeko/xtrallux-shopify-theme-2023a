@@ -234,7 +234,7 @@
         "column_ejjFka"
       ],
       "custom_css": [
-
+        ".section-header {text-align: center; justify-content: center;}"
       ],
       "settings": {
         "heading": "Results You Can Trust",
