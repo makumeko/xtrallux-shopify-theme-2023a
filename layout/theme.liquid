@@ -260,5 +260,33 @@
       }, 500);  
   </script>
   <!-- End hide Chat Widget when the cart drawer is open -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Get the Add to Cart button
+      const addToCartForm = document.querySelector('.product-form form');
+    
+      if (addToCartForm) {
+        addToCartForm.addEventListener('submit', function(event) {
+          event.preventDefault();  // Prevent default form submission
+    
+          // Perform the AJAX request to add the item to cart
+          const formData = new FormData(addToCartForm);
+    
+          fetch('/cart/add.js', {
+            method: 'POST',
+            body: formData
+          })
+          .then(response => response.json())
+          .then(data => {
+            // Redirect to the checkout page after the item is added to the cart
+            window.location.href = '/checkout';
+          })
+          .catch(error => {
+            console.error('Error adding item to cart:', error);
+          });
+        });
+      }
+    });
+  </script>
 </body>
 </html>
