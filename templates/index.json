@@ -656,6 +656,7 @@
     },
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".section-header--content {text-align: center; margin-bottom: 25px; justify-content: center !important;}",
         ".featured-collection {background-color: #fafafa; padding-top: 25px; padding-bottom: 25px;}",
