@@ -283,64 +283,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_NPjk3p": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_LrX8BD": {
-          "type": "heading",
-          "settings": {
-            "text": "Xtrallux is Backed by Hair Loss Experts",
-            "marker_style": "style1",
-            "size": "h3",
-            "marker_color": "#fd6262"
-          }
-        },
-        "text_6ekt4p": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Physicians recommend Xtrallux for its clinically proven effectiveness and advanced technology in promoting hair regrowth and scalp health.<\/p>",
-            "size": "text-size-regular"
-          }
-        },
-        "button_pyTYYB": {
-          "type": "button",
-          "settings": {
-            "link_label": "Shop Now",
-            "wistia_id": "",
-            "tf_data": "",
-            "link": "shopify:\/\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct"
-          }
-        },
-        "text_button_knEViY": {
-          "type": "text-button",
-          "settings": {
-            "link_label": "Watch Testimonials",
-            "link": "shopify:\/\/blogs\/xtrallux-physicians"
-          }
-        }
-      },
-      "block_order": [
-        "heading_LrX8BD",
-        "text_6ekt4p",
-        "button_pyTYYB",
-        "text_button_knEViY"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".text-button {margin-left: 15px;}"
-      ],
-      "settings": {
-        "text_width": "grid",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#d02030",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c": {
       "type": "customer-reviews",
       "blocks": {
@@ -462,6 +404,81 @@
         "image_mobile": "shopify:\/\/shop_images\/hair_treated_by_laser_mobile_a0f7c479-3a18-4b94-bba7-ba8578293c2a.svg",
         "full_width": false,
         "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_ijP7QQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_AVXrdd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/before_and_after_03.png",
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LhwwrB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/before_and_after_01.png",
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mqDhip": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/before_and_after_02.png",
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_AVXrdd",
+        "column_LhwwrB",
+        "column_mqDhip"
+      ],
+      "custom_css": [
+        ".section-header--content {text-align: center; justify-content: center; align-content: center; align-items: center;}"
+      ],
+      "settings": {
+        "heading": "Proven Results, Trusted by Experts",
+        "marker_style": "style1",
+        "description": "<p>Backed by clinical research and trusted by professionals, Xtrallux delivers visible hair regrowth that customers love.<\/p>",
+        "columns_desktop": 3,
+        "mobile_swipe": false,
+        "mobile_slideshow": false,
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "color_heading": "#1a1c1d",
+        "marker_color": "#FD6262",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
     },
@@ -928,10 +945,10 @@
     "multicolumn_W4eYGk",
     "c765bc6e-e5f3-44ec-80ec-d53d85a3bb26",
     "testimonials_JPU9FB",
-    "rich_text_NPjk3p",
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
     "eb037b3e-47b8-495b-876b-8cab846bfd12",
     "single_image_jnbqHP",
+    "multicolumn_ijP7QQ",
     "rich_text_9RbtGx",
     "image_with_text_bQzanF",
     "image_with_text_TPJWd8",
