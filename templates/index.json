@@ -182,24 +182,10 @@
     "multicolumn_RKzixc": {
       "type": "multicolumn",
       "blocks": {
-        "column_dJEpFB": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "Results You Can Trust",
-            "text": "<p>Science-backed, expert-endorsed, and customer-loved. Xtrallux produces results you can count on.<\/p>",
-            "custom_html": "",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_AiQrcJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_01.png",
+            "image": "shopify:\/\/shop_images\/before_and_after_01_device.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
@@ -207,14 +193,14 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Turbo Pro",
+            "link": "shopify:\/\/products\/xtrallux-turbo-pro-hair-regrowth-laser-cap"
           }
         },
         "column_BYG679": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_03.png",
+            "image": "shopify:\/\/shop_images\/before_and_after_02_device.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
@@ -222,14 +208,14 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Super Plus",
+            "link": "shopify:\/\/products\/xtrallux-super-plus-hair-regrowth-laser-cap"
           }
         },
         "column_ejjFka": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_02.png",
+            "image": "shopify:\/\/shop_images\/before_and_after_03_device.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
@@ -237,29 +223,24 @@
             "text": "",
             "custom_html": "",
             "custom_liquid": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Xtrallux Alpha",
+            "link": "shopify:\/\/products\/xtrallux-alpha-hair-regrowth-laser-cap"
           }
         }
       },
       "block_order": [
-        "column_dJEpFB",
         "column_AiQrcJ",
         "column_BYG679",
         "column_ejjFka"
       ],
-      "disabled": true,
       "custom_css": [
-        ".multicolumn__inner_xlaw .multiparent {align-items: center;}",
-        ".multicolumn__inner_xlaw .multicolumn__column {padding: 25px; align-items: center; background-color: #f5f5f5;}",
-        ".multicolumn__inner_xlaw .multicolumn__column:nth-child(1) {background-color: transparent;}",
-        ".multicolumn__image {margin-bottom: 0px;}"
+
       ],
       "settings": {
-        "heading": "",
+        "heading": "Results You Can Trust",
         "marker_style": "style1",
-        "description": "",
-        "columns_desktop": 4,
+        "description": "<p>Backed by clinical research and trusted by professionals, Xtrallux delivers visible hair regrowth that customers love.<\/p>",
+        "columns_desktop": 3,
         "mobile_swipe": false,
         "mobile_slideshow": false,
         "image_ratio": "adapt",
