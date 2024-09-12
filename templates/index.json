@@ -243,7 +243,7 @@
         "columns_desktop": 3,
         "mobile_swipe": false,
         "mobile_slideshow": false,
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "text_alignment": "center",
         "heading_size": "h5",
         "color_heading": "#1a1c1d",
