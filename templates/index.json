@@ -185,7 +185,7 @@
         "column_AiQrcJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_01_device.jpg",
+            "image": "shopify:\/\/shop_images\/before_and_after_01_device_copyright.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
@@ -200,7 +200,7 @@
         "column_BYG679": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_02_device.jpg",
+            "image": "shopify:\/\/shop_images\/before_and_after_02_device_copyright.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
@@ -215,7 +215,7 @@
         "column_ejjFka": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/before_and_after_03_device.jpg",
+            "image": "shopify:\/\/shop_images\/before_and_after_03_device_copyright.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "",
