@@ -338,7 +338,7 @@
         "template--16395351589064__2e3f8cfd-db13-4ed0-b66a-96d4812aeccb-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/charlie_thumb_big_3.jpg",
+            "image": "shopify:\/\/shop_images\/charlie_noround.jpg",
             "image_full_width": true,
             "image_link": "",
             "wistia_id": "rh289v5b82",
