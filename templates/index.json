@@ -251,7 +251,7 @@
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "b6273969-f9b6-4a6a-8afb-856994c08021": {
