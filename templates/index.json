@@ -244,7 +244,7 @@
         "mobile_swipe": false,
         "mobile_slideshow": false,
         "image_ratio": "adapt",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "color_heading": "#1a1c1d",
         "marker_color": "#fd6262",
