@@ -462,7 +462,7 @@
         "column_mqDhip"
       ],
       "custom_css": [
-        ".section-header--content {text-align: center; justify-content: center; align-content: center; align-items: center;}"
+        ".section-header {text-align: center; justify-content: center;}"
       ],
       "settings": {
         "heading": "Proven Results, Trusted by Experts",
