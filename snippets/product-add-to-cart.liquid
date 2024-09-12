@@ -32,6 +32,7 @@
 		          {{ 'products.product.sold_out' | t }}
 		        {%- endif -%}
 					</span>
+					<input type="hidden" name="return_to" value="/checkout/" />
 					<span class="loading-overlay">
 						{% render 'svg-icons' with 'thb-loading' %}
 					</span>
@@ -54,6 +55,7 @@
         >
           <span class="single-add-to-cart-button--text">{{ 'products.product.sold_out' | t }}</span>
         </button>
+		
       </div>
     </div>
   {%- endif -%}
