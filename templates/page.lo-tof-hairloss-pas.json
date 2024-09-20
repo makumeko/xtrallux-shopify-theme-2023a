@@ -30,7 +30,7 @@
         "text_p8J3Bw": {
           "type": "text",
           "settings": {
-            "text": "<p>Unlock the power of hair regrowth with Xtrallux. Our FDA-cleared laser devices revitalize hair follicles to promote thicker, healthier hair. With just <strong>6 minutes a day<\/strong>, you can achieve real results at the best price on the market. Start your journey to fuller hair today!<\/p>"
+            "text": "<p>Our FDA-cleared laser devices revitalize hair follicles to promote thicker, healthier hair. With just <strong>6 minutes a day<\/strong>, you can achieve real results at the best price on the market.<\/p>"
           }
         },
         "button_xJ4Gjp": {
@@ -59,7 +59,7 @@
         ".customer-reviews--review .star-rating {font-size: 1.8rem;}",
         ".image-with-text--content--inner .rte {font-size: 1.2rem;}",
         ".image-with-text--inner a:first-of-type {background-color: transparent; color: #424242; text-decoration: none;}",
-        "@media only screen and (max-width: 768px) {.image-with-text--image-media {margin-top: 20px; } .image-with-text--inner {padding: 15px 0px; } .button {margin-bottom: 15px; width: 100%; } .h1 {font-size: 1.9rem; line-height: normal;}}"
+        "@media only screen and (max-width: 768px) {.image-with-text--image-media {margin-top: 20px; } .image-with-text--inner {padding: 15px 0px; } .button {margin-bottom: 15px; width: 100%; } .h1 {font-size: 1.9rem; line-height: normal; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/XtralluxTurboPro3_4viewwithlaserdomeonangle-2.png",
