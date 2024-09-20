@@ -370,7 +370,8 @@
         "quote_cRqxqH"
       ],
       "custom_css": [
-        ".testimonials--author {line-height: 18px;}"
+        ".testimonials--author {line-height: 18px;}",
+        "ol {display: none;}"
       ],
       "settings": {
         "heading": "",
