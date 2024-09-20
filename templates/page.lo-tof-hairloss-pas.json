@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "button_text": "Discover Xtrallux",
-            "button_link": "#learn-more"
+            "button_link": "#shop-now"
           }
         }
       },
@@ -817,65 +817,8 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_ntcXJH": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_qi4xC6": {
-          "type": "subheading",
-          "settings": {
-            "text": "Is Xtrallux Right for You?"
-          }
-        },
-        "heading_mgn9yB": {
-          "type": "heading",
-          "settings": {
-            "text": "Your Journey to Hair Regrowth Starts Here",
-            "marker_style": "style1",
-            "size": "h2",
-            "marker_color": "#fd6262"
-          }
-        },
-        "text_RdUAYr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you’re dealing with mild to moderate hair loss or worried about future hair loss, Xtrallux is your answer. This FDA-cleared laser therapy is drug-free and hassle-free, offering a proven alternative to surgical procedures. Find out if Xtrallux is the right fit for you by taking our personalized quiz.<\/p>",
-            "size": "text-size-regular"
-          }
-        },
-        "button_LtLapb": {
-          "type": "button",
-          "settings": {
-            "link_label": "Take the Quiz Now",
-            "wistia_id": "",
-            "tf_data": "hmkasJr5",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_qi4xC6",
-        "heading_mgn9yB",
-        "text_RdUAYr",
-        "button_LtLapb"
-      ],
-      "custom_css": [
-        ".accent {border: 0px !important;}"
-      ],
-      "settings": {
-        "text_width": "xlarge",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#d02030",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f": {
       "type": "featured-collection",
-      "disabled": true,
       "custom_css": [
         ".section-header--content {text-align: center; margin-bottom: 25px;}",
         ".featured-collection {padding-top: 25px; padding-bottom: 25px;}"
@@ -1011,7 +954,6 @@
     "rich_text_bhT3Dr",
     "customer_reviews_UgVT3j",
     "testimonials_GBVFnx",
-    "rich_text_ntcXJH",
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f",
     "spacer_jwekVM",
     "e0aa5fb0-65b6-402d-8fe8-075832b1cf26",
