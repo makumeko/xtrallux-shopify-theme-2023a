@@ -581,7 +581,7 @@
         "c6ded546-903a-4a0e-89ef-f7330de6c6d1": {
           "type": "heading",
           "settings": {
-            "text": "The Science Behind Xtrallux’s Laser Therapy",
+            "text": "<span id=\"learn-more\">The Science Behind Xtrallux’s Laser Therapy<\/span>",
             "marker_style": "style1",
             "size": "h2",
             "marker_color": "#fd6262"
