@@ -585,21 +585,11 @@
             "text": "<p>Xtrallux’s Low-Level Laser Therapy targets weakened hair follicles with precise wavelengths of light, stimulating cellular activity in your scalp. This process boosts blood circulation and nutrient flow, strengthening existing hair and encouraging new growth. In just 6 minutes a day, Xtrallux provides a powerful, non-invasive alternative to traditional hair loss treatments.<\/p>",
             "size": "text-size-regular"
           }
-        },
-        "heading_Qz6AgV": {
-          "type": "heading",
-          "settings": {
-            "text": "Hair Follicles Treated with Laser Therapy",
-            "marker_style": "style1",
-            "size": "h4",
-            "marker_color": "#fd6262"
-          }
         }
       },
       "block_order": [
         "c6ded546-903a-4a0e-89ef-f7330de6c6d1",
-        "04eb502a-df29-4af7-bb46-1783570e82ce",
-        "heading_Qz6AgV"
+        "04eb502a-df29-4af7-bb46-1783570e82ce"
       ],
       "custom_css": [
         ".text-button {margin-left: 15px;}",
@@ -672,9 +662,9 @@
         ".section-header {justify-content: center; text-align: center;}"
       ],
       "settings": {
-        "heading": "What to Expect from Xtrallux:",
+        "heading": "",
         "marker_style": "style1",
-        "description": "<p>A Comprehensive Guide to Your Hair Restoration Journey. Before you start, we recommend taking photos of your scalp. These will help you track your progress and see the tangible results over time.<\/p>",
+        "description": "",
         "columns_desktop": 4,
         "column_spacing": "medium",
         "image_ratio": "adapt",
@@ -685,7 +675,7 @@
         "marker_color": "#fd6262",
         "color_text": "#2c2d2e",
         "color_link": "#3f72e5",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     },
@@ -842,7 +832,7 @@
             "text": "Your Journey to Hair Regrowth Starts Here",
             "marker_style": "style1",
             "size": "h2",
-            "marker_color": "#FD6262"
+            "marker_color": "#fd6262"
           }
         },
         "text_RdUAYr": {
@@ -875,7 +865,7 @@
         "text_width": "xlarge",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_heading": "#1a1c1d",
         "color_text": "#2c2d2e",
         "color_links": "#d02030",
