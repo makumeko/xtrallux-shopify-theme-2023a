@@ -64,7 +64,7 @@
         "layout": "image_first",
         "content_position": "text-center",
         "column_spacing": "small",
-        "color_bg": "#f8f8f5",
+        "color_bg": "#ffffff",
         "color_text": "#2c2d2e",
         "color_border": "#e2e2e2",
         "disable_top_spacing": true,
