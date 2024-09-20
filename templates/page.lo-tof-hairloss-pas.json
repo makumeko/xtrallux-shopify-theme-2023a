@@ -878,7 +878,7 @@
       "disabled": true,
       "custom_css": [
         ".section-header--content {text-align: center; margin-bottom: 25px;}",
-        ".featured-collection {background-color: #fafafa; padding-top: 25px; padding-bottom: 25px;}"
+        ".featured-collection {padding-top: 25px; padding-bottom: 25px;}"
       ],
       "settings": {
         "heading": "<span id=\"shop-now\" class=\"xl-accent\">Discover Xtrallux's Power<\/span><br><span>Now available without a prescription.<\/span>",
