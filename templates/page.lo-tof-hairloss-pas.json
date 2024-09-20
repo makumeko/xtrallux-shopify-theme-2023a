@@ -248,6 +248,144 @@
         "disable_bottom_spacing": true
       }
     },
+    "rich_text_bhT3Dr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NaEaxK": {
+          "type": "heading",
+          "settings": {
+            "text": "Preferred by Hair Loss |Experts|",
+            "marker_style": "style3",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_bLMwXe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Xtrallux is not just a product, it's a commitment to ongoing hair health, recommended for its lasting benefits.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "button_ew6UX8": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_label": "Shop Now",
+            "wistia_id": "",
+            "tf_data": "",
+            "link": "shopify:\/\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NaEaxK",
+        "text_bLMwXe",
+        "button_ew6UX8"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "customer_reviews_UgVT3j": {
+      "type": "customer-reviews",
+      "blocks": {
+        "review_fCxh8X": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"The best type of cap is based on how many diodes the cap actually has. The more diodes, the more energy; the more energy, the more chances that you're going to be able to stop your hair loss.\"<br>\n<!-- <i class=\"fa-duotone fa-circle-play\"><\/i> Watch Video -->",
+            "author": "Dr. Shelly Friedman",
+            "author_image": "shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg",
+            "author_title": "Founding President, American Board of Hair Restoration Surgery"
+          }
+        },
+        "review_6wyDwD": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"This is by far and away the most powerful laser on the market today. The Xtrallux has been our device of choice because of the additional diodes.\"",
+            "author": "Dr. Mark Bishara",
+            "author_image": "shopify:\/\/shop_images\/Mark-Bishara-Headshot.jpg",
+            "author_title": "Hair Transplant Surgeon"
+          }
+        },
+        "review_tGHcfT": {
+          "type": "review",
+          "settings": {
+            "product_handle": "",
+            "stars": "5",
+            "heading": "",
+            "text": "\"I see it as being effective in patients who have early thinning... it's also very effective for our female patients who have diffuse thinning as well. It's one of the best treatments that we can offer out there that is FDA-Cleared.\"",
+            "author": "Dr. Tam Chu",
+            "author_image": "shopify:\/\/shop_images\/Testimonials_0001_IMG_2597_-_SI_Chu.jpg",
+            "author_title": "Hair Restoration Physician"
+          }
+        }
+      },
+      "block_order": [
+        "review_fCxh8X",
+        "review_6wyDwD",
+        "review_tGHcfT"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "columns": 3,
+        "autoplay": true,
+        "autoplay_length": 4,
+        "color_bg": "#fafafa",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "testimonials_GBVFnx": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_cRqxqH": {
+          "type": "quote",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg",
+            "stars": "5",
+            "text": "The most important thing is to do something to stop your hair loss before it gets any worse.",
+            "author": "Dr. Shelly Friedman.<br> Founding President, <br>American Board of Hair Restoration Surgery"
+          }
+        }
+      },
+      "block_order": [
+        "quote_cRqxqH"
+      ],
+      "custom_css": [
+        ".testimonials--author {line-height: 18px;}"
+      ],
+      "settings": {
+        "heading": "",
+        "full_width": true,
+        "text_size": "large",
+        "font_family": "heading",
+        "pagination": "logos",
+        "autoplay": false,
+        "autoplay_length": 5,
+        "color_bg": "#fafafa",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "rich_text_axjbw9": {
       "type": "rich-text",
       "blocks": {
@@ -572,144 +710,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_bhT3Dr": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_NaEaxK": {
-          "type": "heading",
-          "settings": {
-            "text": "Preferred by Hair Loss |Experts|",
-            "marker_style": "style3",
-            "size": "h3",
-            "marker_color": "#fd6262"
-          }
-        },
-        "text_bLMwXe": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Xtrallux is not just a product, it's a commitment to ongoing hair health, recommended for its lasting benefits.<\/p>",
-            "size": "text-size-regular"
-          }
-        },
-        "button_ew6UX8": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link_label": "Shop Now",
-            "wistia_id": "",
-            "tf_data": "",
-            "link": "shopify:\/\/collections\/buy-xtrallux-laser-caps-for-hair-growth-direct"
-          }
-        }
-      },
-      "block_order": [
-        "heading_NaEaxK",
-        "text_bLMwXe",
-        "button_ew6UX8"
-      ],
-      "settings": {
-        "text_width": "grid",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#d02030",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
-    "customer_reviews_UgVT3j": {
-      "type": "customer-reviews",
-      "blocks": {
-        "review_fCxh8X": {
-          "type": "review",
-          "settings": {
-            "product_handle": "",
-            "stars": "5",
-            "heading": "",
-            "text": "\"The best type of cap is based on how many diodes the cap actually has. The more diodes, the more energy; the more energy, the more chances that you're going to be able to stop your hair loss.\"<br>\n<!-- <i class=\"fa-duotone fa-circle-play\"><\/i> Watch Video -->",
-            "author": "Dr. Shelly Friedman",
-            "author_image": "shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg",
-            "author_title": "Founding President, American Board of Hair Restoration Surgery"
-          }
-        },
-        "review_6wyDwD": {
-          "type": "review",
-          "settings": {
-            "product_handle": "",
-            "stars": "5",
-            "heading": "",
-            "text": "\"This is by far and away the most powerful laser on the market today. The Xtrallux has been our device of choice because of the additional diodes.\"",
-            "author": "Dr. Mark Bishara",
-            "author_image": "shopify:\/\/shop_images\/Mark-Bishara-Headshot.jpg",
-            "author_title": "Hair Transplant Surgeon"
-          }
-        },
-        "review_tGHcfT": {
-          "type": "review",
-          "settings": {
-            "product_handle": "",
-            "stars": "5",
-            "heading": "",
-            "text": "\"I see it as being effective in patients who have early thinning... it's also very effective for our female patients who have diffuse thinning as well. It's one of the best treatments that we can offer out there that is FDA-Cleared.\"",
-            "author": "Dr. Tam Chu",
-            "author_image": "shopify:\/\/shop_images\/Testimonials_0001_IMG_2597_-_SI_Chu.jpg",
-            "author_title": "Hair Restoration Physician"
-          }
-        }
-      },
-      "block_order": [
-        "review_fCxh8X",
-        "review_6wyDwD",
-        "review_tGHcfT"
-      ],
-      "settings": {
-        "heading": "",
-        "description": "",
-        "columns": 3,
-        "autoplay": true,
-        "autoplay_length": 4,
-        "color_bg": "#fafafa",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "testimonials_GBVFnx": {
-      "type": "testimonials",
-      "blocks": {
-        "quote_cRqxqH": {
-          "type": "quote",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Dr-Shelly-Friedman-headshot.jpg",
-            "stars": "5",
-            "text": "The most important thing is to do something to stop your hair loss before it gets any worse.",
-            "author": "Dr. Shelly Friedman.<br> Founding President, <br>American Board of Hair Restoration Surgery"
-          }
-        }
-      },
-      "block_order": [
-        "quote_cRqxqH"
-      ],
-      "custom_css": [
-        ".testimonials--author {line-height: 18px;}"
-      ],
-      "settings": {
-        "heading": "",
-        "full_width": true,
-        "text_size": "large",
-        "font_family": "heading",
-        "pagination": "logos",
-        "autoplay": false,
-        "autoplay_length": 5,
-        "color_bg": "#fafafa",
-        "color_text": "#2c2d2e",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "rich_text_BXLGnX": {
       "type": "rich-text",
       "blocks": {
@@ -1025,6 +1025,9 @@
     "image_with_text_QVCdXd",
     "cab8d31e-2599-485c-a8a9-ea923f0805dd",
     "00879213-f356-4732-823d-a7ef2962b784",
+    "rich_text_bhT3Dr",
+    "customer_reviews_UgVT3j",
+    "testimonials_GBVFnx",
     "rich_text_axjbw9",
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
     "image_with_text_DMFhn6",
@@ -1032,9 +1035,6 @@
     "spacer_LTiGTa",
     "eb037b3e-47b8-495b-876b-8cab846bfd12",
     "toggle_boxes_LgVreb",
-    "rich_text_bhT3Dr",
-    "customer_reviews_UgVT3j",
-    "testimonials_GBVFnx",
     "rich_text_BXLGnX",
     "8eac0c67-aae9-473f-8ef3-ee9428b60ebe",
     "multicolumn_CxgWT9",
