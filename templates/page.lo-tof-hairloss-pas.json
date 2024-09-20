@@ -247,15 +247,6 @@
         "disable_bottom_spacing": true
       }
     },
-    "custom_liquid_YTDbwY": {
-      "type": "custom-liquid",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "custom_liquid": "<div id=\"learn-more\">&nbsp;<\/div>\n<style>\n#shopify-section-template--17527354065136__rich_text_WLqL9B {\n  background-color: #FAFAFA;\n}\n<\/style>"
-      }
-    },
     "rich_text_axjbw9": {
       "type": "rich-text",
       "blocks": {
@@ -993,7 +984,6 @@
     "image_with_text_QVCdXd",
     "cab8d31e-2599-485c-a8a9-ea923f0805dd",
     "00879213-f356-4732-823d-a7ef2962b784",
-    "custom_liquid_YTDbwY",
     "rich_text_axjbw9",
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
     "image_with_text_DMFhn6",
