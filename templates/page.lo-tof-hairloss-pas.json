@@ -710,6 +710,49 @@
         "disable_bottom_spacing": false
       }
     },
+    "rich_text_8Dyj8U": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XiUwFE": {
+          "type": "heading",
+          "settings": {
+            "text": "Talk about your brand",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#FD6262"
+          }
+        },
+        "text_w7xGJC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "size": "text-size-regular"
+          }
+        },
+        "custom_liquid_3Qtybh": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<table class=\"table\">\n  <thead>\n\t<tr>\n\t  <th scope=\"col\">Xtrallux<\/th>\n\t  <th scope=\"col\">Other Devices<\/th>\n\t<\/tr>\n  <\/thead>\n  <tbody>\n\t<tr>\n\t  <th scope=\"row\"><i class=\"fa-solid fa-circle-check\" style=\"color: #4f7a28;\"><\/i> Up to 316 Lasers<\/th>\n\t  <td><i class=\"fa-sharp fa-solid fa-circle-xmark\" style=\"color: #929292;\"><\/i> Up to 304 Lasers<\/td>\n\t<\/tr>\n\t<tr>\n\t  <th scope=\"row\"><i class=\"fa-solid fa-circle-check\" style=\"color: #4f7a28;\"><\/i> Includes Carrying Case and travel Accesories<\/th>\n\t  <td><i class=\"fa-sharp fa-solid fa-circle-xmark\" style=\"color: #929292;\"><\/i> No carrying case or travel accesories<\/td>\n\t<\/tr>\n\t<tr>\n\t  <th scope=\"row\"><i class=\"fa-solid fa-circle-check\" style=\"color: #4f7a28;\"><\/i> Privacy Conscious Treatment<\/th>\n\t  <td><i class=\"fa-sharp fa-solid fa-circle-xmark\" style=\"color: #929292;\"><\/i> Privacy Concerns<\/td>\n\t<\/tr>\n\t<tr>\n\t  <th scope=\"row\"><i class=\"fa-solid fa-circle-check\" style=\"color: #4f7a28;\"><\/i> Always in Stock<\/th>\n\t  <td><i class=\"fa-sharp fa-solid fa-circle-xmark\" style=\"color: #929292;\"><\/i> Inconsistent Inventory<\/td>\n\t<\/tr>\n\t<tr>\n\t  <th scope=\"row\"><i class=\"fa-solid fa-circle-check\" style=\"color: #4f7a28;\"><\/i> As low as $999.99<\/th>\n\t  <td><i class=\"fa-sharp fa-solid fa-circle-xmark\" style=\"color: #929292;\"><\/i> Starts at $2,499.00<\/td>\n\t<\/tr>\n  <\/tbody>\n<\/table>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XiUwFE",
+        "text_w7xGJC",
+        "custom_liquid_3Qtybh"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f": {
       "type": "featured-collection",
       "custom_css": [
@@ -942,6 +985,7 @@
     "rich_text_bhT3Dr",
     "customer_reviews_UgVT3j",
     "testimonials_GBVFnx",
+    "rich_text_8Dyj8U",
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f",
     "multicolumn_CxgWT9",
     "e0aa5fb0-65b6-402d-8fe8-075832b1cf26",
