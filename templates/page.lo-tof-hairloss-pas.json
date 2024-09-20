@@ -36,7 +36,14 @@
         "button_xJ4Gjp": {
           "type": "button",
           "settings": {
-            "button_text": "Discover Xtrallux",
+            "button_text": "Learn More",
+            "button_link": "#shop-now"
+          }
+        },
+        "button_qfVVjF": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
             "button_link": "#shop-now"
           }
         }
@@ -45,7 +52,8 @@
         "custom_html_FENFRL",
         "heading_gCnPpN",
         "text_p8J3Bw",
-        "button_xJ4Gjp"
+        "button_xJ4Gjp",
+        "button_qfVVjF"
       ],
       "custom_css": [
         ".customer-reviews--review .star-rating {font-size: 1.8rem;}",
