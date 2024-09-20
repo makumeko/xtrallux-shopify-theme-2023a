@@ -58,7 +58,7 @@
       "custom_css": [
         ".customer-reviews--review .star-rating {font-size: 1.8rem;}",
         ".image-with-text--content--inner .rte {font-size: 1.2rem;}",
-        "@media only screen and (max-width: 768px) {.image-with-text--image-media {margin-top: 20px; } .image-with-text--inner {padding: 15px 0px; }}"
+        "@media only screen and (max-width: 768px) {.image-with-text--image-media {margin-top: 20px; } .image-with-text--inner {padding: 15px 0px; } .button {margin-bottom: 15px; width: 100%; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/XtralluxTurboPro3_4viewwithlaserdomeonangle-2.png",
