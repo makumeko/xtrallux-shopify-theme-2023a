@@ -375,7 +375,8 @@
         "subheading_bNEzAY"
       ],
       "custom_css": [
-        ".image-with-text--content {padding: 0px;}"
+        ".image-with-text--content {padding: 0px;}",
+        ".image-with-text--content p {font-size: 1.2rem; padding: 0px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/photo-2.jpg",
@@ -436,8 +437,8 @@
       "settings": {
         "heading": "Clinically Proven Results for Real Hair Regrowth",
         "marker_style": "style3",
-        "heading_size": "h3",
-        "description": "<p>Xtrallux uses advanced Low-Level Laser Therapy (LLLT) to activate your hair follicles. This cutting-edge photobiomodulation process sends red laser energy deep into your scalp, reviving inactive follicles and encouraging healthy hair growth. <\/p><p>With consistent use, you’ll start to see results within months—thanks to the natural hair growth cycle. <\/p><p>Safe, effective, and side-effect-free, Xtrallux is the ideal solution for those struggling with androgenetic alopecia.<\/p>",
+        "heading_size": "h2",
+        "description": "<p>Xtrallux uses advanced Low-Level Laser Therapy (LLLT) to activate your hair follicles. This cutting-edge photobiomodulation process sends red laser energy deep into your scalp, reviving inactive follicles and encouraging healthy hair growth. <\/p><p><strong>With consistent use, you’ll start to see results within months—thanks to the natural hair growth cycle.<\/strong><\/p>",
         "badge_text": "Laser Therapy Results",
         "image_position": "text_first",
         "desktop_height": "desktop-height-650",
