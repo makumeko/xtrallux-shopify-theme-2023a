@@ -79,113 +79,6 @@
         "disable_bottom_spacing": true
       }
     },
-    "multicolumn_CxgWT9": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_cATDeH": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0005_Icon---FDA-Cleared_Safe_and_Effective.png?v=1705596275\" width=\"60px\">\n<h6>FDA-Cleared<\/h6>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_4gwdNy": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0001_Icon---USA_Assembly_and_Support.png?v=1705596275\" width=\"60px\">\n<h6>USA-Based Company<\/h6>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DWMdQ8": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0000_Icon---Targeted_Laser-Only_Therapy_No_LEDs.png?v=1705596275\" width=\"60px\">\n<h6>All Laser Treatment<\/h6>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_4Akgzy": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0006_Icon---Easy_Convenient_2_4x_1cbc521a-1a05-4796-a57b-6c0fb0c7252e.png?v=1705596275\" width=\"60px\">\n<h6>Easy & Convenient<\/h6>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_d8nDW7": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0007_Icon---Available_thru_Doctors_Direct.png?v=1705596520\" width=\"60px\">\n<h6>Physician Approved<\/h6>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_cATDeH",
-        "column_4gwdNy",
-        "column_DWMdQ8",
-        "column_4Akgzy",
-        "column_d8nDW7"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".section-multicolumn {background-color: #fafafa;}",
-        "img {padding-top: 15px;}",
-        "h6 {font-size: 0.9rem; padding-top: 10px;}",
-        ".columns {margin-bottom: 0px;}",
-        "@media only screen and (max-width: 768px) {.multicolumn__column {width: 315px; }}"
-      ],
-      "settings": {
-        "heading": "",
-        "marker_style": "style1",
-        "description": "",
-        "columns_desktop": 5,
-        "mobile_swipe": false,
-        "mobile_slideshow": true,
-        "image_ratio": "adapt",
-        "text_alignment": "center",
-        "heading_size": "h5",
-        "color_heading": "#1a1c1d",
-        "marker_color": "#fd6262",
-        "color_text": "#2c2d2e",
-        "color_links": "#2c2d2e",
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
     "cab8d31e-2599-485c-a8a9-ea923f0805dd": {
       "type": "custom-liquid",
       "custom_css": [
@@ -844,16 +737,113 @@
         "show_progress_bar": true,
         "marker_color": "#fd6262",
         "disable_top_spacing": true,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
-    "spacer_jwekVM": {
-      "type": "spacer",
+    "multicolumn_CxgWT9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cATDeH": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0005_Icon---FDA-Cleared_Safe_and_Effective.png?v=1705596275\" width=\"60px\">\n<h6>FDA-Cleared<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4gwdNy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0001_Icon---USA_Assembly_and_Support.png?v=1705596275\" width=\"60px\">\n<h6>USA-Based Company<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DWMdQ8": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0000_Icon---Targeted_Laser-Only_Therapy_No_LEDs.png?v=1705596275\" width=\"60px\">\n<h6>All Laser Treatment<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4Akgzy": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0006_Icon---Easy_Convenient_2_4x_1cbc521a-1a05-4796-a57b-6c0fb0c7252e.png?v=1705596275\" width=\"60px\">\n<h6>Easy & Convenient<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_d8nDW7": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0611\/9410\/9168\/files\/last_icon_selling_points__0007_Icon---Available_thru_Doctors_Direct.png?v=1705596520\" width=\"60px\">\n<h6>Physician Approved<\/h6>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_cATDeH",
+        "column_4gwdNy",
+        "column_DWMdQ8",
+        "column_4Akgzy",
+        "column_d8nDW7"
+      ],
+      "custom_css": [
+        ".section-multicolumn {background-color: #fafafa;}",
+        "img {padding-top: 15px;}",
+        "h6 {font-size: 0.9rem; padding-top: 10px;}",
+        ".columns {margin-bottom: 0px;}",
+        "@media only screen and (max-width: 768px) {.multicolumn__column {width: 315px; }}"
+      ],
       "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 0,
-        "border_separator": true,
-        "border_separator_full": false
+        "heading": "",
+        "marker_style": "style1",
+        "description": "",
+        "columns_desktop": 5,
+        "mobile_swipe": false,
+        "mobile_slideshow": true,
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "heading_size": "h5",
+        "color_heading": "#1a1c1d",
+        "marker_color": "#fd6262",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
       }
     },
     "e0aa5fb0-65b6-402d-8fe8-075832b1cf26": {
@@ -903,7 +893,7 @@
         "template--17280562462960__e0aa5fb0-65b6-402d-8fe8-075832b1cf26-collapsible_tab-4"
       ],
       "custom_css": [
-        ".columns {background-color: #fafafa; padding: 50px; border-radius: 15px;}",
+        ".columns {background-color: #fafafa; padding: 50px; border-radius: 15px; margin-top: 25px;}",
         "@media only screen and (max-width: 768px) {.columns {padding-top: 0px; }}"
       ],
       "settings": {
@@ -948,7 +938,6 @@
   },
   "order": [
     "image_with_text_QVCdXd",
-    "multicolumn_CxgWT9",
     "cab8d31e-2599-485c-a8a9-ea923f0805dd",
     "00879213-f356-4732-823d-a7ef2962b784",
     "custom_liquid_YTDbwY",
@@ -963,7 +952,7 @@
     "customer_reviews_UgVT3j",
     "testimonials_GBVFnx",
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f",
-    "spacer_jwekVM",
+    "multicolumn_CxgWT9",
     "e0aa5fb0-65b6-402d-8fe8-075832b1cf26",
     "spacer_79Cacd",
     "spacer_Vq8JHm",
