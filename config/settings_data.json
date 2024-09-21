@@ -144,6 +144,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "523714749058147740": {
+        "type": "shopify:\/\/apps\/twik-analytics\/blocks\/snippet\/40206efc-cb58-49cf-9af7-915ef6099862",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
