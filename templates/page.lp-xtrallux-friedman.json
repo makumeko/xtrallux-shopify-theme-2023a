@@ -30,8 +30,8 @@
         "button_xJ4Gjp": {
           "type": "button",
           "settings": {
-            "button_text": "Learn More",
-            "button_link": "#learn-more"
+            "button_text": "Get More Information",
+            "button_link": "#information"
           }
         }
       },
@@ -209,7 +209,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "full_width": false,
-        "layout": "text_first",
+        "layout": "image_first",
         "content_position": "text-left",
         "column_spacing": "medium",
         "color_bg": "#ffffff",
