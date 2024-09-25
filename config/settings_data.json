@@ -52,11 +52,11 @@
     "button_border_radius": 40,
     "input_border_radius": 0,
     "animations": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/xtrallux",
-    "social_twitter_link": "https:\/\/twitter.com\/xtrallux",
-    "social_instagram_link": "https:\/\/www.instagram.com\/xtrallux\/",
+    "social_facebook_link": "https://www.facebook.com/xtrallux",
+    "social_twitter_link": "https://twitter.com/xtrallux",
+    "social_instagram_link": "https://www.instagram.com/xtrallux/",
     "social_tiktok_link": "",
-    "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/xtrallux",
+    "social_linkedin_link": "https://www.linkedin.com/company/xtrallux",
     "product_card_spacing": "large",
     "product_content_alignment": "center",
     "product_price_position": "after-product-title",
@@ -80,7 +80,7 @@
     "color_article_card_bg": "#f5f5f5",
     "color_swatches": "",
     "cart_terms_conditions_enable": false,
-    "cart_terms_conditions_page": "shopify:\/\/policies\/terms-of-service",
+    "cart_terms_conditions_page": "shopify://policies/terms-of-service",
     "cart_drawer": true,
     "cart_drawer_notes": false,
     "cart_recommendations": false,
@@ -91,8 +91,8 @@
     "search_product_collection_limit": 2,
     "currency_code_enabled": false,
     "lazy_loading": false,
-    "favicon": "shopify:\/\/shop_images\/Xtrallux_Icon_on_Red.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/XtralluxLogo.svg",
+    "favicon": "shopify://shop_images/Xtrallux_Icon_on_Red.png",
+    "checkout_logo_image": "shopify://shop_images/XtralluxLogo.svg",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_button_color": "#d02030",
@@ -104,49 +104,43 @@
     ],
     "blocks": {
       "7570552984445421165": {
-        "type": "shopify:\/\/apps\/yotpo-product-photo-reviews\/blocks\/settings\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+        "type": "shopify://apps/yotpo-product-photo-reviews/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
         "disabled": false,
         "settings": {
         }
       },
       "1248957848723945065": {
-        "type": "shopify:\/\/apps\/mntn\/blocks\/tracking-pixel\/d40b5b2f-bf84-4a06-b576-832ad24a8652",
+        "type": "shopify://apps/mntn/blocks/tracking-pixel/d40b5b2f-bf84-4a06-b576-832ad24a8652",
         "disabled": false,
         "settings": {
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
       "13375078075628245689": {
-        "type": "shopify:\/\/apps\/powr-contact-form\/blocks\/app-embed\/1412fe37-d89c-4706-a797-6e2b53cb4a69",
+        "type": "shopify://apps/powr-contact-form/blocks/app-embed/1412fe37-d89c-4706-a797-6e2b53cb4a69",
         "disabled": false,
         "settings": {
         }
       },
       "12439146293631897289": {
-        "type": "shopify:\/\/apps\/blockify-ip-block\/blocks\/app_embed\/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
+        "type": "shopify://apps/blockify-ip-block/blocks/app_embed/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
         "disabled": false,
         "settings": {
         }
       },
       "13768625480086291342": {
-        "type": "shopify:\/\/apps\/forms\/blocks\/forms\/8744a304-fcb1-4347-b211-bb6b4759a76a",
+        "type": "shopify://apps/forms/blocks/forms/8744a304-fcb1-4347-b211-bb6b4759a76a",
         "disabled": false,
         "settings": {
         }
       },
       "4450774348159742141": {
-        "type": "shopify:\/\/apps\/klip-coupons\/blocks\/klip-app\/df38e221-ede4-4ad4-b47d-56524361a5be",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "523714749058147740": {
-        "type": "shopify:\/\/apps\/twik-analytics\/blocks\/snippet\/40206efc-cb58-49cf-9af7-915ef6099862",
+        "type": "shopify://apps/klip-coupons/blocks/klip-app/df38e221-ede4-4ad4-b47d-56524361a5be",
         "disabled": false,
         "settings": {
         }

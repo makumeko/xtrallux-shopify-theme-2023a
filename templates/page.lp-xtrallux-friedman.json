@@ -15,9 +15,9 @@
         "heading_gCnPpN": {
           "type": "heading",
           "settings": {
-            "text": "Hair Regrowth and Restoration with Dr. Pizarro and Xtrallux",
+            "text": "Hair Regrowth and Restoration with Dr. Shelly Friedman and Xtrallux",
             "marker_style": "style1",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "marker_color": "#fd6262"
           }
         },
@@ -53,7 +53,7 @@
         "wistia_id": "",
         "use_video": true,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_hosted": "shopify://files/videos/Dr_Pizarro_WIP.mp4",
+        "video_hosted": "shopify://files/videos/Shelley Friedman - Hair Transplant 0924.mp4",
         "video_autoplay": true,
         "height": "adapt",
         "desktop_image_width": "large",
@@ -92,7 +92,7 @@
         "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Dr. Pizarro's clinic in Orlando understands the impact of hair loss and is committed to offering you the most advanced solutions. Partnering with Xtrallux, <strong>we now include the groundbreaking Turbo Pro Laser Cap</strong> with each hair transplant procedure.</p>",
+            "text": "<p>Dr. Friedman's clinic in Scottsdale, Arizona understands the impact of hair loss and is committed to offering you the most advanced solutions. Partnering with Xtrallux, <strong>we now include the groundbreaking Turbo Pro Laser Cap</strong> with each hair transplant procedure.</p>",
             "size": "text-size-large"
           }
         }
@@ -122,7 +122,7 @@
         "heading_GXfXft": {
           "type": "heading",
           "settings": {
-            "text": "Why Choose Dr. Pizarro for Your Hair Transplant?",
+            "text": "Why Choose Dr. Friedman for Your Hair Transplant?",
             "marker_style": "style1",
             "heading_size": "h3",
             "marker_color": "#fd6262"
@@ -131,7 +131,7 @@
         "text_9ERnEa": {
           "type": "text",
           "settings": {
-            "text": "<ul><li><strong>Experienced Professional</strong>: Dr. Pizarro, with decades of expertise in hair transplantation, ensures that your journey to hair recovery is smooth and effective.</li><li><strong>Advanced Techniques</strong>: Utilizing the latest in hair transplant technology, Dr. Pizarro tailors each procedure to your unique needs, maximizing results.</li></ul>"
+            "text": "<p>Dr. Friedman has dedicated his medical career to becoming a true specialist in hair restoration surgery. He is the Founding President of the American Board of Hair Restoration Surgery, the certifying board for hair transplant surgeons. Dr. Friedman believes that hair transplantation is a surgical specialty in itself and like other medical specialties, it requires professional oversight to protect the public from inexperienced surgeons. He has lectured extensively nationally and internationally at hair restoration and dermatology seminars. He has also taught his surgical techniques at live surgery workshops.</p><p>Dr. Friedman has been very generous with his time and knowledge, training a number of well known hair transplant physicians. Dr. Friedman not only performs the latest hair restoration techniques but also has advanced the practice of hair transplantation with his own innovative ideas and skills.</p><p>Dr. Friedman also holds a Board Certification for Dermatology, the field dedicated to skin, nails, and hair loss & alopecia.</p>"
           }
         },
         "text_button_qrX4Xp": {
@@ -151,15 +151,15 @@
         "a {color: #d02030;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/dr-pizarro-2-1-optimized-1721420377.webp",
+        "image": "shopify://shop_images/Dr-Shelly-Friedman_1ea77dd7-10ca-4f7e-b3ae-9f66c0e8cf64.jpg",
         "wistia_id": "",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
-        "height": "large",
-        "desktop_image_width": "medium",
+        "height": "adapt",
+        "desktop_image_width": "small",
         "full_width": false,
-        "layout": "image_first",
+        "layout": "text_first",
         "content_position": "text-left",
         "column_spacing": "medium",
         "color_bg": "#ffffff",
