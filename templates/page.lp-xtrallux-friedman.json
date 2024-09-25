@@ -296,7 +296,7 @@
         "layout": "text_first",
         "content_position": "text-left",
         "column_spacing": "medium",
-        "color_bg": "#f5f5f5",
+        "color_bg": "#ffffff",
         "color_text": "#2c2d2e",
         "color_border": "#e2e2e2",
         "disable_top_spacing": false,
