@@ -9,6 +9,45 @@
 */
 {
   "sections": {
+    "b6273969-f9b6-4a6a-8afb-856994c08021": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Turkey Hair Transplants:",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Pros and Cons You Need to Know - Expert Insights by Dr. Shelly Friedman</p>",
+            "size": "text-size-large"
+          }
+        }
+      },
+      "block_order": [
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1",
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1"
+      ],
+      "custom_css": [
+        ".text-button {margin-left: 30px;}"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "multicolumn_yDUc3H": {
       "type": "multicolumn",
       "blocks": {
@@ -46,9 +85,9 @@
         "column_4GMFiy"
       ],
       "settings": {
-        "heading": "Turkey Hair Transplants:",
+        "heading": "",
         "marker_style": "style1",
-        "description": "<p>The Pros and Cons You Need to Know - Expert Insights by Dr. Shelly Friedman</p>",
+        "description": "",
         "columns_desktop": 2,
         "mobile_swipe": false,
         "mobile_slideshow": false,
@@ -70,45 +109,6 @@
       ],
       "settings": {
         "custom_liquid": "<div id=\"learn-more\">&nbsp;</div>\n<style>\n#shopify-section-template--17527354065136__rich_text_WLqL9B {\n  background-color: #FAFAFA;\n}\n</style>"
-      }
-    },
-    "b6273969-f9b6-4a6a-8afb-856994c08021": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Welcome to a Transformative Experience in Hair Restoration",
-            "marker_style": "style1",
-            "size": "h3",
-            "marker_color": "#fd6262"
-          }
-        },
-        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dr. Friedman's clinic in Scottsdale, Arizona understands the impact of hair loss and is committed to offering you the most advanced solutions. Partnering with Xtrallux, <strong>we now include the groundbreaking Turbo Pro Laser Cap</strong> with each hair transplant procedure.</p>",
-            "size": "text-size-large"
-          }
-        }
-      },
-      "block_order": [
-        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1",
-        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1"
-      ],
-      "custom_css": [
-        ".text-button {margin-left: 30px;}"
-      ],
-      "settings": {
-        "text_width": "grid",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#d02030",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
       }
     },
     "image_with_text_qq4An6": {
@@ -945,9 +945,9 @@
     }
   },
   "order": [
+    "b6273969-f9b6-4a6a-8afb-856994c08021",
     "multicolumn_yDUc3H",
     "custom_liquid_YTDbwY",
-    "b6273969-f9b6-4a6a-8afb-856994c08021",
     "image_with_text_qq4An6",
     "image_with_text_ADxk7c",
     "8eac0c67-aae9-473f-8ef3-ee9428b60ebe",
