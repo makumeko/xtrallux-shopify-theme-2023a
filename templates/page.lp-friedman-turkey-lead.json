@@ -129,7 +129,6 @@
             "text": "<p>With decades of experience and a board certification in dermatology, Dr. Friedman has dedicated his career to advancing hair restoration techniques and training other doctors in this highly specialized field. Dr. Friedman believes that choosing the right hair transplant specialist is the most critical decision you’ll make.</p><p>Dr. Friedman has been very generous with his time and knowledge, training a number of well known hair transplant physicians. Dr. Friedman not only performs the latest hair restoration techniques but also has advanced the practice of hair transplantation with his own innovative ideas and skills.</p><p>Dr. Friedman also holds a Board Certification for Dermatology, the field dedicated to skin, nails, and hair loss & alopecia.</p>"
           }
         },
-        
         "collapsible_tab_EBHqAh": {
           "type": "collapsible_tab",
           "settings": {
@@ -143,14 +142,13 @@
       "block_order": [
         "heading_GXfXft",
         "text_9ERnEa",
-        "collapsible_tab_EBHqAh",
-        "forms_inline_LwqwCE"
+        "collapsible_tab_EBHqAh"
       ],
       "custom_css": [
         "a {color: #d02030;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Dr-Shelly-Friedman_1ea77dd7-10ca-4f7e-b3ae-9f66c0e8cf64.jpg",
+        "image": "shopify://shop_images/friedman_profile_square.jpg",
         "wistia_id": "",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
