@@ -58,7 +58,7 @@
             "image_link": "",
             "wistia_id": "",
             "title": "",
-            "text": "<p>Are you thinking about getting a hair transplant in Turkey? It’s a popular destination for affordable procedures, but are you aware of the potential risks? Dr. Shelly Friedman, Medical Director of Scottsdale Institute of Cosmetology and Founding President of the American Board of Hair Restoration Surgery, shares his expert analysis on the pros and cons of getting a hair transplant in Turkey versus the United States.</p>",
+            "text": "<p>Are you thinking about getting a hair transplant in Turkey? It’s a popular destination for affordable procedures, but are you aware of the potential risks? <strong>Dr. Shelly Friedman, Medical Director of Scottsdale Institute of Cosmetology and Founding President of the American Board of Hair Restoration Surgery</strong>, shares his expert analysis on the pros and cons of getting a hair transplant in Turkey versus the United States.</p>",
             "custom_html": "",
             "custom_liquid": "",
             "link_label": "",
@@ -117,7 +117,7 @@
         "heading_GXfXft": {
           "type": "heading",
           "settings": {
-            "text": "Why Choose Dr. Friedman for Your Hair Transplant?",
+            "text": "Why Trust Dr. Shelly Friedman?",
             "marker_style": "style1",
             "heading_size": "h3",
             "marker_color": "#fd6262"
@@ -126,21 +126,13 @@
         "text_9ERnEa": {
           "type": "text",
           "settings": {
-            "text": "<p>Dr. Friedman has dedicated his medical career to becoming a true specialist in hair restoration surgery. He is the Founding President of the American Board of Hair Restoration Surgery, the certifying board for hair transplant surgeons. Dr. Friedman believes that hair transplantation is a surgical specialty in itself and like other medical specialties, it requires professional oversight to protect the public from inexperienced surgeons. He has lectured extensively nationally and internationally at hair restoration and dermatology seminars. He has also taught his surgical techniques at live surgery workshops.</p><p>Dr. Friedman has been very generous with his time and knowledge, training a number of well known hair transplant physicians. Dr. Friedman not only performs the latest hair restoration techniques but also has advanced the practice of hair transplantation with his own innovative ideas and skills.</p><p>Dr. Friedman also holds a Board Certification for Dermatology, the field dedicated to skin, nails, and hair loss & alopecia.</p>"
-          }
-        },
-        "text_button_qrX4Xp": {
-          "type": "text-button",
-          "settings": {
-            "link_label": "Get more information",
-            "link": "#information"
+            "text": "<p>With decades of experience and a board certification in dermatology, Dr. Friedman has dedicated his career to advancing hair restoration techniques and training other doctors in this highly specialized field. Dr. Friedman believes that choosing the right hair transplant specialist is the most critical decision you’ll make.</p><p>Dr. Friedman has been very generous with his time and knowledge, training a number of well known hair transplant physicians. Dr. Friedman not only performs the latest hair restoration techniques but also has advanced the practice of hair transplantation with his own innovative ideas and skills.</p><p>Dr. Friedman also holds a Board Certification for Dermatology, the field dedicated to skin, nails, and hair loss & alopecia.</p>"
           }
         }
       },
       "block_order": [
         "heading_GXfXft",
-        "text_9ERnEa",
-        "text_button_qrX4Xp"
+        "text_9ERnEa"
       ],
       "custom_css": [
         "a {color: #d02030;}"
