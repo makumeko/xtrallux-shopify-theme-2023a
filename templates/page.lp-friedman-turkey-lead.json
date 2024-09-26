@@ -24,11 +24,11 @@
       ],
       "settings": {
         "image_parallax": false,
-        "desktop_height": "desktop-height-650",
+        "desktop_height": "desktop-height-550",
         "mobile_height": "mobile-height-500",
         "full_width": true,
         "content_width": "medium",
-        "content_position": "bottom-center",
+        "content_position": "middle-right",
         "text_alignment": "center",
         "text_color": "#FFFFFF",
         "overlay_color": "#000000",
