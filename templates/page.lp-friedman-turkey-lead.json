@@ -9,13 +9,32 @@
 */
 {
   "sections": {
-    "spacer_YkicCc": {
-      "type": "spacer",
+    "image_with_text_overlay_W9zwYj": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "custom_html_3znpMn": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div><script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>"
+          }
+        }
+      },
+      "block_order": [
+        "custom_html_3znpMn"
+      ],
       "settings": {
-        "spacer_mobile": 25,
-        "spacer_desktop": 50,
-        "border_separator": false,
-        "border_separator_full": false
+        "image_parallax": false,
+        "desktop_height": "desktop-height-650",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_width": "medium",
+        "content_position": "bottom-center",
+        "text_alignment": "center",
+        "text_color": "#FFFFFF",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
       }
     },
     "image_with_text_fD3JHK": {
@@ -343,7 +362,7 @@
     }
   },
   "order": [
-    "spacer_YkicCc",
+    "image_with_text_overlay_W9zwYj",
     "image_with_text_fD3JHK",
     "multicolumn_JYeARM",
     "b6273969-f9b6-4a6a-8afb-856994c08021",
