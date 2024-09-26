@@ -18,17 +18,48 @@
         "border_separator_full": false
       }
     },
+    "image_with_text_fD3JHK": {
+      "type": "image-with-text",
+      "blocks": {
+        "custom_html_8dz4qh": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div><script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>"
+          }
+        }
+      },
+      "block_order": [
+        "custom_html_8dz4qh"
+      ],
+      "settings": {
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "full_width": false,
+        "layout": "image_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#ffffff",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "multicolumn_JYeARM": {
       "type": "multicolumn",
       "blocks": {
-        "column_W8tjQL": {
+        "column_PNUHiV": {
           "type": "column",
           "settings": {
             "image_full_width": false,
             "image_link": "",
             "wistia_id": "",
-            "title": "Access Your Free Report Now",
-            "text": "<p>Dr. Friedman’s exclusive report covers everything you need to know before undergoing a hair transplant overseas, including:</p><ul><li>The real cost of hair transplants in Turkey</li><li>Risks of over-harvesting grafts</li><li>The long-term effects of unsafe hair transplantation techniques</li><li>Why donor area protection is crucial for future procedures</li><li>Hidden costs of medical tourism</li></ul>",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "custom_html": "",
             "custom_liquid": "",
             "link_label": "",
@@ -51,7 +82,7 @@
         }
       },
       "block_order": [
-        "column_W8tjQL",
+        "column_PNUHiV",
         "column_EH6gEj"
       ],
       "settings": {
@@ -313,6 +344,7 @@
   },
   "order": [
     "spacer_YkicCc",
+    "image_with_text_fD3JHK",
     "multicolumn_JYeARM",
     "b6273969-f9b6-4a6a-8afb-856994c08021",
     "custom_liquid_YTDbwY",
