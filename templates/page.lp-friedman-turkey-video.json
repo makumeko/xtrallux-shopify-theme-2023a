@@ -30,15 +30,23 @@
         "button_xJ4Gjp": {
           "type": "button",
           "settings": {
-            "button_text": "Get More Information",
+            "button_text": "Book My Free Consultation",
             "button_link": "#information"
+          }
+        },
+        "text_button_D7mFqJ": {
+          "type": "text-button",
+          "settings": {
+            "link_label": "Download Report",
+            "link": "https://cdn.shopify.com/s/files/1/0611/9410/9168/files/Hair_Transplants_Understanding_the_Pros_and_Cons_of_Medical_Tourism_e6cd58e3-28bd-45db-886a-de232aa0fe42.pdf?v=1727447626"
           }
         }
       },
       "block_order": [
         "heading_gCnPpN",
         "text_ykmi3R",
-        "button_xJ4Gjp"
+        "button_xJ4Gjp",
+        "text_button_D7mFqJ"
       ],
       "custom_css": [
         ".row,.section-image-with-text {background-color: #f2f3ee !important;}",
@@ -134,6 +142,53 @@
         "disable_bottom_spacing": false
       }
     },
+    "eb037b3e-47b8-495b-876b-8cab846bfd12": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_A9iWdr": {
+          "type": "subheading",
+          "settings": {
+            "text": "Video Transcript"
+          }
+        },
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Choosing a U.S.-Based Hair Transplant Specialist Could Save You from Long-Term Damage",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "04eb502a-df29-4af7-bb46-1783570e82ce": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Another question I get frequently asked is what's the difference between having a hair transplant performed in the United States or having it performed in Turkey?  And the the problem is that medical tourism is being sponsored to get patients to come to Turkey and being, having procedures being performed by Turkey.</p><p>Doctors and technicians that are not well trained. Uh, the problem today is that you can have somebody trained on doing FUE, um, in a very short period of time. But they need the experience to be able to know where the, what area of the scalp is safe. Uh, what we're finding by patients coming back from Turkey is that the technicians, uh, that are harvesting the grafts are taking them from too high up in an area that's unsafe.</p><p>Um, they're taking hair from an area that's too low. Some doctors call that borrowed hair. The problem is, is that the hair that they're taking from an unsafe area is eventually going to fall out.  The other problem that we see from Turkey is because they're charging such a low fee per graft, they have to do a lot of grafts to make hair.</p><p>it worthwhile for them and to get enough grafts for the patient. So whereas here we may think 2, 500 to 3, 000 grafts is a lot of grafts for FUE, in Turkey they're doing 4, 000 grafts per patient and that's over harvesting.  The problem is going to be down the road when the patient finally realizes they want to do more and they've been over harvested and there's no place to take more grafts.</p><p>And then unfortunately the patients, the reason they chose to do FUE to be able to keep their hair short, they're not going to be able to keep their hair short because what's going to happen is if you've had, Thousands of FUE graphs taken from this area. You're going to have to keep your hair longer to be able to camouflage those moth eaten or buckshot looking appearance. </p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_A9iWdr",
+        "c6ded546-903a-4a0e-89ef-f7330de6c6d1",
+        "04eb502a-df29-4af7-bb46-1783570e82ce"
+      ],
+      "custom_css": [
+        ".text-button {margin-left: 15px;}",
+        "@media only screen and (max-width: 768px) {.h3 {width: 70%; margin: 0 auto 15px auto; font-size: 22px; }}"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "left",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
     "image_with_text_qq4An6": {
       "type": "image-with-text",
       "blocks": {
@@ -178,56 +233,6 @@
         "desktop_image_width": "small",
         "full_width": false,
         "layout": "text_first",
-        "content_position": "text-left",
-        "column_spacing": "medium",
-        "color_bg": "#ffffff",
-        "color_text": "#2c2d2e",
-        "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "image_with_text_ADxk7c": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_nUHMcA": {
-          "type": "heading",
-          "settings": {
-            "text": "Enhance and Protect Your Investment with Xtrallux",
-            "marker_style": "style1",
-            "heading_size": "h3",
-            "marker_color": "#fd6262"
-          }
-        },
-        "text_QBPCMB": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li><strong>Cutting-Edge Technology</strong>: The Xtrallux Turbo Pro Laser Cap uses clinically proven low-level laser therapy to stimulate hair follicles, enhancing the thickness and health of your hair post-transplant.</li><li><strong>Faster Recovery</strong>: Integrating laser therapy can significantly reduce the healing time, allowing you to enjoy your new hair sooner.</li></ul>"
-          }
-        },
-        "text_button_LWAYXp": {
-          "type": "text-button",
-          "settings": {
-            "link_label": "Get more information",
-            "link": "#information"
-          }
-        }
-      },
-      "block_order": [
-        "heading_nUHMcA",
-        "text_QBPCMB",
-        "text_button_LWAYXp"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/doctor_holding_xtrallux_device_reasons.jpg",
-        "wistia_id": "",
-        "use_video": false,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "full_width": false,
-        "layout": "image_first",
         "content_position": "text-left",
         "column_spacing": "medium",
         "color_bg": "#ffffff",
@@ -654,69 +659,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "eb037b3e-47b8-495b-876b-8cab846bfd12": {
-      "type": "rich-text",
-      "blocks": {
-        "c6ded546-903a-4a0e-89ef-f7330de6c6d1": {
-          "type": "heading",
-          "settings": {
-            "text": "How Laser Therapy Helps Hair Regrowth",
-            "marker_style": "style1",
-            "size": "h3",
-            "marker_color": "#fd6262"
-          }
-        },
-        "04eb502a-df29-4af7-bb46-1783570e82ce": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Low-Level Laser Therapy (LLLT) utilizes specific wavelengths of light to stimulate hair follicles.</strong> This light energy enhances cellular activity in the scalp, promoting hair growth. Xtrallux targets weakened follicles, increasing blood circulation and nutrient flow, which strengthens hair, reduces hair loss, and encourages new growth. In just 6 minutes a day, Xtrallux harnesses FDA-cleared, clinically-proven technology to nurture the growth of new, healthier hair.</p>",
-            "size": "text-size-regular"
-          }
-        },
-        "heading_Qz6AgV": {
-          "type": "heading",
-          "settings": {
-            "text": "Hair Follicles Treated with Laser Therapy",
-            "marker_style": "style1",
-            "size": "h4",
-            "marker_color": "#fd6262"
-          }
-        }
-      },
-      "block_order": [
-        "c6ded546-903a-4a0e-89ef-f7330de6c6d1",
-        "04eb502a-df29-4af7-bb46-1783570e82ce",
-        "heading_Qz6AgV"
-      ],
-      "custom_css": [
-        ".text-button {margin-left: 15px;}",
-        "@media only screen and (max-width: 768px) {.h3 {width: 70%; margin: 0 auto 15px auto; font-size: 22px; }}"
-      ],
-      "settings": {
-        "text_width": "grid",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#d02030",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
-    "single_image_jnbqHP": {
-      "type": "single-image",
-      "custom_css": [
-        "@media only screen and (max-width: 768px) {img {padding: 25px; }}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/hair_treated_by_laser_desktop_cb4358ce-7cda-4e12-8479-ad15583384a0.svg",
-        "image_mobile": "shopify://shop_images/hair_treated_by_laser_mobile_a0f7c479-3a18-4b94-bba7-ba8578293c2a.svg",
-        "full_width": false,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c": {
       "type": "customer-reviews",
       "blocks": {
@@ -971,16 +913,14 @@
     "image_with_text_QVCdXd",
     "custom_liquid_YTDbwY",
     "multicolumn_tM7rLx",
+    "eb037b3e-47b8-495b-876b-8cab846bfd12",
     "image_with_text_qq4An6",
-    "image_with_text_ADxk7c",
     "8eac0c67-aae9-473f-8ef3-ee9428b60ebe",
     "multicolumn_CxgWT9",
     "multicolumn_eqHQ36",
     "media_with_tabs_PVza8E",
     "55ca32a3-3b3e-414a-92b2-cbc04ad5838f",
     "multicolumn_4LTBq9",
-    "eb037b3e-47b8-495b-876b-8cab846bfd12",
-    "single_image_jnbqHP",
     "50ac9c66-6a05-4ba1-96a8-218cd6ae464c",
     "testimonials_GBVFnx",
     "rich_text_WLqL9B",
