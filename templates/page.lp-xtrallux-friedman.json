@@ -53,7 +53,7 @@
         "wistia_id": "",
         "use_video": true,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_hosted": "shopify://files/videos/Shelley Friedman - Hair Transplant 0924.mp4",
+        "video_hosted": "shopify://files/videos/Shelley Friedman - Hair Transplant 0924c.mp4",
         "video_autoplay": true,
         "height": "adapt",
         "desktop_image_width": "large",
@@ -151,7 +151,7 @@
         "a {color: #d02030;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Dr-Shelly-Friedman_1ea77dd7-10ca-4f7e-b3ae-9f66c0e8cf64.jpg",
+        "image": "shopify://shop_images/Home-Page-Collage-NoBorder-min.jpg",
         "wistia_id": "",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
