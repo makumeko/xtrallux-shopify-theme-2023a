@@ -267,7 +267,7 @@
           "type": "text-button",
           "settings": {
             "link_label": "Book Free Consultation",
-            "link": "#information"
+            "link": "#consultation"
           }
         }
       },
