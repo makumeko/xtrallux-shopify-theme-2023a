@@ -23,8 +23,6 @@
         "custom_html_3znpMn"
       ],
       "settings": {
-        "image": "shopify://shop_images/Hero_Leads_Turkey_Text.jpg",
-        "mobile_image": "shopify://shop_images/Hero_Leads_Turkey_Text_mobile.jpg",
         "image_parallax": false,
         "desktop_height": "desktop-height-550",
         "mobile_height": "mobile-height-500",
@@ -34,7 +32,7 @@
         "text_alignment": "center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0,
+        "overlay_opacity": 33,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
