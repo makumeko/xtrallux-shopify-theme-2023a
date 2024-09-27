@@ -142,6 +142,15 @@
         "disable_bottom_spacing": false
       }
     },
+    "spacer_PkVg8X": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 25,
+        "spacer_desktop": 25,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "eb037b3e-47b8-495b-876b-8cab846bfd12": {
       "type": "rich-text",
       "blocks": {
@@ -188,15 +197,6 @@
         "disable_bottom_spacing": true
       }
     },
-    "spacer_PkVg8X": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 25,
-        "spacer_desktop": 25,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
     "spacer_LRA96m": {
       "type": "spacer",
       "settings": {
@@ -241,7 +241,7 @@
         "a {color: #d02030;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Dr-Shelly-Friedman_1ea77dd7-10ca-4f7e-b3ae-9f66c0e8cf64.jpg",
+        "image": "shopify://shop_images/Home-Page-Collage-NoBorder-min.jpg",
         "wistia_id": "",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
