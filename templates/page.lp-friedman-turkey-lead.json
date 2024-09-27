@@ -15,7 +15,7 @@
         "custom_html_3znpMn": {
           "type": "custom_html",
           "settings": {
-            "custom_html": "<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div><script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>"
+            "custom_html": "<div class=\"row\">\n\t\n\t<div class=\"small-12 medium-6 columns\">\n\t\t<div class=\"customer-reviews--review customer-reviews--review--has-bg\">\n<div class=\"customer-reviews--content\">\n<p>\"The best type of cap is based on how many diodes the cap actually has. The more diodes, the more energy; the more energy, the more chances that you're going to be able to stop your hair loss.\"<br><br>\n\t\t<!-- <i class=\"fa-duotone fa-circle-play\"></i> Watch Video --></p>\n<div class=\"customer-reviews--author\">\n\t\t<img class=\"no-blur lazyautosizes ls-is-cached lazyloaded\" width=\"279\" height=\"282\" data-sizes=\"auto\" src=\"//xtrallux.com/cdn/shop/files/Dr-Shelly-Friedman-headshot_64x64_crop_center.jpg?v=1721425458\" data-srcset=\"//xtrallux.com/cdn/shop/files/Dr-Shelly-Friedman-headshot_64x64_crop_center.jpg?v=1721425458 64w\" alt=\"\" style=\"object-position: 50.0% 50.0%;\" sizes=\"50px\" srcset=\"//xtrallux.com/cdn/shop/files/Dr-Shelly-Friedman-headshot_64x64_crop_center.jpg?v=1721425458 64w\">\n\t\t<noscript>\n\t\t<img width=\"279\" height=\"282\" sizes=\"auto\" src=\"//xtrallux.com/cdn/shop/files/Dr-Shelly-Friedman-headshot_64x64_crop_center.jpg?v=1721425458\" srcset=\"//xtrallux.com/cdn/shop/files/Dr-Shelly-Friedman-headshot_64x64_crop_center.jpg?v=1721425458 64w\" alt=\"\" loading=\"lazy\" style=\"object-position: 50.0% 50.0%;\">\n\t\t</noscript>\n\t\t<span>Dr. Shelly Friedman<br><span class=\"author--title\">Founding President, American Board of Hair Restoration Surgery</span></span>\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t</div>\n</div>\n\t\t\t\t\t\t\t</div>\n\t</div>\n\t\n\t<div class=\"small-12 medium-6 columns\">\n\t\t<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div>\n<script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>\n\t</div>\n\t\n</div>"
           }
         }
       },
@@ -28,97 +28,12 @@
         "mobile_height": "mobile-height-500",
         "full_width": true,
         "content_width": "medium",
-        "content_position": "middle-right",
+        "content_position": "middle-center",
         "text_alignment": "center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 33,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": false
-      }
-    },
-    "image_with_text_fD3JHK": {
-      "type": "image-with-text",
-      "blocks": {
-        "custom_html_8dz4qh": {
-          "type": "custom_html",
-          "settings": {
-            "custom_html": "<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div><script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>"
-          }
-        }
-      },
-      "block_order": [
-        "custom_html_8dz4qh"
-      ],
-      "settings": {
-        "wistia_id": "",
-        "use_video": false,
-        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_autoplay": true,
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "full_width": false,
-        "layout": "image_first",
-        "content_position": "text-left",
-        "column_spacing": "medium",
-        "color_bg": "#ffffff",
-        "color_text": "#2c2d2e",
-        "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "multicolumn_JYeARM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_PNUHiV": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "custom_html": "",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EH6gEj": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "",
-            "text": "",
-            "custom_html": "<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div><script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_PNUHiV",
-        "column_EH6gEj"
-      ],
-      "settings": {
-        "heading": "",
-        "marker_style": "style1",
-        "description": "",
-        "columns_desktop": 2,
-        "mobile_swipe": false,
-        "mobile_slideshow": false,
-        "image_ratio": "adapt",
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "color_heading": "#1a1c1d",
-        "marker_color": "#fd6262",
-        "color_text": "#2c2d2e",
-        "color_links": "#2c2d2e",
-        "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
     },
@@ -363,8 +278,6 @@
   },
   "order": [
     "image_with_text_overlay_W9zwYj",
-    "image_with_text_fD3JHK",
-    "multicolumn_JYeARM",
     "b6273969-f9b6-4a6a-8afb-856994c08021",
     "custom_liquid_YTDbwY",
     "image_with_text_qq4An6",
