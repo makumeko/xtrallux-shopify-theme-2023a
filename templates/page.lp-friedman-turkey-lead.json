@@ -27,7 +27,7 @@
         "desktop_height": "desktop-height-550",
         "mobile_height": "mobile-height-500",
         "full_width": true,
-        "content_width": "medium",
+        "content_width": "large",
         "content_position": "middle-center",
         "text_alignment": "center",
         "text_color": "#ffffff",
