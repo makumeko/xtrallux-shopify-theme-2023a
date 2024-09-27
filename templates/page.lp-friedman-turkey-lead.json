@@ -26,7 +26,6 @@
         ".image-with-text-overlay--content-inner.content-width-large {max-width: 100%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/Hero_Leads_v2.jpg",
         "image_parallax": false,
         "desktop_height": "desktop-height-550",
         "mobile_height": "mobile-height-500",
@@ -35,8 +34,8 @@
         "content_position": "middle-center",
         "text_alignment": "center",
         "text_color": "#ffffff",
-        "overlay_color": "#ffffff",
-        "overlay_opacity": 77,
+        "overlay_color": "#f6e8dd",
+        "overlay_opacity": 100,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
