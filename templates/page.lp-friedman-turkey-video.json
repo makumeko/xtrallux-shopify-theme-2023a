@@ -77,39 +77,58 @@
         "custom_liquid": "<div id=\"learn-more\">&nbsp;</div>\n<style>\n#shopify-section-template--17527354065136__rich_text_WLqL9B {\n  background-color: #FAFAFA;\n}\n</style>"
       }
     },
-    "text_with_icons_tARYJb": {
-      "type": "text-with-icons",
+    "multicolumn_tM7rLx": {
+      "type": "multicolumn",
       "blocks": {
-        "icon_Fpnhdj": {
-          "type": "icon",
+        "column_MDNwnL": {
+          "type": "column",
           "settings": {
-            "icon": "ruler",
-            "heading": "Heading",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+            "image": "shopify://shop_images/gq-logo-vector.svg",
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<h5>“The all-important question of the hairline’s location is one of the most concrete benefits of going with a qualified local clinic. Here in Turkey, with no pre-consultation, I knew I’d have to make a snap decision.” — GQ</h5>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "icon_p4YayT": {
-          "type": "icon",
+        "column_dBpkNc": {
+          "type": "column",
           "settings": {
-            "icon": "ruler",
-            "heading": "Heading",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+            "image": "shopify://shop_images/axios-logologotyp.us.svg",
+            "image_full_width": false,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "",
+            "text": "",
+            "custom_html": "<h5>“Though skilled doctors can be found abroad, it can be harder for patients to ensure they’re getting treated somewhere safe.” — Axios</h5>",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "icon_Fpnhdj",
-        "icon_p4YayT"
+        "column_MDNwnL",
+        "column_dBpkNc"
       ],
       "settings": {
-        "text_alignment": "left",
-        "icon_position": "left",
-        "icon_size": "large",
-        "heading_size": "large",
+        "heading": "",
+        "marker_style": "style1",
+        "description": "",
+        "columns_desktop": 2,
         "mobile_swipe": false,
-        "color_bg": "transparent",
+        "mobile_slideshow": false,
+        "image_ratio": "adapt",
+        "text_alignment": "center",
+        "heading_size": "h5",
         "color_heading": "#1a1c1d",
+        "marker_color": "#FD6262",
         "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
@@ -950,7 +969,7 @@
   "order": [
     "image_with_text_QVCdXd",
     "custom_liquid_YTDbwY",
-    "text_with_icons_tARYJb",
+    "multicolumn_tM7rLx",
     "image_with_text_qq4An6",
     "image_with_text_ADxk7c",
     "8eac0c67-aae9-473f-8ef3-ee9428b60ebe",
