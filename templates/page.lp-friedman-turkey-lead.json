@@ -22,6 +22,9 @@
       "block_order": [
         "custom_html_3znpMn"
       ],
+      "custom_css": [
+        ".image-with-text-overlay--content-inner.content-width-large {max-width: 100%;}"
+      ],
       "settings": {
         "image_parallax": false,
         "desktop_height": "desktop-height-550",
