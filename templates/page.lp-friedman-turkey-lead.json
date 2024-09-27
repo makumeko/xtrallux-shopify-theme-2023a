@@ -189,7 +189,7 @@
       ],
       "custom_css": [
         ".image-with-text-overlay--content-inner.content-width-large {max-width: 100%;}",
-        ".report-form {border:1px solid #c1c1c1; border-radius: 10px;}"
+        ".report-form {border: 1px solid #c1c1c1; border-radius: 10px; margin-bottom: 15px;}"
       ],
       "settings": {
         "image_parallax": false,
