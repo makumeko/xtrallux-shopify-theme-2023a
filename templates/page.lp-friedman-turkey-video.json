@@ -429,7 +429,7 @@
         "color_text": "#2c2d2e",
         "color_border": "#e2e2e2",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "multicolumn_CxgWT9": {
