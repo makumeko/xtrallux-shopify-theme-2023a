@@ -157,7 +157,7 @@
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "full_width": false,
         "layout": "text_first",
         "content_position": "text-left",
