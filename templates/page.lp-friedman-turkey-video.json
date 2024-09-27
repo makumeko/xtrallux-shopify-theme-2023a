@@ -135,7 +135,7 @@
         "text_alignment": "center",
         "heading_size": "h5",
         "color_heading": "#1a1c1d",
-        "marker_color": "#FD6262",
+        "marker_color": "#fd6262",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
         "disable_top_spacing": false,
@@ -351,7 +351,7 @@
         "forms_inline_LwqwCE": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
-            "form_id": "186691",
+            "form_id": "188500",
             "text_color": "#202020",
             "button_background_color": "#d02030",
             "button_label_color": "#ffffff",
