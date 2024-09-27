@@ -174,8 +174,7 @@
         "04eb502a-df29-4af7-bb46-1783570e82ce"
       ],
       "custom_css": [
-        ".text-button {margin-left: 15px;}",
-        "@media only screen and (max-width: 768px) {.h3 {width: 70%; margin: 0 auto 15px auto; font-size: 22px; }}"
+        ".text-button {margin-left: 15px;}"
       ],
       "settings": {
         "text_width": "grid",
