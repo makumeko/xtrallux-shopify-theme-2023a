@@ -320,7 +320,7 @@
           "type": "text-button",
           "settings": {
             "link_label": "Get more information",
-            "link": "#information"
+            "link": "#consultation"
           }
         }
       },
