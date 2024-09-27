@@ -1,0 +1,240 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "image_with_text_overlay_W9zwYj": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "custom_html_3znpMn": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<div class=\"row hero-content\">\n\t\n\t<div class=\"small-12 medium-6 columns\">\n\t\t<style>\n\t\t.hero-content {\n\t\t\talign-items: center;\npadding:0px !important;\n\t\t}\n\t\t.trust-hero.customer-reviews--review {\n\t\t  font-size: larger;\n\t\t  color: #424242;\n\t\t}\n\t\t.customer-reviews--author img {\n\t\t\tborder-radius: 100px;\n\t\t\twidth: 120px !important;\n\t\t\theight: 120px !important;\n\t\t\tmargin-bottom: 10px;\n\t\t}\n\t\t.customer-reviews--content p {\n\t\t  font-weight: bold !important;\n\t\t}\n\t\t.trust-hero-author {\n\t\t  font-size: 0.9rem;\n\t\t}\n.rich-text-row-ai, .announcement-bar-section {\ndisplay:none;\n}\n\t\t</style>\n\t\t<div class=\"trust-hero customer-reviews--review customer-reviews--review--has-bg\">\n\t\t\t<div class=\"customer-reviews--author\">\n\t\t\t\t<img src=\"https://cdn.shopify.com/s/files/1/0611/9410/9168/files/drfriedman-1719986392.jpg?v=1727363969\" width=\"250px\">\n\t\t\t</div>\n\t\t\t<div class=\"customer-reviews--content\">\n\t\t\t\t<p>Considering a hair transplant overseas? Before making your decision, learn about the risks and benefits from Dr. Shelly Friedman, a pioneer in hair restoration surgery.\n\t\t\t\t</p>\n\t\t\t</div>\n\t\t</div>\n\t\t<br>\n\t</div>\n\t\n\t<div class=\"small-12 medium-6 columns\">\n\t\t<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div>\n<script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>\n\t</div>\n\t\n</div>"
+          }
+        }
+      },
+      "block_order": [
+        "custom_html_3znpMn"
+      ],
+      "custom_css": [
+        ".image-with-text-overlay--content-inner.content-width-large {max-width: 100%;}"
+      ],
+      "settings": {
+        "image_parallax": false,
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_width": "large",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "text_color": "#ffffff",
+        "overlay_color": "#f6e8dd",
+        "overlay_opacity": 100,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "b6273969-f9b6-4a6a-8afb-856994c08021": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Turkey Hair Transplants:",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Pros and Cons You Need to Know - Expert Insights by Dr. Shelly Friedman</p>",
+            "size": "text-size-large"
+          }
+        },
+        "text_Wg9qFT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you thinking about getting a hair transplant in Turkey? It’s a popular destination for affordable procedures, but are you aware of the potential risks? <strong>Dr. Shelly Friedman, Medical Director of Scottsdale Institute of Cosmetology and Founding President of the American Board of Hair Restoration Surgery</strong>, shares his expert analysis on the pros and cons of getting a hair transplant in Turkey versus the United States.</p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-heading-1",
+        "template--16395351589064__b6273969-f9b6-4a6a-8afb-856994c08021-text-1",
+        "text_Wg9qFT"
+      ],
+      "custom_css": [
+        ".text-button {margin-left: 30px;}"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "#f5f5f5",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#d02030",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "custom_liquid_YTDbwY": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<div id=\"learn-more\">&nbsp;</div>\n<style>\n#shopify-section-template--17527354065136__rich_text_WLqL9B {\n  background-color: #FAFAFA;\n}\n</style>"
+      }
+    },
+    "image_with_text_qq4An6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GXfXft": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Trust Dr. Shelly Friedman?",
+            "marker_style": "style1",
+            "heading_size": "h3",
+            "marker_color": "#fd6262"
+          }
+        },
+        "text_9ERnEa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With decades of experience and a board certification in dermatology, Dr. Friedman has dedicated his career to advancing hair restoration techniques and training other doctors in this highly specialized field. Dr. Friedman believes that choosing the right hair transplant specialist is the most critical decision you’ll make.</p><p>Dr. Friedman has been very generous with his time and knowledge, training a number of well known hair transplant physicians. Dr. Friedman not only performs the latest hair restoration techniques but also has advanced the practice of hair transplantation with his own innovative ideas and skills.</p><p>Dr. Friedman also holds a Board Certification for Dermatology, the field dedicated to skin, nails, and hair loss & alopecia.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GXfXft",
+        "text_9ERnEa"
+      ],
+      "custom_css": [
+        "a {color: #d02030;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/drfriedman-1719986392.jpg",
+        "wistia_id": "",
+        "use_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "full_width": false,
+        "layout": "text_first",
+        "content_position": "text-left",
+        "column_spacing": "medium",
+        "color_bg": "#ffffff",
+        "color_text": "#2c2d2e",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "testimonials_GBVFnx": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_cRqxqH": {
+          "type": "quote",
+          "settings": {
+            "stars": "5",
+            "text": "“I received the most amazing treatment that I experienced. I had done this before and what I received by Dr Friedman was comparing day and night. This is the best treatment that you can receive if interested in Hair transplants.”",
+            "author": "Parvis. S"
+          }
+        }
+      },
+      "block_order": [
+        "quote_cRqxqH"
+      ],
+      "custom_css": [
+        ".testimonials--author {line-height: 18px;}"
+      ],
+      "settings": {
+        "heading": "",
+        "full_width": true,
+        "text_size": "large",
+        "font_family": "heading",
+        "pagination": "logos",
+        "autoplay": false,
+        "autoplay_length": 5,
+        "color_bg": "#fafafa",
+        "color_text": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_overlay_nbCdiW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "custom_html_miGARN": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<div class=\"row hero-content\">\n\t<div class=\"small-12 medium-6 columns report-form\">\n\t\t<div class=\"powr-form-builder\" id=\"6b0e35fe_1727364171\"></div>\n<script src=\"https://www.powr.io/powr.js?platform=shopify\"></script>\n\t</div>\n<br>\n\t<div class=\"small-12 medium-6 columns\">\n\t\t<div class=\"trust-hero customer-reviews--review customer-reviews--review--has-bg\">\n\t\t\t<div class=\"customer-reviews--content\">\n\t\t\t\t<p>Dr. Friedman’s exclusive report covers everything you need to know before undergoing a hair transplant overseas, including:\n\t\t\t\t</p>\n\t\t\t\t<ul style=\"text-align: left;\">\n\t\t\t\t\t<li>The real cost of hair transplants in Turkey.</li>\n\t\t\t\t\t<li>Risks of over-harvesting grafts.</li>\n\t\t\t\t\t<li>The long-term effects of unsafe hair transplantation techniques.</li>\n\t\t\t\t\t<li>Why donor area protection is crucial for future procedures.</li>\n\t\t\t\t\t<li>Hidden costs of medical tourism.</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>"
+          }
+        }
+      },
+      "block_order": [
+        "custom_html_miGARN"
+      ],
+      "custom_css": [
+        ".image-with-text-overlay--content-inner.content-width-large {max-width: 100%;}",
+        ".report-form {border: 1px solid #c1c1c1; border-radius: 10px; margin-bottom: 15px;}"
+      ],
+      "settings": {
+        "image_parallax": false,
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_width": "large",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "text_color": "#ffffff",
+        "overlay_color": "#ffffff",
+        "overlay_opacity": 77,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "custom_liquid_cJDgFp": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"information\">&nbsp;</div>"
+      }
+    },
+    "171504270992ae7b05": {
+      "type": "apps",
+      "settings": {
+      }
+    },
+    "spacer_79Cacd": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 20,
+        "spacer_desktop": 50,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_W9zwYj",
+    "b6273969-f9b6-4a6a-8afb-856994c08021",
+    "custom_liquid_YTDbwY",
+    "image_with_text_qq4An6",
+    "testimonials_GBVFnx",
+    "image_with_text_overlay_nbCdiW",
+    "custom_liquid_cJDgFp",
+    "171504270992ae7b05",
+    "spacer_79Cacd"
+  ]
+}
