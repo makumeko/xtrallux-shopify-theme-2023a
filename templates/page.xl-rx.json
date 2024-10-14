@@ -27,6 +27,12 @@
       "settings": {
       }
     },
+    "custom_liquid_bCF4gi": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n@media only screen and (max-width: 768px) {\n.announcement-bar-section {\n\tdisplay: none;\n  }\n}\n</style>"
+      }
+    },
     "rich_text_redpUt": {
       "type": "rich-text",
       "blocks": {
@@ -186,6 +192,7 @@
   "order": [
     "template-header",
     "main",
+    "custom_liquid_bCF4gi",
     "rich_text_redpUt",
     "image_with_text_87tTq4",
     "rich_text_fB3EEx",
