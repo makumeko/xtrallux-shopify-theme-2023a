@@ -527,6 +527,79 @@
         "border_separator_full": false
       }
     },
+    "rich_text_zAg4na": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xTRWFp": {
+          "type": "heading",
+          "settings": {
+            "text": "Important Safety Information",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#FD6262"
+          }
+        },
+        "text_kyn8nG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What you should know before using Roman Hair Solution Rx.</p>",
+            "size": "text-size-regular"
+          }
+        },
+        "button_8A6k69": {
+          "type": "button",
+          "settings": {
+            "link_label": "Read Safety Information",
+            "wistia_id": "",
+            "tf_data": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xTRWFp",
+        "text_kyn8nG",
+        "button_8A6k69"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "modal_aw_VCcWYj": {
+      "type": "modal-aw",
+      "blocks": {
+        "heading_jLAamm": {
+          "type": "heading",
+          "settings": {
+            "text": "Information for Topical Finasteride",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#FD6262"
+          }
+        },
+        "custom_liquid_WnEwjm": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h2>Information for Topical Finasteride</h2>\n<p>Important safety information you should know about the active ingredients in Xtrallux Hair Solution Rx</p><ul>\n<li>Topical Finasteride</li>\n<li>Topical Minoxidil</li>\n<li>Topical Tretinoin</li>\n</ul>\n<p>⠀What is topical finasteride used for?\nFinasteride is an oral prescription medication that is FDA-approved to treat male pattern hair loss (androgenetic alopecia) in men only. It is not for use in women.\nYour Ro-affiliated provider may recommend the use of topical finasteride on the scalp as a treatment for hair loss, in combination with topical minoxidil and topical tretinoin as a compounded product.\nThe compounded treatment is for men only, and should not be used or handled by women or children.\nWho should not use topical finasteride?\nDo not use topical finasteride if:</p><ul>\n<li>You are a woman. The compounded treatment is for men only, and should not be used or handled by women, especially if they are pregnant or trying to become pregnant. In animal studies, finasteride caused abnormal development of genitalia in male fetuses.</li>\n<li>Your scalp is red, inflamed, infected, irritated, or painful.</li>\n<li>You have a known allergic reaction to topical finasteride.</li>\n</ul>\n<p>⠀How should I use the topical treatment?\nStep 1: Spray it Use the spray to cover the areas on your scalp that experience hair loss, which may include the crown of the head and/or each side of a receding hairline. Do not exceed 4 sprays total. When you spray, make sure you press the sprayer firmly, all the way down.\nStep 2: Massage it Once you’ve sprayed on the solution, massage it into the balding areas of the scalp. Tip your head back slightly to prevent any solution from running down your forehead.\nStep 3: Remove any excess medication and wash your hands Wipe away any excess medication that may have run onto your face or down your head, and wash your hands well after you finish.\nStep 4: Let it dry Let the solution dry so it can absorb properly into the scalp. You may apply the solution to wet or dry hair, but allow it to dry completely before applying other products. If you apply the solution in the morning, try not to get your hair wet before the end of the day. If you apply at night, you can wash your hair the next morning.\nAvoid getting the medication in your eyes. If this occurs, rinse your eyes with large amounts of cool water. Wash your hands thoroughly after each use.\nWhat should I tell my Ro-affiliated provider before using topical finasteride?</p><ul>\n<li>It’s important to tell your Ro-affiliated provider all of the medications you are currently taking, including prescription, over-the-counter medications, vitamins, and herbal and dietary supplements.</li>\n<li>It’s important to share your entire medical history with your provider. In particular, tell your provider if you have or have a past history of:\n<ul>\n<li>Erectile dysfunction</li>\n<li>Depression</li>\n<li>Thoughts of self-harm</li>\n<li>Prostate cancer</li>\n<li>Breast cancer</li>\n</ul>\n</li>\n</ul>\n<p>⠀Withholding or providing inaccurate information about your health and medical history in order to obtain treatment may result in harm, including, in some cases, death.\nWhat are the most serious side effects that I or a caregiver should monitor for when taking finasteride?\nIf you are experiencing a medical emergency, call 911 or seek immediate medical attention.</p><ul>\n<li>Effects on Prostate-Specific Antigen (PSA) levels: Finasteride can decrease PSA levels. When checking PSA levels, let your provider know that you are taking finasteride for an accurate interpretation of the results. A PSA test is used as a screening tool for prostate cancer.</li>\n<li>Increased Risk of High-Grade Prostate Cancer with 5α-Reductase Inhibitors: In two studies studying 5α-reductase inhibitors for the prevention of prostate cancer, an increase in high-grade prostate cancer was found.</li>\n</ul>\n<p>⠀What are the most common side effects of topical finasteride?\nIf you have any of the following symptoms on the scalp while using your treatment, reach out to your Ro-affiliated provider for guidance.</p><ul>\n<li>Scalp irritation, including burning, itching, redness, or bumps</li>\n<li>Scalp flaking</li>\n<li>A temporary shedding of hair in the initial weeks of treatment</li>\n<li>Changes in hair texture</li>\n</ul>\n<p>⠀Due to topical application of finasteride, skin-related side effects may be experienced at a higher rate. However, systemic side effects may still occur and it is important to be aware of them. These side effects include:</p><ul>\n<li>Decreased libido</li>\n<li>Erectile dysfunction</li>\n<li>Ejaculation disorder</li>\n<li>Mood changes</li>\n<li>Decreased sperm count</li>\n</ul>\n<p>⠀You are encouraged to report negative side effects of prescription products to the FDA. Visit <u><a href='https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program?utm_source=emailstream_2d&utm_medium=email&utm_campaign=Syfovre_Brand_Patient&utm_content=FDA_Medwatch'>www.fda.gov/medwatch</a></u> or call 1-800-FDA-1088.\nThis information is not comprehensive. Please see the full <u><a href='https://www.organon.com/product/usa/pi_circulars/p/propecia/propecia_pi.pdf%29%20for%20complete%20safety%20information'>Prescribing Information.</a></u></p>\n<p>Important Safety Information for Topical Minoxidil\nWhat is topical minoxidil used for?\nYour Ro-affiliated provider may recommend the use of topical minoxidil on the scalp as a treatment for hair loss, in combination with topical finasteride and topical tretinoin as a compounded product.\nThe compounded treatment is for men only, and should not be used or handled by women or children.\nWho should not use topical minoxidil?\nDo not use topical minoxidil if:</p><ul>\n<li>You have a known allergic reaction to topical minoxidil.</li>\n<li>Your scalp is red, inflamed, infected, irritated, or painful.</li>\n<li>You are a woman. The compounded treatment is for men only, and should not be used or handled by women.</li>\n</ul>\n<p>⠀How should I use the topical treatment?\nStep 1: Spray it Use the spray to cover the areas on your scalp that experience hair loss, which may include the crown of the head and/or each side of a receding hairline. Do not exceed 4 sprays total. When you spray, make sure you press the sprayer firmly, all the way down.\nStep 2: Massage it Once you’ve sprayed on the solution, massage it into the balding areas of the scalp. Tip your head back slightly to prevent any solution from running down your forehead.\nStep 3: Remove any excess medication and wash your hands Wipe away any excess medication that may have run onto your face or down your head, and wash your hands well after you finish.\nStep 4: Let it dry Let the solution dry so it can absorb properly into the scalp. You may apply the solution to wet or dry hair, but allow it to dry completely before applying other products. If you apply the solution in the morning, try not to get your hair wet before the end of the day. If you apply at night, you can wash your hair the next morning.\nAvoid getting the medication in your eyes. If this occurs, rinse your eyes with large amounts of cool water. Wash your hands thoroughly after each use.\nWhat should I tell my Ro-affiliated provider before using topical minoxidil?</p><ul>\n<li>It’s important to tell your Ro-affiliated provider all of the topical as well as oral medications you are currently using, including prescription, over-the-counter medications, vitamins, and herbal and dietary supplements, even if you think they are unrelated to the condition being treated. Let your provider know if you are using or planning to use any other topical scalp treatments.</li>\n<li>It’s important to share your entire medical history with your provider. In particular, tell your provider if you have a history of heart disease.</li>\n</ul>\n<p>⠀What are the most serious side effects that I should monitor for when using topical minoxidil?\nIf you are experiencing a medical emergency, call 911 or seek immediate medical attention.\nThese serious side effects are rare, but may occur with topical minoxidil. Tell your provider if:</p><ul>\n<li>Chest pain, rapid heartbeat, faintness, or dizziness occurs</li>\n<li>Sudden, unexplained weight gain occurs</li>\n<li>Your hands or feet swell</li>\n<li>Scalp irritation or redness occurs</li>\n<li>Unwanted facial hair growth occurs</li>\n<li>Inflammatory reaction with blistering occurs Withholding or providing inaccurate information about your health and medical history in order to obtain treatment may result in harm, including, in some cases, death.</li>\n</ul>\n<p>⠀What are the most common side effects of topical minoxidil?\nIf you have any of the following symptoms on the scalp while using your treatment, reach out to your Ro-affiliated provider for guidance.</p><ul>\n<li>Itching</li>\n<li>Skin irritation</li>\n</ul>\n<p>⠀You are encouraged to report negative side effects of prescription products to the FDA. Visit ~<a href='https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program?utm_source=emailstream_2d&utm_medium=email&utm_campaign=Syfovre_Brand_Patient&utm_content=FDA_Medwatch'>www.fda.gov/medwatch</a>~or call 1-800-FDA-1088.\nThis information is not comprehensive. Please see the full <u><a href='https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccaecec5-5348-4b24-9190-5464c50f6d80'>Prescribing Information</a></u> for complete safety information.</p>\n<p>Important Safety Information for Tretinoin\nWhat is tretinoin used for? Tretinoin is a topical prescription medication that is FDA-approved to treat acne and to reduce the appearance of fine lines and wrinkles and other signs of photoaging on the face.\nYour Ro-affiliated provider may recommend the use of topical tretinoin on the scalp as a treatment for hair loss, in combination with topical finasteride and topical minoxidil as a compounded product.\nThe compounded treatment is for men only, and should not be used or handled by women or children.\nWho should not use tretinoin?\nDo not use tretinoin if:</p><ul>\n<li>You have a known allergic reaction to tretinoin</li>\n<li>Your scalp is red, inflamed, infected, irritated, or painful</li>\n<li>You are a woman. The compounded treatment is for men only, and should not be used or handled by women.</li>\n</ul>\n<p>⠀How should I use the topical treatment? Step 1: Spray it Use the spray to cover the areas on your scalp that experience hair loss, which may include the crown of the head and/or each side of a receding hairline. Do not exceed 4 sprays total. When you spray, make sure you press the sprayer firmly, all the way down.\nStep 2: Massage it Once you’ve sprayed on the solution, massage it into the balding areas of the scalp. Tip your head back slightly to prevent any solution from running down your forehead.\nStep 3: Remove any excess medication and wash your hands Wipe away any excess medication that may have run onto your face or down your head, and wash your hands well after you finish.\nStep 4: Let it dry Let the solution dry so it can absorb properly into the scalp. You may apply the solution to wet or dry hair, but allow it to dry completely before applying other products. If you apply the solution in the morning, try not to get your hair wet before the end of the day. If you apply at night, you can wash your hair the next morning.\nAvoid getting the medication in your eyes. If this occurs, rinse your eyes with large amounts of cool water. Wash your hands thoroughly after each use.\nWhat should I tell my Ro-affiliated provider before using tretinoin?</p><ul>\n<li>It’s important to tell your Ro-affiliated provider all of the topical as well as oral medications you are currently using, including prescription, over-the-counter medications, vitamins, and herbal and dietary supplements. Tell your provider if you are using or planning to use any other topical scalp treatments.</li>\n<li>Tretinoin can make the skin on your scalp more sensitive to the sun and can cause drying and peeling.\n<ul>\n<li>Using tretinoin with other topical drying agents can increase the drying effects of tretinoin.</li>\n<li>Some common oral medications that can make your skin more sensitive to the sun, such as certain antibiotics and blood pressure medications, might exacerbate any sun sensitivity resulting from tretinoin use.</li>\n</ul>\n</li>\n<li>It’s important to share your entire medical history with your provider. In particular, tell your provider if you have a history of:\n<ul>\n<li>Eczema</li>\n<li>Sensitivity to the sun or are easily sunburned</li>\n<li>Conditions that may increase sensitivity to sunlight. These include systemic lupus erythematosus, cutaneous lupus erythematosus, albinism, and porphyria</li>\n</ul>\n</li>\n</ul>\n<p>⠀Withholding or providing inaccurate information about your health and medical history in order to obtain treatment may result in harm, including, in some cases, death.\nWhat are the most serious side effects that I should monitor for when using tretinoin?\nIf you are experiencing a medical emergency, call 911 or seek immediate medical attention.\nThese serious side effects are rare, but may occur with tretinoin.</p><ul>\n<li>Skin discoloration</li>\n<li>Inflammatory reaction with blistering</li>\n</ul>\n<p>⠀What are the most common side effects of tretinoin?\nIf you have any of the following symptoms on the scalp while using your treatment, reach out to your Ro-affiliated provider for guidance.</p><ul>\n<li>Dryness</li>\n<li>Itching</li>\n<li>Burning</li>\n<li>Redness</li>\n<li>Peeling</li>\n</ul>\n<p>⠀You are encouraged to report negative side effects of prescription products to the FDA. Visit <u><a href='https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program?utm_source=emailstream_2d&utm_medium=email&utm_campaign=Syfovre_Brand_Patient&utm_content=FDA_Medwatch'>www.fda.gov/medwatch</a></u> or call 1-800-FDA-1088.\nThis information is not comprehensive. Please see the full <u><a href='https://pi.bauschhealth.com/globalassets/BHC/PI/RetinAMicro-PI.pdf'>Prescribing Information</a></u> for complete safety information.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jLAamm",
+        "custom_liquid_WnEwjm"
+      ],
+      "settings": {
+        "modalbt_id": "safetyInformation"
+      }
+    },
     "171891743433b56dff": {
       "type": "apps",
       "settings": {
@@ -547,6 +620,8 @@
     "spacer_GkMifT",
     "collapsible_content_mWq7z9",
     "spacer_LPQgRD",
+    "rich_text_zAg4na",
+    "modal_aw_VCcWYj",
     "171891743433b56dff"
   ]
 }
