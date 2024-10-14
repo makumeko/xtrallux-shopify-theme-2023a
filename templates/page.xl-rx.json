@@ -100,6 +100,9 @@
         "custom_html_bmhjPB",
         "button_H6WEBV"
       ],
+      "custom_css": [
+        ".button {width: 100%; margin-top: 25px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/Hero_Product.jpg",
         "wistia_id": "",
