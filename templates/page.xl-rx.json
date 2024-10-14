@@ -383,6 +383,9 @@
         "column_ahB8hz",
         "column_xJadJK"
       ],
+      "custom_css": [
+        "img {width: 300px;}"
+      ],
       "settings": {
         "heading": "You’re only four steps away from a fuller, healthier head of hair.",
         "marker_style": "style1",
