@@ -27,6 +27,47 @@
       "settings": {
       }
     },
+    "rich_text_redpUt": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pRMEtY": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"hlight\">Say Goodbye to Thinning Hair, </span>Hello to Confidence",
+            "marker_style": "style1",
+            "size": "h2",
+            "marker_color": "#FD6262"
+          }
+        },
+        "heading_KAMNJc": {
+          "type": "heading",
+          "settings": {
+            "text": "Talk about your brand",
+            "marker_style": "style1",
+            "size": "h3",
+            "marker_color": "#FD6262"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pRMEtY",
+        "heading_KAMNJc"
+      ],
+      "custom_css": [
+        ".hlight {font-weight: 300; }"
+      ],
+      "settings": {
+        "text_width": "grid",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_heading": "#1a1c1d",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "image_with_text_87tTq4": {
       "type": "image-with-text",
       "blocks": {
@@ -36,7 +77,7 @@
             "text": "Image with text",
             "marker_style": "style1",
             "heading_size": "h3",
-            "marker_color": "#FD6262"
+            "marker_color": "#fd6262"
           }
         },
         "text_fww3bM": {
@@ -83,7 +124,7 @@
             "text": "Talk about your brand",
             "marker_style": "style1",
             "size": "h3",
-            "marker_color": "#FD6262"
+            "marker_color": "#fd6262"
           }
         },
         "text_49tE8V": {
@@ -130,6 +171,7 @@
   "order": [
     "template-header",
     "main",
+    "rich_text_redpUt",
     "image_with_text_87tTq4",
     "rich_text_fB3EEx",
     "171891743433b56dff"
