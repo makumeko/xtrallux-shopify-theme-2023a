@@ -385,7 +385,6 @@
       ],
       "custom_css": [
         ".section-header {justify-content: center; align-content: center;}",
-        ".multicolumn__column {background-color: #F4F7F9; padding: 20px; border-radius:15px;}",
         ".multicolumn__image {width: 45px !important;}"
       ],
       "settings": {
