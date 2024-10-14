@@ -402,7 +402,8 @@
       ],
       "custom_css": [
         ".section-header {justify-content: center; align-content: center;}",
-        ".multicolumn__image {width: 45px !important;}"
+        ".multicolumn__image {width: 45px !important;}",
+        "@media (max-width: 768px) {.section-header {text-align:center;} }"
       ],
       "settings": {
         "heading": "You’re only four steps away from a fuller, healthier head of hair.",
