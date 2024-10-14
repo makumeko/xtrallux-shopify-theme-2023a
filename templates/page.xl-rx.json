@@ -130,55 +130,49 @@
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_fB3EEx": {
-      "type": "rich-text",
+    "image_with_text_overlay_MFEnjg": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_n3brXq": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading for this section"
-          }
-        },
-        "heading_c8HUYE": {
+        "heading_pJi74R": {
           "type": "heading",
           "settings": {
-            "text": "Talk about your brand",
-            "marker_style": "style1",
-            "size": "h3",
-            "marker_color": "#fd6262"
+            "text": "Image with text overlay",
+            "heading_size": "h1"
           }
         },
-        "text_49tE8V": {
+        "text_aTBR4T": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "size": "text-size-regular"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description_size": "medium"
           }
         },
-        "button_Bfc3wj": {
+        "button_KfXdpD": {
           "type": "button",
           "settings": {
-            "link_label": "Learn More",
-            "wistia_id": "n2nftcw37x",
-            "tf_data": "",
-            "link": ""
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_color": "accent"
           }
         }
       },
       "block_order": [
-        "subheading_n3brXq",
-        "heading_c8HUYE",
-        "text_49tE8V",
-        "button_Bfc3wj"
+        "heading_pJi74R",
+        "text_aTBR4T",
+        "button_KfXdpD"
       ],
       "settings": {
-        "text_width": "large",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "#ebebed",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#2c2d2e",
+        "image": "shopify://shop_images/HowitWorks_BG_93af1f77-b458-4c66-89e7-59dc61161ef7.jpg",
+        "image_parallax": false,
+        "desktop_height": "desktop-height-550",
+        "mobile_height": "mobile-height-500",
+        "full_width": false,
+        "content_width": "medium",
+        "content_position": "middle-left",
+        "text_alignment": "left",
+        "text_color": "#FFFFFF",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
@@ -195,7 +189,7 @@
     "custom_liquid_bCF4gi",
     "rich_text_redpUt",
     "image_with_text_87tTq4",
-    "rich_text_fB3EEx",
+    "image_with_text_overlay_MFEnjg",
     "171891743433b56dff"
   ]
 }
