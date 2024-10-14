@@ -201,12 +201,20 @@
             "button_text": "Get Started",
             "button_link": ""
           }
+        },
+        "button_kJiAGD": {
+          "type": "button",
+          "settings": {
+            "button_text": "Learn More",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "heading_K7f7tC",
         "text_WxmcCM",
-        "button_MqTNPd"
+        "button_MqTNPd",
+        "button_kJiAGD"
       ],
       "custom_css": [
         ".image-with-text--content--inner {margin: 0px;}",
