@@ -247,6 +247,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/HowitWorks_BG_93af1f77-b458-4c66-89e7-59dc61161ef7.jpg",
+        "mobile_image": "shopify://shop_images/HowitWorks_Mobile.jpg",
         "image_parallax": false,
         "desktop_height": "desktop-height-550",
         "mobile_height": "mobile-height-500",
