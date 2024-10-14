@@ -66,7 +66,7 @@
 							{% if block.settings.wistia_id != blank %}
 								<span class="wistia_embed wistia_async_{{ block.settings.wistia_id }} popover=true popoverAnimateThumbnail=true popoverContent=link" style="display:inline;position:relative">
 							{% endif %}
-							<a class="button accent"{% if block.settings.link_label == blank %} id="{{block.settings.btn_id}}aa" aria-disabled="true"{% else %} href="{{ block.settings.link }}"{% endif %} {{ block.shopify_attributes }} {% if block.settings.tf_data %}data-tf-popup="{{block.settings.tf_data}}"{% endif %}>{{ block.settings.link_label }}</a>
+							<a class="button accent" id="{{block.settings.btn_id}}"{% if block.settings.link_label == blank %} aria-disabled="true"{% else %} href="{{ block.settings.link }}"{% endif %} {{ block.shopify_attributes }} {% if block.settings.tf_data %}data-tf-popup="{{block.settings.tf_data}}"{% endif %}>{{ block.settings.link_label }}</a>
 							{% if block.settings.wistia_id != blank %}
 								</span>
 							{% endif %}
