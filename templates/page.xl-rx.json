@@ -54,7 +54,8 @@
         "heading_KAMNJc"
       ],
       "custom_css": [
-        ".hlight {font-weight: 300;}"
+        ".hlight {font-weight: 300;}",
+        ".xlaccent {color: #D41926;}"
       ],
       "settings": {
         "text_width": "grid",
