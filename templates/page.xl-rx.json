@@ -295,7 +295,7 @@
         ".image-with-text--content--inner {margin: 0px;}",
         ".button {width: 220px;}",
         ".image-with-text--content--inner a:nth-of-type(2) {margin-left: 20px; background-color: transparent; color: #424242; border: 1px solid #ccd6df;}",
-        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; } a {width: 100%; } .image-with-text--content--inner a:nth-of-type(2) {margin-left: 0px; margin-top: 20px; }}"
+        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; } a.button {width: 100%; } .image-with-text--content--inner a:nth-of-type(2) {margin-left: 0px; margin-top: 20px; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Spray_Unique_Product_696d5102-5d11-4986-90a8-65e594eeb158.jpg",
