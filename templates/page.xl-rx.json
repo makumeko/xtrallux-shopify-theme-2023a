@@ -101,7 +101,8 @@
         "button_H6WEBV"
       ],
       "custom_css": [
-        ".button {width: 100%; margin-top: 25px;}"
+        ".button {width: 100%; margin-top: 25px;}",
+        ".image-with-text--content--inner {margin: 0px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/Hero_Product_e8534263-be9a-44dd-90d8-5a2c540add5b.jpg",
