@@ -454,7 +454,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "What’s the difference between minoxidil and finasteride?",
-            "open": false,
+            "open": true,
             "content": "<p>Minoxidil and finasteride address hair loss through different methods. Finasteride works by blocking a hormone called DHT, which can cause hair follicles to shrink and contribute to hair thinning. In contrast, minoxidil is believed to extend the growth phase of hair follicles, promoting fuller hair.</p>",
             "page": ""
           }
