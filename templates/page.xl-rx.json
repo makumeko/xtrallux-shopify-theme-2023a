@@ -194,7 +194,8 @@
         "column_GmPeKT"
       ],
       "custom_css": [
-        ".multicolumn__image--inner img {border-radius: 15px;}"
+        ".multicolumn__image--inner img {border-radius: 15px;}",
+        "@media only screen and (max-width: 768px) {.section-spacing {margin-bottom:0px; }}"
       ],
       "settings": {
         "heading": "The Science Behind the Compound",
@@ -246,7 +247,7 @@
         "button_KfXdpD"
       ],
       "custom_css": [
-        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; } .image-with-text-overlay {height: 700px; align-items: flex-start }}"
+        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; } .image-with-text-overlay {height: 700px; align-items: flex-start; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/HowitWorks_BG_93af1f77-b458-4c66-89e7-59dc61161ef7.jpg",
