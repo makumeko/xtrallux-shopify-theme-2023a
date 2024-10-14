@@ -42,9 +42,9 @@
         "heading_KAMNJc": {
           "type": "heading",
           "settings": {
-            "text": "Talk about your brand",
+            "text": "<span class=\"hlight\">Meet <span class=\"xlaccent\">Xtrallux RX 3-in-1 Spray</span> your new secret weapon in the battle against baldness</span>",
             "marker_style": "style1",
-            "size": "h3",
+            "size": "h4",
             "marker_color": "#FD6262"
           }
         }
@@ -54,7 +54,7 @@
         "heading_KAMNJc"
       ],
       "custom_css": [
-        ".hlight {font-weight: 300; }"
+        ".hlight {font-weight: 300;}"
       ],
       "settings": {
         "text_width": "grid",
