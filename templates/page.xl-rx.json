@@ -30,7 +30,7 @@
     "custom_liquid_bCF4gi": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n@media only screen and (max-width: 768px) {\n.announcement-bar-section {\n\tdisplay: none;\n  }\n}\n</style>"
+        "custom_liquid": "<style>\n@media only screen and (max-width: 768px) {\n.announcement-bar-section {\n\tdisplay: none;\n  }\n}\nfigure {\nborder-radius: 15px !important;\n}\n</style>"
       }
     },
     "rich_text_redpUt": {
