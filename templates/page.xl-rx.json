@@ -429,6 +429,9 @@
         "text_cbFq7D",
         "button_tNWPG6"
       ],
+      "custom_css": [
+        ".button {background-color: #D02030;}"
+      ],
       "settings": {
         "text_width": "grid",
         "text_position": "center",
