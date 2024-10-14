@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         ".hlight {font-weight: 300;}",
-        ".xlaccent {color: #D41926;}"
+        ".xlaccent {color: #d41926;}"
       ],
       "settings": {
         "text_width": "grid",
@@ -75,24 +75,33 @@
         "heading_jh3jHj": {
           "type": "heading",
           "settings": {
-            "text": "Image with text",
+            "text": "Why Choose Xtrallux RX Spray?",
             "marker_style": "style1",
-            "heading_size": "h3",
+            "heading_size": "h4",
             "marker_color": "#fd6262"
           }
         },
-        "text_fww3bM": {
-          "type": "text",
+        "custom_html_bmhjPB": {
+          "type": "custom_html",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+            "custom_html": "<style>\n\t.icon_line {\n\t\tdisplay: flex;\n\t\talign-items: center;\n\t\tgap: 10px;\n\t}\n\t.icon {\n\t\twidth: 24px;\n\t\theight: 24px;\n\t\tbackground-color: #e60000;\n\t\turl(\"\");\n\t}\n</style>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nPrescription-strength Triple-Action Formula\n</div>\n<ul>\n\t<li>Finasteride (0.3%): Slows down hair loss</li>\n\t<li>Minoxidil (8%): Promotes hair regrowth</li>\n\t<li>Tretinoin (0.025%): Enhances minoxidil absorption</li>\n</ul>\n<hr>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nConvenient Once-Daily Application\n</div>\n<ul>\n\t<li>Fits seamlessly into your daily routine</li>\n\t<li>Fine-mist pre-measured sprayer for quick and easy use</li>\n</ul>\n<hr>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nScientifically Proven Ingredients\n</div>\n<ul>\n\t<li>Prescription-strength treatment</li>\n\t<li>Targets both hair loss prevention and regrowth</li>\n</ul>"
+          }
+        },
+        "button_H6WEBV": {
+          "type": "button",
+          "settings": {
+            "button_text": "Get Started",
+            "button_link": ""
           }
         }
       },
       "block_order": [
         "heading_jh3jHj",
-        "text_fww3bM"
+        "custom_html_bmhjPB",
+        "button_H6WEBV"
       ],
       "settings": {
+        "image": "shopify://shop_images/Hero_Product.jpg",
         "wistia_id": "",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
