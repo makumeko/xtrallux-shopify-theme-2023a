@@ -84,7 +84,7 @@
         "custom_html_bmhjPB": {
           "type": "custom_html",
           "settings": {
-            "custom_html": "<style>\n\t.icon_line {\n\t\tdisplay: flex;\n\t\talign-items: center;\n\t\tgap: 10px;\n\t}\n\t.icon {\n\t\twidth: 24px;\n\t\theight: 24px;\n\t\tbackground-color: #e60000;\n\t\turl(\"\");\n\t}\n</style>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nPrescription-strength Triple-Action Formula\n</div>\n<ul>\n\t<li>Finasteride (0.3%): Slows down hair loss</li>\n\t<li>Minoxidil (8%): Promotes hair regrowth</li>\n\t<li>Tretinoin (0.025%): Enhances minoxidil absorption</li>\n</ul>\n<hr>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nConvenient Once-Daily Application\n</div>\n<ul>\n\t<li>Fits seamlessly into your daily routine</li>\n\t<li>Fine-mist pre-measured sprayer for quick and easy use</li>\n</ul>\n<hr>\n<div class=\"icon_line\">\n<span class=\"icon\"></span>\nScientifically Proven Ingredients\n</div>\n<ul>\n\t<li>Prescription-strength treatment</li>\n\t<li>Targets both hair loss prevention and regrowth</li>\n</ul>"
+            "custom_html": "<style>\n\t.icon_line {\n\t\tdisplay: flex;\n\t\talign-items: center;\n\t\tgap: 10px;\n\t\tfont-weight: bold;\n\t\tpadding-bottom: 5px;\n\t}\n\t.icon_line .icon {\n\t\twidth: 24px;\n\t\theight: 24px;\n\t}\n\t.icon_line .icon img {\n\t\tvertical-align: middle;\n\t}\n\thr {\n\t\tpadding: 10px 0;\n\t}\n</style>\n<div class=\"rx_features\">\n\t<div class=\"icon_line\">\n\t<span class=\"icon\"><img src=\"https://cdn.shopify.com/s/files/1/0611/9410/9168/files/RX_Strong_Icon_2441b536-3057-4858-966f-a058e8315662.svg?v=1728920028\"></span>\n\tPrescription-strength Triple-Action Formula\n\t</div>\n\t<ul>\n\t\t<li>Finasteride (0.3%): Slows down hair loss</li>\n\t\t<li>Minoxidil (8%): Promotes hair regrowth</li>\n\t\t<li>Tretinoin (0.025%): Enhances minoxidil absorption</li>\n\t</ul>\n\t<hr>\n\t<div class=\"icon_line\">\n\t<span class=\"icon\"><img src=\"https://cdn.shopify.com/s/files/1/0611/9410/9168/files/RX_Spray_Icon_290526d1-90bd-46b8-b768-0da27f3832a4.svg?v=1728920028\"></span>\n\tConvenient Once-Daily Application\n\t</div>\n\t<ul>\n\t\t<li>Fits seamlessly into your daily routine</li>\n\t\t<li>Fine-mist pre-measured sprayer for quick and easy use</li>\n\t</ul>\n\t<hr>\n\t<div class=\"icon_line\">\n\t<span class=\"icon\"><img src=\"https://cdn.shopify.com/s/files/1/0611/9410/9168/files/RX_Prescription_Icon_18952d8d-478b-4596-b8a5-f1ad5a6db88f.svg?v=1728920027\"></span>\n\tScientifically Proven Ingredients\n\t</div>\n\t<ul>\n\t\t<li>Prescription-strength treatment</li>\n\t\t<li>Targets both hair loss prevention and regrowth</li>\n\t</ul>\n</div>"
           }
         },
         "button_H6WEBV": {
@@ -111,7 +111,7 @@
         "full_width": false,
         "layout": "image_first",
         "content_position": "text-left",
-        "column_spacing": "medium",
+        "column_spacing": "large",
         "color_bg": "#ffffff",
         "color_text": "#2c2d2e",
         "color_border": "#e2e2e2",
