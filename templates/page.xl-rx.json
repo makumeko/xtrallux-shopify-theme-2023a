@@ -424,6 +424,7 @@
             "link_label": "Start Now",
             "wistia_id": "",
             "tf_data": "",
+            "btn_id": "",
             "link": ""
           }
         }
@@ -552,6 +553,7 @@
             "link_label": "Read Safety Information",
             "wistia_id": "",
             "tf_data": "",
+            "btn_id": "safetyInformation",
             "link": "#safetyInformation"
           }
         }
