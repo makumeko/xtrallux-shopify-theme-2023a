@@ -33,6 +33,15 @@
         "custom_liquid": "<style>\n.image-with-text--image img, .image-with-text-overlay--bg img {\nborder-radius: 15px\n}\n@media only screen and (max-width: 768px) {\n.announcement-bar-section {\n\tdisplay: none;\n  }\n.image-with-text--image img, .image-with-text-overlay--bg img {\nborder-radius: 0px\n}\n}\n</style>"
       }
     },
+    "spacer_4y3CQF": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 25,
+        "spacer_desktop": 100,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
     "rich_text_redpUt": {
       "type": "rich-text",
       "blocks": {
@@ -612,6 +621,7 @@
     "template-header",
     "main",
     "custom_liquid_bCF4gi",
+    "spacer_4y3CQF",
     "rich_text_redpUt",
     "image_with_text_87tTq4",
     "multicolumn_ePL8iG",
