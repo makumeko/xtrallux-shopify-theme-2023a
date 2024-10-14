@@ -42,7 +42,7 @@
             "text": "<span class=\"hlight\">Say Goodbye to Thinning Hair, </span>Hello to Confidence",
             "marker_style": "style1",
             "size": "h2",
-            "marker_color": "#FD6262"
+            "marker_color": "#fd6262"
           }
         },
         "heading_KAMNJc": {
@@ -51,7 +51,7 @@
             "text": "<span class=\"hlight\">Meet <span class=\"xlaccent\">Xtrallux RX 3-in-1 Spray</span> your new secret weapon in the battle against baldness</span>",
             "marker_style": "style1",
             "size": "h4",
-            "marker_color": "#FD6262"
+            "marker_color": "#fd6262"
           }
         }
       },
@@ -67,12 +67,87 @@
         "text_width": "grid",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_heading": "#1a1c1d",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
         "disable_top_spacing": false,
         "disable_bottom_spacing": true
+      }
+    },
+    "multicolumn_ePL8iG": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dR8GWF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blocks_DHT_bc9d41d9-892e-484e-bc5b-25dbe021b83b.jpg",
+            "image_full_width": true,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "Blocks DHT",
+            "text": "<p>Finasteride blocks DHT, the hormone responsible for male pattern baldness</p>",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mNyMfy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Regrows_Hair_6f1d8693-7254-4902-99b9-0999bbfe346d.jpg",
+            "image_full_width": true,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "Regrows Hair",
+            "text": "<p>Minoxidil stimulates hair follicles and promotes new growth</p>",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GmPeKT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Enhance_Absorbion_15934071-432d-4f84-84b7-ea1ebb4f7b2e.jpg",
+            "image_full_width": true,
+            "image_link": "",
+            "wistia_id": "",
+            "title": "Enhanced  Effect",
+            "text": "<p>Tretinoin enhances the scalp's ability to absorb minoxidil</p>",
+            "custom_html": "",
+            "custom_liquid": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dR8GWF",
+        "column_mNyMfy",
+        "column_GmPeKT"
+      ],
+      "custom_css": [
+        ".multicolumn__image--inner img {border-radius: 15px;}"
+      ],
+      "settings": {
+        "heading": "How it Works",
+        "marker_style": "style1",
+        "description": "",
+        "columns_desktop": 3,
+        "mobile_swipe": false,
+        "mobile_slideshow": false,
+        "image_ratio": "adapt",
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "color_heading": "#1a1c1d",
+        "marker_color": "#fd6262",
+        "color_text": "#2c2d2e",
+        "color_links": "#2c2d2e",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
       }
     },
     "image_with_text_87tTq4": {
@@ -241,81 +316,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "multicolumn_ePL8iG": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dR8GWF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blocks_DHT_bc9d41d9-892e-484e-bc5b-25dbe021b83b.jpg",
-            "image_full_width": true,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "Blocks DHT",
-            "text": "<p>Finasteride blocks DHT, the hormone responsible for male pattern baldness</p>",
-            "custom_html": "",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mNyMfy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Regrows_Hair_6f1d8693-7254-4902-99b9-0999bbfe346d.jpg",
-            "image_full_width": true,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "Regrows Hair",
-            "text": "<p>Minoxidil stimulates hair follicles and promotes new growth</p>",
-            "custom_html": "",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GmPeKT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Enhance_Absorbion_15934071-432d-4f84-84b7-ea1ebb4f7b2e.jpg",
-            "image_full_width": true,
-            "image_link": "",
-            "wistia_id": "",
-            "title": "Enhanced  Effect",
-            "text": "<p>Tretinoin enhances the scalp's ability to absorb minoxidil</p>",
-            "custom_html": "",
-            "custom_liquid": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dR8GWF",
-        "column_mNyMfy",
-        "column_GmPeKT"
-      ],
-      "custom_css": [
-        ".multicolumn__image--inner img {border-radius: 15px;}"
-      ],
-      "settings": {
-        "heading": "How it Works",
-        "marker_style": "style1",
-        "description": "",
-        "columns_desktop": 3,
-        "mobile_swipe": false,
-        "mobile_slideshow": false,
-        "image_ratio": "adapt",
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "color_heading": "#1a1c1d",
-        "marker_color": "#FD6262",
-        "color_text": "#2c2d2e",
-        "color_links": "#2c2d2e",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "multicolumn_hkzVNL": {
       "type": "multicolumn",
       "blocks": {
@@ -401,7 +401,7 @@
         "text_alignment": "center",
         "heading_size": "h5",
         "color_heading": "#1a1c1d",
-        "marker_color": "#FD6262",
+        "marker_color": "#fd6262",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
         "disable_top_spacing": true,
@@ -439,7 +439,7 @@
         "text_width": "grid",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_heading": "#1a1c1d",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
@@ -500,10 +500,10 @@
         "description": "",
         "color_bg": "#f5f5f5",
         "color_heading": "#1a1c1d",
-        "marker_color": "#FD6262",
+        "marker_color": "#fd6262",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
-        "color_border": "#DADCE0",
+        "color_border": "#dadce0",
         "section_width": "100%",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
@@ -530,9 +530,9 @@
     "custom_liquid_bCF4gi",
     "rich_text_redpUt",
     "image_with_text_87tTq4",
+    "multicolumn_ePL8iG",
     "image_with_text_overlay_MFEnjg",
     "image_with_text_YtXXaf",
-    "multicolumn_ePL8iG",
     "multicolumn_hkzVNL",
     "rich_text_c7zdGq",
     "collapsible_content_mWq7z9",
