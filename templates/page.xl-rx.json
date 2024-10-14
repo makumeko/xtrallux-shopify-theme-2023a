@@ -384,8 +384,8 @@
         "column_xJadJK"
       ],
       "custom_css": [
-        ".multicolumn__image {width: 45px !important;}",
-        ".section-header--title {justify-content: center; align-content: center;}"
+        ".section-header {justify-content: center; align-content: center;}",
+        ".multicolumn__image {width: 45px !important;}"
       ],
       "settings": {
         "heading": "You’re only four steps away from a fuller, healthier head of hair.",
