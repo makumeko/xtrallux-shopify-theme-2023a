@@ -453,45 +453,36 @@
         "collapsible_tab_RfEUR7": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What’s the difference between minoxidil and finasteride?",
             "open": false,
-            "content": "",
+            "content": "<p>Finasteride and minoxidil work by different mechanisms. Finasteride protects your hair follicles from a hormone called DHT that can make hair follicles shrink and lead to hair loss. Minoxidil, on the other hand, is thought to increase the growth phase of hair follicl</p>",
             "page": ""
           }
         },
         "collapsible_tab_RJDL8V": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Does minoxidil work better when combined with finasteride?",
             "open": false,
-            "content": "",
+            "content": "<p>Because they work in different ways, topical finasteride and topical minoxidil are often combined to attack hair loss more comprehensively. Oral finasteride is also frequently used with topical minoxidil.</p>",
             "page": ""
           }
         },
         "collapsible_tab_bTyKPa": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What’s the difference between topical and oral finasteride?",
             "open": false,
-            "content": "",
+            "content": "<p>Oral finasteride (generic Propecia) is FDA-approved for male pattern hair loss and taken as a 1mg tablet once per day. Meanwhile, topical finasteride is a compounded medication intended for hair loss treatment.</p><p>Topical finasteride contains the same active ingredient found in the oral medication, but it’s applied to the scalp using a spray instead of taken as a tablet. Oral finasteride treatment has been shown to stop hair loss in 83% of men with male pattern baldness who took it for two years.</p><p>Newer research shows that topical application is also effective; a <a href=\"https://pubmed.ncbi.nlm.nih.gov/34634163/\" target=\"_blank\">2022 randomized controlled trial</a> found 0.25% topical finasteride significantly improved hair counts compared to placebo and its effect on hair density was similar to that of oral finasteride after 24 weeks.</p>",
             "page": ""
           }
         },
         "collapsible_tab_HKCALC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How does tretinoin work for hair regrowth?",
             "open": false,
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_tab_xpyBUD": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "open": false,
-            "content": "",
+            "content": "<p>Scientific research has shown that tretinoin enhances absorption of minoxidil. Read more about these studies<a href=\"https://pubmed.ncbi.nlm.nih.gov/2328551/\" target=\"_blank\">here</a>and<a href=\"https://pubmed.ncbi.nlm.nih.gov/30974011/\" target=\"_blank\">here</a>.</p>",
             "page": ""
           }
         }
@@ -500,15 +491,14 @@
         "collapsible_tab_RfEUR7",
         "collapsible_tab_RJDL8V",
         "collapsible_tab_bTyKPa",
-        "collapsible_tab_HKCALC",
-        "collapsible_tab_xpyBUD"
+        "collapsible_tab_HKCALC"
       ],
       "settings": {
-        "heading": "Collapsible content",
+        "heading": "Common questions",
         "full_width": false,
         "marker_style": "style1",
-        "description": "<p>Add a short description for this section</p>",
-        "color_bg": "transparent",
+        "description": "",
+        "color_bg": "#f5f5f5",
         "color_heading": "#1a1c1d",
         "marker_color": "#FD6262",
         "color_text": "#2c2d2e",
