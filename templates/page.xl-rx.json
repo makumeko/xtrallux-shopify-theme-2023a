@@ -71,7 +71,7 @@
         "color_heading": "#1a1c1d",
         "color_text": "#2c2d2e",
         "color_links": "#2c2d2e",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": true
       }
     },
