@@ -551,7 +551,7 @@
           "settings": {
             "link_label": "Read Safety Information",
             "wistia_id": "",
-            "tf_data": "safetyInformation",
+            "tf_data": "",
             "link": "#safetyInformation"
           }
         }
