@@ -550,8 +550,8 @@
           "type": "button",
           "settings": {
             "link_label": "Read Safety Information",
-            "wistia_id": "safetyInformation",
-            "tf_data": "",
+            "wistia_id": "",
+            "tf_data": "safetyInformaion",
             "link": "#safetyInformation"
           }
         }
