@@ -293,6 +293,7 @@
         },
         "button_kJiAGD": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_text": "Learn More",
             "button_link": ""
