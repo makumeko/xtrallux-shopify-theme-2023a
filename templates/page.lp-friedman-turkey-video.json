@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_with_text_QVCdXd": {
@@ -61,7 +61,7 @@
         "wistia_id": "",
         "use_video": true,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "video_hosted": "shopify://files/videos/Shelly Friedman - Hair Transplant Turkey 0924b.mp4",
+        "video_hosted": "shopify://files/videos/Shelly Friedman - Hair Transplant Turkey 0924 - ST.mp4",
         "video_autoplay": true,
         "height": "adapt",
         "desktop_image_width": "large",
@@ -722,6 +722,7 @@
             "link_label": "Start Now",
             "wistia_id": "",
             "tf_data": "",
+            "btn_id": "",
             "link": "#consultation"
           }
         }
