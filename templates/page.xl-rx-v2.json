@@ -68,7 +68,7 @@
         "h3 {font-size: 2.5rem; line-height: 2.7rem;}",
         ".hlight {font-weight: 300;}",
         ".xlaccent {color: #d41926;}",
-        "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 2rem; line-height: 2.2rem;}}"
+        "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 2rem; line-height: 2.2rem; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/hero_variation_3.jpg",
@@ -121,7 +121,7 @@
       "custom_css": [
         ".button {width: 100%; margin-top: 25px;}",
         ".image-with-text--content--inner {margin: 0px;}",
-        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; }}"
+        "@media only screen and (max-width: 768px) {.row, .small-12 {padding: 0px; } .image-with-text--content {order: 1; } .image-with-text--image {order: 2; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/Hero_Product_e8534263-be9a-44dd-90d8-5a2c540add5b.jpg",
