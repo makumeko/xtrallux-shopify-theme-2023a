@@ -68,6 +68,7 @@
         "h3 {font-size: 2.5rem; line-height: 2.7rem;}",
         ".hlight {font-weight: 300;}",
         ".xlaccent {color: #d41926;}",
+        ".image-with-text--image img, .image-with-text-overlay--bg img {border-radius: 0px}",
         "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 2rem; line-height: 2.2rem; }}"
       ],
       "settings": {
@@ -84,7 +85,7 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "disable_bottom_spacing": false
       }
     },
     "image_with_text_87tTq4": {
