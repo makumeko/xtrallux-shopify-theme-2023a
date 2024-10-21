@@ -39,14 +39,14 @@
         "heading_yeezBJ": {
           "type": "heading",
           "settings": {
-            "text": "<span class=\"hlight\">Say Goodbye to Thinning Hair, </span>Hello to Confidence",
+            "text": "Regrow. Restore. Renew.",
             "heading_size": "h1-xlarge"
           }
         },
         "text_JeDwyH": {
           "type": "text",
           "settings": {
-            "text": "<p>Meet Xtrallux RX 3-in-1 Spray your new secret weapon in the battle against baldness</p>",
+            "text": "<p>Discover the Xtrallux RX 3-in-1 Spray—your ultimate defense against thinning hair.</p>",
             "description_size": "large"
           }
         },
@@ -65,10 +65,10 @@
         "button_YRG8x6"
       ],
       "custom_css": [
-        "h3 {font-size: 2.5rem; line-height: 2.7rem;}",
+        "h3 {font-size: 3rem; line-height: 2.7rem;}",
         ".hlight {font-weight: 300;}",
         ".xlaccent {color: #d41926;}",
-        ".image-with-text--image img, .image-with-text-overlay--bg img {border-radius: 0px}",
+        ".image-with-text--image img,.image-with-text-overlay--bg img {border-radius: 0px;}",
         "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 2rem; line-height: 2.2rem; }}"
       ],
       "settings": {
