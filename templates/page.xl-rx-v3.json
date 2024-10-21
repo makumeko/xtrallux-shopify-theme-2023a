@@ -69,7 +69,7 @@
         ".hlight {font-weight: 300;}",
         ".xlaccent {color: #d41926;}",
         ".image-with-text--image img,.image-with-text-overlay--bg img {border-radius: 0px;}",
-        "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 2rem; line-height: 2.2rem; }}"
+        "@media only screen and (max-width: 768px) {.image-with-text-overlay {height: 800px; align-items: flex-start; } h3 {font-size: 1.8rem; line-height: 2.2rem; } .content-middle-right {padding:5px; } }"
       ],
       "settings": {
         "image": "shopify://shop_images/hero_variation_4_fdc60256-365c-4c76-a5d5-28a4c9ca0745.jpg",
