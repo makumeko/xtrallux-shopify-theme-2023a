@@ -43,17 +43,17 @@
             "heading_size": "h1-xlarge"
           }
         },
-        "heading_PDrd8d": {
-          "type": "heading",
+        "text_JeDwyH": {
+          "type": "text",
           "settings": {
-            "text": "<span class=\"hlight\">Meet <span class=\"xlaccent\">Xtrallux RX 3-in-1 Spray</span> your new secret weapon in the battle against baldness</span>",
-            "heading_size": "h1-xlarge"
+            "text": "<p>Meet Xtrallux RX 3-in-1 Spray your new secret weapon in the battle against baldness</p>",
+            "description_size": "large"
           }
         },
         "button_YRG8x6": {
           "type": "button",
           "settings": {
-            "button_text": "Shop Now",
+            "button_text": "Start Now",
             "button_link": "",
             "button_color": "accent"
           }
@@ -61,7 +61,7 @@
       },
       "block_order": [
         "heading_yeezBJ",
-        "heading_PDrd8d",
+        "text_JeDwyH",
         "button_YRG8x6"
       ],
       "custom_css": [
@@ -83,57 +83,6 @@
         "overlay_opacity": 0,
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
-      }
-    },
-    "spacer_4y3CQF": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 25,
-        "spacer_desktop": 100,
-        "border_separator": false,
-        "border_separator_full": false
-      }
-    },
-    "rich_text_redpUt": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_pRMEtY": {
-          "type": "heading",
-          "settings": {
-            "text": "<span class=\"hlight\">Say Goodbye to Thinning Hair, </span>Hello to Confidence",
-            "marker_style": "style1",
-            "size": "h2",
-            "marker_color": "#fd6262"
-          }
-        },
-        "heading_KAMNJc": {
-          "type": "heading",
-          "settings": {
-            "text": "<span class=\"hlight\">Meet <span class=\"xlaccent\">Xtrallux RX 3-in-1 Spray</span> your new secret weapon in the battle against baldness</span>",
-            "marker_style": "style1",
-            "size": "h4",
-            "marker_color": "#fd6262"
-          }
-        }
-      },
-      "block_order": [
-        "heading_pRMEtY",
-        "heading_KAMNJc"
-      ],
-      "custom_css": [
-        ".hlight {font-weight: 300;}",
-        ".xlaccent {color: #d41926;}"
-      ],
-      "settings": {
-        "text_width": "grid",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_heading": "#1a1c1d",
-        "color_text": "#2c2d2e",
-        "color_links": "#2c2d2e",
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
       }
     },
     "image_with_text_87tTq4": {
@@ -181,7 +130,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "full_width": false,
-        "layout": "image_first",
+        "layout": "text_first",
         "content_position": "text-left",
         "column_spacing": "large",
         "color_bg": "#ffffff",
@@ -681,8 +630,6 @@
     "main",
     "custom_liquid_bCF4gi",
     "image_with_text_overlay_fBDWtW",
-    "spacer_4y3CQF",
-    "rich_text_redpUt",
     "image_with_text_87tTq4",
     "multicolumn_ePL8iG",
     "image_with_text_overlay_MFEnjg",
