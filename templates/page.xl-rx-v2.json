@@ -33,6 +33,58 @@
         "custom_liquid": "<style>\n.image-with-text--image img, .image-with-text-overlay--bg img {\nborder-radius: 15px\n}\n@media only screen and (max-width: 768px) {\n.announcement-bar-section {\n\tdisplay: none;\n  }\n.image-with-text--image img, .image-with-text-overlay--bg img {\nborder-radius: 0px\n}\n}\n</style>"
       }
     },
+    "image_with_text_overlay_fBDWtW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_yeezBJ": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"hlight\">Say Goodbye to Thinning Hair, </span>Hello to Confidence",
+            "heading_size": "h1-xlarge"
+          }
+        },
+        "heading_PDrd8d": {
+          "type": "heading",
+          "settings": {
+            "text": "<span class=\"hlight\">Meet <span class=\"xlaccent\">Xtrallux RX 3-in-1 Spray</span> your new secret weapon in the battle against baldness</span>",
+            "heading_size": "h1-xlarge"
+          }
+        },
+        "button_YRG8x6": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_color": "accent"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yeezBJ",
+        "heading_PDrd8d",
+        "button_YRG8x6"
+      ],
+      "custom_css": [
+        "h3 {font-size: 2.5rem; line-height: 2.7rem;}",
+        ".hlight {font-weight: 300;}",
+        ".xlaccent {color: #d41926;}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hero_variation_3.jpg",
+        "image_parallax": false,
+        "desktop_height": "desktop-height-650",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "content_width": "medium",
+        "content_position": "middle-right",
+        "text_alignment": "center",
+        "text_color": "#2c2d2e",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
     "spacer_4y3CQF": {
       "type": "spacer",
       "settings": {
@@ -628,6 +680,7 @@
     "template-header",
     "main",
     "custom_liquid_bCF4gi",
+    "image_with_text_overlay_fBDWtW",
     "spacer_4y3CQF",
     "rich_text_redpUt",
     "image_with_text_87tTq4",
