@@ -39,7 +39,7 @@
         "heading_yeezBJ": {
           "type": "heading",
           "settings": {
-            "text": "Revitalize Your Hair, Reclaim Your Confidence",
+            "text": "Revitalize Your Hair, <br>Reclaim Your Confidence",
             "heading_size": "h1-xlarge"
           }
         },
